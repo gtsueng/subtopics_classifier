@@ -1,0 +1,183 @@
+	keywords	count
+115	air pollution	218
+127	air quality	99
+3521	wastewater	69
+3216	temperature	62
+2348	particulate matter	61
+2299	ozone	58
+2473	pm2.5	49
+2504	pollution	46
+1049	environment	35
+3539	wastewater-based epidemiology	30
+1101	environmental pollution	29
+1548	humidity	28
+2145	nitrogen dioxide	27
+2937	sewage	26
+2457	pm(2.5)	25
+521	climate change	25
+1615	india	23
+3571	weather	22
+113	air pollutants	21
+131	air quality index	20
+886	disinfection	20
+2155	no(2)	19
+2161	no2	17
+149	airborne transmission	17
+64	aerosol	16
+518	climate	16
+1631	indoor air quality	15
+1084	environmental impact	15
+3181	sustainability	14
+3541	water	14
+2470	pm10	14
+1410	health	13
+3436	ventilation	13
+707	covid-19 lockdown	12
+1726	italy	12
+3601	wind speed	12
+1940	meteorology	12
+3611	wuhan	11
+3174	surveillance	11
+2310	ozone therapy	11
+1017	emissions	10
+3335	tropomi	10
+3532	wastewater surveillance	9
+1014	emission reduction	9
+3540	wastewater-based epidemiology (wbe)	9
+2456	pm(10)	9
+3533	wastewater treatment	9
+2221	o3	8
+2812	rt-qpcr	8
+2524	population density	8
+1609	incidence	8
+2290	oxidative stress	8
+2503	pollutants	8
+79	aerosols	8
+1304	generalized additive model	8
+142	airborne	8
+2894	seasonality	8
+1605	inactivation	8
+1221	fine particulate matter	8
+2444	plastic pollution	8
+3515	waste management	8
+2725	relative humidity	8
+668	correlation	8
+243	aqi	8
+1630	indoor air pollution	7
+1078	environmental factors	7
+564	co2 emissions	7
+1994	mobility	7
+2829	sanitation	7
+1712	iran	7
+1542	human mobility	7
+1932	meteorological factors	7
+296	atmospheric pollution	7
+398	black carbon	7
+1116	environmental surveillance	7
+3551	water quality	7
+1663	infectivity	7
+1889	medical waste	7
+365	bioaerosols	6
+2015	monitoring	6
+1088	environmental impacts	6
+2554	precipitation	6
+1963	microplastics	6
+1194	family care	6
+2572	preventive medicine	6
+31	absolute humidity	6
+2578	primary health care	6
+3313	transport	6
+3051	source apportionment	6
+1059	environmental and occupational health and safety	6
+3066	spain	6
+3382	urban air quality	6
+481	chemical composition	6
+3472	virus concentration	6
+1439	health promotion	6
+1080	environmental health	6
+3523	wastewater based epidemiology	6
+1335	gis	6
+713	covid-19 outbreak	5
+450	care for disabled	5
+1908	mental health nursing	5
+699	covid-19 epidemic	5
+1535	human health	5
+1938	meteorological parameters	5
+3467	virology	5
+2749	resilience	5
+3391	urban environment	5
+30	aboriginal and torres strait islander health	5
+1850	mask	5
+276	asthma	5
+3569	wbe	5
+86	aged health care	5
+1422	health counselling	5
+383	biomass	5
+3032	socioeconomic	5
+1418	health care administration	5
+3177	survival	5
+3059	southeast asia	5
+950	economic growth	5
+108	air pollutant	5
+1411	health and community services	5
+2249	one health	5
+2208	nursing not elsewhere classified	5
+1434	health information systems (incl. surveillance)	5
+2545	ppe	5
+2217	o(3)	5
+2920	sentinel-5p	5
+2985	sludge	5
+2779	risk assessment	5
+2565	prevalence	5
+1114	environmental sciences not elsewhere classified	5
+1896	medicine, nursing and health curriculum and pedagogy	5
+3373	united states	5
+1506	hospital	5
+2729	remote sensing	5
+591	community child health	5
+1968	midwifery	5
+2494	policy	5
+1242	food security	5
+2614	public health and health services not elsewhere classified	5
+2860	sars-cov-2, severe acute respiratory syndrome coronavirus 2	5
+1047	enveloped virus	5
+2426	physical activity	5
+2086	nanotoxicology, health and safety	5
+2859	sars-cov-2 virus	4
+1824	lung	4
+1895	medicine, health and life sciences	4
+3039	soil	4
+1984	mitigation	4
+2151	nitrogen oxides	4
+445	cardiovascular disease	4
+196	angiotensin-converting enzyme 2	4
+1612	incineration	4
+439	carbon monoxide	4
+1625	indonesia	4
+434	carbon dioxide	4
+2399	persistence	4
+2375	pcr	4
+1027	energy	4
+2872	saudi arabia	4
+1028	energy consumption	4
+283	atmospheric aerosols	4
+379	biological sciences not elsewhere classified	4
+3455	viral infection	4
+1345	global pandemic	4
+299	atmospheric sciences	4
+1100	environmental policy	4
+236	aod	4
+2190	novel coronavirus pneumonia	4
+2192	nox	4
+810	deaths	4
+556	co	4
+1445	health risks	4
+2760	respiratory infection	4
+1819	low-income countries	4
+1906	mental health	4
+3047	solid waste	4
+2897	secondary formation	4
+3526	wastewater epidemiology	4
+660	coronavirus pandemic	4
+3598	wildlife	4
+2246	omi	4
