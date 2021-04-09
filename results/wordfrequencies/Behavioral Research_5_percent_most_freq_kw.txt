@@ -1,183 +1,744 @@
 	keywords	count
-115	air pollution	218
-127	air quality	99
-3521	wastewater	69
-3216	temperature	62
-2348	particulate matter	61
-2299	ozone	58
-2473	pm2.5	49
-2504	pollution	46
-1049	environment	35
-3539	wastewater-based epidemiology	30
-1101	environmental pollution	29
-1548	humidity	28
-2145	nitrogen dioxide	27
-2937	sewage	26
-2457	pm(2.5)	25
-521	climate change	25
-1615	india	23
-3571	weather	22
-113	air pollutants	21
-131	air quality index	20
-886	disinfection	20
-2155	no(2)	19
-2161	no2	17
-149	airborne transmission	17
-64	aerosol	16
-518	climate	16
-1631	indoor air quality	15
-1084	environmental impact	15
-3181	sustainability	14
-3541	water	14
-2470	pm10	14
-1410	health	13
-3436	ventilation	13
-707	covid-19 lockdown	12
-1726	italy	12
-3601	wind speed	12
-1940	meteorology	12
-3611	wuhan	11
-3174	surveillance	11
-2310	ozone therapy	11
-1017	emissions	10
-3335	tropomi	10
-3532	wastewater surveillance	9
-1014	emission reduction	9
-3540	wastewater-based epidemiology (wbe)	9
-2456	pm(10)	9
-3533	wastewater treatment	9
-2221	o3	8
-2812	rt-qpcr	8
-2524	population density	8
-1609	incidence	8
-2290	oxidative stress	8
-2503	pollutants	8
-79	aerosols	8
-1304	generalized additive model	8
-142	airborne	8
-2894	seasonality	8
-1605	inactivation	8
-1221	fine particulate matter	8
-2444	plastic pollution	8
-3515	waste management	8
-2725	relative humidity	8
-668	correlation	8
-243	aqi	8
-1630	indoor air pollution	7
-1078	environmental factors	7
-564	co2 emissions	7
-1994	mobility	7
-2829	sanitation	7
-1712	iran	7
-1542	human mobility	7
-1932	meteorological factors	7
-296	atmospheric pollution	7
-398	black carbon	7
-1116	environmental surveillance	7
-3551	water quality	7
-1663	infectivity	7
-1889	medical waste	7
-365	bioaerosols	6
-2015	monitoring	6
-1088	environmental impacts	6
-2554	precipitation	6
-1963	microplastics	6
-1194	family care	6
-2572	preventive medicine	6
-31	absolute humidity	6
-2578	primary health care	6
-3313	transport	6
-3051	source apportionment	6
-1059	environmental and occupational health and safety	6
-3066	spain	6
-3382	urban air quality	6
-481	chemical composition	6
-3472	virus concentration	6
-1439	health promotion	6
-1080	environmental health	6
-3523	wastewater based epidemiology	6
-1335	gis	6
-713	covid-19 outbreak	5
-450	care for disabled	5
-1908	mental health nursing	5
-699	covid-19 epidemic	5
-1535	human health	5
-1938	meteorological parameters	5
-3467	virology	5
-2749	resilience	5
-3391	urban environment	5
-30	aboriginal and torres strait islander health	5
-1850	mask	5
-276	asthma	5
-3569	wbe	5
-86	aged health care	5
-1422	health counselling	5
-383	biomass	5
-3032	socioeconomic	5
-1418	health care administration	5
-3177	survival	5
-3059	southeast asia	5
-950	economic growth	5
-108	air pollutant	5
-1411	health and community services	5
-2249	one health	5
-2208	nursing not elsewhere classified	5
-1434	health information systems (incl. surveillance)	5
-2545	ppe	5
-2217	o(3)	5
-2920	sentinel-5p	5
-2985	sludge	5
-2779	risk assessment	5
-2565	prevalence	5
-1114	environmental sciences not elsewhere classified	5
-1896	medicine, nursing and health curriculum and pedagogy	5
-3373	united states	5
-1506	hospital	5
-2729	remote sensing	5
-591	community child health	5
-1968	midwifery	5
-2494	policy	5
-1242	food security	5
-2614	public health and health services not elsewhere classified	5
-2860	sars-cov-2, severe acute respiratory syndrome coronavirus 2	5
-1047	enveloped virus	5
-2426	physical activity	5
-2086	nanotoxicology, health and safety	5
-2859	sars-cov-2 virus	4
-1824	lung	4
-1895	medicine, health and life sciences	4
-3039	soil	4
-1984	mitigation	4
-2151	nitrogen oxides	4
-445	cardiovascular disease	4
-196	angiotensin-converting enzyme 2	4
-1612	incineration	4
-439	carbon monoxide	4
-1625	indonesia	4
-434	carbon dioxide	4
-2399	persistence	4
-2375	pcr	4
-1027	energy	4
-2872	saudi arabia	4
-1028	energy consumption	4
-283	atmospheric aerosols	4
-379	biological sciences not elsewhere classified	4
-3455	viral infection	4
-1345	global pandemic	4
-299	atmospheric sciences	4
-1100	environmental policy	4
-236	aod	4
-2190	novel coronavirus pneumonia	4
-2192	nox	4
-810	deaths	4
-556	co	4
-1445	health risks	4
-2760	respiratory infection	4
-1819	low-income countries	4
-1906	mental health	4
-3047	solid waste	4
-2897	secondary formation	4
-3526	wastewater epidemiology	4
-660	coronavirus pandemic	4
-3598	wildlife	4
-2246	omi	4
+7938	mental health	1955
+868	anxiety	1155
+3469	depression	1128
+13142	stress	553
+7901	medicine	383
+1410	biotechnology	237
+10011	physical activity	204
+11673	resilience	202
+12753	social isolation	202
+6463	immunology	195
+12143	science policy	189
+14402	virology	186
+7468	loneliness	184
+5790	health promotion	177
+10904	psychological distress	175
+11118	public health and health services not elsewhere classified	166
+10570	primary health care	161
+10555	preventive medicine	155
+4760	family care	154
+5651	health and community services	153
+12900	sociology	152
+574	aged health care	151
+5723	health counselling	150
+2358	community child health	150
+5757	health information systems (incl. surveillance)	149
+4371	environmental and occupational health and safety	149
+7975	mental health nursing	148
+1382	biological sciences not elsewhere classified	148
+9005	nursing not elsewhere classified	147
+8123	midwifery	147
+242	aboriginal and torres strait islander health	146
+8505	nanotoxicology, health and safety	146
+5676	health care administration	146
+1695	care for disabled	146
+7903	medicine, nursing and health curriculum and pedagogy	146
+11262	quality of life	141
+12563	sleep	127
+12764	social media	124
+10984	psychology not elsewhere classified	122
+2140	clinical psychology	117
+10840	psychiatry	114
+14600	well-being	110
+10923	psychological impact	109
+10983	psychology and cognitive sciences not elsewhere classified	106
+2686	coping	104
+8272	molecular biology	103
+5856	health, clinical and counselling psychology	102
+476	adolescents	102
+9342	organizational behavioral psychology	100
+1567	burnout	100
+926	applied psychology	99
+3523	developmental and educational psychology	99
+2483	computational  biology	99
+8099	microbiology	99
+4831	fear	99
+9913	personality, social and criminal psychology	98
+6624	industrial and organisational psychology	98
+5253	gender psychology	98
+8740	neuroscience and physiological psychology	98
+8182	misinformation	96
+12838	social support	96
+10842	psychiatry (incl. psychotherapy)	93
+5330	genetics	93
+6816	insomnia	93
+4581	exercise	90
+13391	survey	89
+11085	ptsd	89
+11842	risk perception	83
+1210	behavior	78
+13305	suicide	76
+9130	older adults	75
+10982	psychology	74
+2526	confinement	73
+8739	neuroscience	72
+7080	isolation	71
+1782	cell biology	70
+4077	education	69
+5646	health	69
+1365	biochemistry	68
+3410	dementia	65
+13627	telepsychiatry	64
+3819	domestic violence	64
+636	alcohol	64
+12642	smoking	63
+9961	pharmacology	63
+3780	distress	63
+8992	nurses	63
+5707	health care workers	60
+14603	wellbeing	59
+5661	health behavior	58
+13954	trauma	58
+10306	post-traumatic stress disorder	57
+3494	depressive symptoms	57
+8151	mindfulness	50
+14180	university students	48
+10509	prevalence	48
+1071	attitude	47
+4443	epilepsy	47
+5726	health disparities	46
+6056	hiv	45
+2307	college students	45
+5293	general population	44
+457	adolescent	43
+12825	social sciences	43
+6582	india	43
+5233	gender	42
+13229	students	42
+590	aging	42
+11010	psychosocial	42
+4137	elderly	41
+1399	biophysics	41
+11496	rehabilitation	41
+6768	information systems not elsewhere classified	41
+13110	stigma	40
+13268	substance use	40
+11781	review	39
+7359	lifestyle	39
+14745	worry	38
+9291	opioid use disorder	38
+13545	technology	38
+12204	sedentary behavior	38
+876	anxiety disorders	38
+403	addiction	38
+6724	infodemic	38
+4501	ethics	38
+11008	psychosis	37
+5761	health literacy	37
+10878	psychological	37
+10975	psychological well-being	36
+9819	perceived stress	36
+9593	parents	35
+7868	medical staff	35
+11065	psychotherapy	35
+3575	diet	35
+7994	mental health services	35
+11358	randomized controlled trial	34
+1159	bangladesh	34
+7842	medical education	34
+10149	policy	34
+2718	corona	34
+13472	systematic review	34
+11248	qualitative research	34
+4287	emotions	33
+12096	schizophrenia	33
+7875	medical students	33
+7017	intimate partner violence	33
+1724	caregivers	32
+14647	women	32
+7000	intervention	32
+12706	social determinants of health	32
+1869	chemical sciences not elsewhere classified	32
+10955	psychological stress	32
+2702	coping strategies	32
+5899	healthcare professionals	32
+10748	protocol	32
+14076	twitter	32
+5673	health care	31
+3399	delirium	31
+6944	internet	31
+14046	trust	30
+12589	sleep quality	30
+9831	perception	30
+10069	physiology	30
+5975	hematology	30
+3628	digital health	30
+10564	primary care	29
+8301	mood	29
+2335	communication	29
+4028	ecology	29
+8094	mhealth	29
+9021	nutrition	29
+2225	cognition	29
+8986	nurse	29
+12949	spain	29
+9087	occupational health	29
+7902	medicine, health and life sciences	28
+9482	pakistan	28
+8996	nursing	28
+11241	qualitative	28
+14774	young adults	28
+14243	vaccination	27
+7062	iran	27
+9135	older people	27
+4825	fatigue	27
+11350	randomised controlled trial	27
+5878	healthcare	27
+10356	posttraumatic stress disorder	27
+6483	impact	27
+1213	behavior change	27
+642	alcohol consumption	27
+1074	attitudes	27
+2974	covid-19 outbreak	26
+4427	epidemics	26
+13800	tobacco	26
+2772	coronavirus infection	26
+13269	substance use disorder	26
+14783	youth	26
+4846	fear of covid-19	25
+5409	global health	25
+7935	mental disorders	25
+5770	health personnel	25
+4007	eating disorders	25
+4752	family	25
+12254	self-efficacy	25
+14606	wellness	24
+10918	psychological health	24
+11003	psychopathology	24
+5657	health anxiety	24
+456	adolescence	24
+14147	unemployment	24
+3133	crisis	24
+2569	conspiracy theories	24
+13298	suicidal ideation	24
+14262	vaccine hesitancy	24
+10540	preventive behavior	24
+4389	environmental sciences not elsewhere classified	23
+12267	self-isolation	23
+5717	health communication	23
+3470	depression & mood disorders	23
+14368	violence	23
+8637	network analysis	23
+6726	infodemiology	23
+3682	disaster	22
+11448	recovery	22
+2352	community	22
+10039	physical health	22
+11249	qualitative study	22
+13644	temperature	22
+269	access to care	22
+7367	lifestyle factors	22
+9297	opioids	22
+4848	fear of covid-19 scale	22
+8428	multiple sclerosis	22
+5916	healthcare worker	22
+4554	evolutionary biology	22
+9907	personality	22
+3524	developmental biology	22
+4735	fake news	22
+4233	emotion regulation	21
+1761	causation assessment	21
+1126	awareness	21
+9486	palliative care	21
+7096	italy	21
+6859	intensive care	21
+3278	cytokine	21
+1507	brazil	21
+7513	longitudinal study	21
+1635	cannabis	21
+9240	online survey	21
+7350	life satisfaction	21
+7923	mendelian randomisation	21
+11825	risk communication	21
+10066	physicians	21
+1093	autism	20
+11810	risk	20
+4124	ehealth	20
+9496	pandemic (covid-19)	20
+9476	pain	20
+698	alzheimer’s disease	20
+500	adults	20
+13715	theory of planned behavior	20
+1887	child	20
+5664	health behaviors	20
+10463	pregnant women	20
+4227	emotion	20
+1250	behavioral health	20
+9411	outcome	19
+2234	cognitive behavioral therapy	19
+9543	panic buying	19
+9705	patients	19
+1087	australia	19
+12074	saudi arabia	19
+5007	food insecurity	19
+9075	obstetrics and gynaecology	19
+10334	postpartum	19
+2464	compliance	19
+14528	vulnerable populations	19
+7505	longitudinal	19
+8017	mental illness	19
+9590	parenting	19
+3311	dass-21	19
+5619	harm reduction	19
+1554	buprenorphine	19
+11166	public mental health	18
+6860	intensive care unit	18
+14119	uncategorized	18
+7934	mental disorder	18
+13874	training	18
+9162	oncology	18
+7012	interventions	18
+4190	emergency department	18
+7794	media	18
+7649	management	18
+1716	caregiver	18
+4184	emergency	18
+14661	work	18
+10304	post-traumatic stress	18
+10487	preparedness	18
+5737	health equity	18
+1913	child maltreatment	17
+11625	research	17
+430	adherence	17
+886	anxiety symptoms	17
+5454	google trends	17
+5362	geriatrics	17
+7757	mathematical sciences not elsewhere classified	17
+2959	covid-19 lockdown	17
+13608	telemental health	17
+5730	health education	17
+4467	equity	17
+6087	home confinement	17
+3041	covid-19 vaccine	17
+12259	self-harm	17
+10105	plant biology	17
+12102	school	17
+8027	mental well-being	17
+1415	bipolar disorder	17
+1096	autism spectrum disorder	17
+10034	physical exercise	17
+3761	disparities	17
+12027	sars-cov-2 infection	17
+10995	psychometrics	16
+10928	psychological intervention	16
+653	alcohol use	16
+8681	neuroinflammation	16
+5506	grief	16
+5091	frailty	16
+9304	optimism	16
+2039	chronic pain	16
+11829	risk factor	16
+2005	chronic disease	16
+5850	health workers	16
+1889	child abuse	16
+4303	employment	16
+8346	motivation	16
+7735	maternal health	16
+14752	wuhan	16
+5873	health-related quality of life	16
+12159	screening	16
+10031	physical distancing	15
+11298	questionnaire	15
+2510	concerns	15
+540	affect	15
+14431	virtual screening	15
+565	age	15
+11328	racism	15
+9173	online	15
+6146	hope	15
+2624	content analysis	15
+8705	neurology	15
+1135	azithromycin	15
+13411	sustainability	15
+5551	guidelines	15
+11817	risk assessment	15
+3956	e-health	15
+7021	intolerance of uncertainty	15
+13260	subjective well-being	15
+13264	substance abuse	15
+9812	perceived risk	15
+2420	comorbidity	15
+10952	psychological state	15
+4369	environment	15
+9000	nursing homes	15
+2567	conspiracy beliefs	15
+555	africa	15
+4826	favipiravir	15
+11052	psychosocial support	15
+9440	overdose	14
+4290	empathy	14
+613	air pollution	14
+1801	central nervous system	14
+12713	social distance	14
+4798	family violence	14
+6035	higher education	14
+7700	masks	14
+11036	psychosocial interventions	14
+5839	health systems	14
+3678	disability	14
+11712	respiratory failure	14
+10959	psychological support	14
+9105	ocd	14
+5825	health services research	14
+13192	stressors	14
+7163	kenya	14
+10381	practice	14
+8213	mobile health	14
+10793	psychiatric disorders	14
+8621	nepal	14
+5669	health belief model	14
+8089	mexico	14
+1314	bereavement	14
+8076	methadone	14
+7276	leadership	14
+1487	brain	14
+5809	health sciences	14
+12221	seizure	14
+6453	immunogenicity	14
+6358	icu	14
+4505	ethiopia	14
+13318	suicide prevention	14
+9833	perceptions	13
+12692	social connection	13
+8037	mers	13
+1163	bariatric surgery	13
+858	antiviral agents	13
+484	adult	13
+9768	peer support	13
+9758	pediatrics	13
+7108	japan	13
+3198	cross-sectional study	13
+571	aged	13
+7766	meaning in life	13
+7751	mathematical model	13
+2779	coronavirus pandemic	13
+12645	smoking cessation	13
+494	adult psychiatry	13
+4200	emergency medicine	13
+2008	chronic diseases	13
+6736	information	13
+4745	families	13
+2419	comorbidities	13
+11027	psychosocial factors	13
+6198	hospitalization	13
+376	acute stress	13
+6433	immune system	13
+8828	nigeria	13
+1840	challenges	13
+1511	breast cancer	13
+10913	psychological flexibility	13
+10908	psychological effects	13
+6508	implementation	13
+6268	human rights	13
+12239	self-care	13
+13443	symptoms	13
+9999	phq-9	13
+4692	face mask	13
+4578	executive functions	12
+14771	young adult	12
+14778	young people	12
+2013	chronic illness	12
+9370	orthopaedics	12
+12243	self-compassion	12
+8706	neurology and neuromuscular diseases	12
+7492	long-term care	12
+13632	telerehabilitation	12
+10595	prison	12
+5897	healthcare professional	12
+7981	mental health problems	12
+10541	preventive behaviors	12
+1681	cardiovascular disease	12
+11050	psychosocial stress	12
+10946	psychological resilience	12
+2935	covid-19 drug treatment	12
+14488	vitamin d	12
+12574	sleep disturbances	12
+9101	occupational stress	12
+11476	refugees	12
+1515	breastfeeding	12
+11930	rural	12
+11530	reliability	12
+429	adhd	12
+3195	cross-sectional	12
+9604	parkinson’s disease	12
+1338	big data	12
+11130	public health emergency	12
+6852	intellectual disability	12
+13066	state anxiety	12
+4509	ethnicity	12
+12946	space science	12
+4005	eating disorder	12
+12382	severe acute respiratory syndrome	12
+5197	gad-7	11
+6157	hospital	11
+9843	perinatal	11
+7936	mental distress	11
+1922	child protection	11
+6659	infection prevention	11
+5705	health care worker	11
+3171	croatia	11
+2334	communicable diseases	11
+8281	molecular dynamics simulation	11
+8280	molecular dynamics	11
+8580	negative affect	11
+14324	veterans	11
+8319	moral injury	11
+14407	virtual care	11
+3753	disinformation	11
+11069	psychotic disorders	11
+5204	gambling disorder	11
+1280	behaviour change	11
+3467	depresión	11
+3456	dentistry	11
+13004	spirituality	11
+12342	serious mental illness	11
+577	ageism	11
+3663	digital technology	11
+4311	encephalitis	11
+2704	coping style	11
+3646	digital mental health	11
+2940	covid-19 fear	11
+14360	vietnam	11
+14428	virtual reality	11
+11129	public health emergencies	11
+7130	jordan	11
+3806	docking	11
+4518	europe	11
+12443	sexual health	11
+11533	religion	11
+12227	seizures	11
+390	adaptation	11
+14164	united states	11
+8998	nursing home	11
+2565	conspiracy	11
+7817	media use	10
+10727	protective factors	10
+8029	mental wellbeing	10
+9065	obsessive-compulsive disorder	10
+2155	clinical trial	10
+13387	surveillance	10
+14120	uncertainty	10
+7637	malaysia	10
+12677	social capital	10
+14354	videoconferencing	10
+13344	support	10
+9601	parkinson's disease	10
+654	alcohol use disorder	10
+12217	seir model	10
+13989	travel behavior	10
+2260	cognitive impairment	10
+14743	worries	10
+12006	sars cov-2	10
+5027	food security	10
+12206	sedentary behaviour	10
+5903	healthcare providers	10
+5818	health services	10
+5891	healthcare personnel	10
+9849	perinatal mental health	10
+7957	mental health disorders	10
+7646	malnutrition	10
+5497	greece	10
+6781	infoveillance	10
+10852	psycho-oncology	10
+7949	mental health care	10
+14704	workforce	10
+6132	homelessness	10
+14701	workers	10
+3811	doctors	10
+5310	generalized anxiety	10
+10430	prediction	10
+8305	mood disorders	10
+2276	cohort	10
+7740	maternal mental health	10
+8126	migraine	10
+9735	pediatric	10
+11032	psychosocial impact	10
+12681	social cognition	10
+12570	sleep disorders	10
+6797	innovation	10
+8238	mobility	10
+1055	attachment	10
+13638	telework	10
+2380	community mental health	10
+12017	sars-cov 2	10
+14069	turkey	10
+13670	testing	10
+6144	hong kong	10
+2684	copd	10
+520	advocacy	10
+11733	respiratory tract infections	10
+5785	health professionals	10
+14281	validity	10
+1896	child and adolescent psychiatry	10
+5749	health information	10
+5599	hand hygiene	9
+7122	job satisfaction	9
+10387	practices	9
+2949	covid-19 infection	9
+11374	rapid review	9
+10367	poverty	9
+12795	social norms	9
+13735	therapy	9
+10880	psychological adjustment	9
+9839	performing arts	9
+5724	health crisis	9
+9592	parenting stress	9
+1025	asymptomatic	9
+2937	covid-19 epidemic	9
+13811	tobacco use	9
+2778	coronavirus outbreak	9
+9415	outcomes	9
+11174	public policy	9
+4249	emotional distress	9
+14170	university	9
+10337	postpartum depression	9
+12895	socioeconomic status	9
+2795	coronavirus/covid-19	9
+12624	smartphone	9
+1611	cancer care	9
+5744	health inequalities	9
+9818	perceived social support	9
+10042	physical inactivity	9
+11443	recommendations	9
+9492	pandemia	9
+14019	triage	9
+10253	positive psychology	9
+10250	positive mental health	9
+911	app	9
+5203	gambling	9
+5611	handwashing	9
+13304	suicidality	9
+9474	paediatrics	9
+6945	internet addiction	9
+3422	demography	9
+3959	e-learning	9
+4000	eating behavior	9
+12434	sexual behavior	9
+3491	depressive disorders	9
+12155	screen time	9
+9210	online learning	9
+8226	mobile phone	9
+7885	medical workers	9
+3137	crisis intervention	9
+7871	medical student	9
+3140	crisis management	9
+14723	workload	9
+7624	major depressive disorder	9
+14389	viral load	9
+3962	e-mental health	9
+3775	distance learning	9
+7687	mask	9
+11925	rumination	9
+12407	sex	9
+4146	elective surgery	9
+3707	discrimination	9
+4060	economy	9
+3611	digital	9
+3694	disasters	9
+12313	sense of coherence	8
+14396	viral shedding	8
+10822	psychiatric patients	8
+5689	health care professionals	8
+7262	latin america	8
+10715	protection motivation theory	8
+1908	child health	8
+4655	exposure	8
+7809	media exposure	8
+5416	global mental health	8
+6510	implementation science	8
+4978	foetal development and medicine	8
+249	abuse	8
+6627	inequalities	8
+14283	values	8
+10614	problem gambling	8
+268	access	8
+12403	severity	8
+2583	consumer behavior	8
+6667	infections	8
+10553	preventive measures	8
+2615	containment	8
+3232	culture	8
+2727	corona virus disease 2019	8
+8594	negative emotions	8
+14761	xenophobia	8
+2105	clinical care	8
+1278	behaviour	8
+13400	survival	8
+12107	school closure	8
+14312	ventilator-associated pneumonia	8
+1277	behaviors	8
+12494	shutdown	8
+8820	nicotine	8
+8749	neuroticism	8
+10233	portugal	8
+1877	chemotherapy	8
+10691	prophylaxis	8
+1003	assessment	8
+8553	natural language processing	8
+9195	online education	8
+14768	yoga	8
+1017	asthma	8
+7828	medical and health sciences not elsewhere classified	8
+2135	clinical practice	8
+2579	consultation-liaison psychiatry	8
+10600	privacy	8
+12792	social networks	8
+9275	opioid	8
+10925	psychological impacts	8
+345	acute coronary syndrome	8
+9621	particulate matter	8
+8249	modeling	8
+12385	severe acute respiratory syndrome coronavirus 2 (sars-cov-2)	8
+11987	salud mental	8
+7725	materialism	8
+11608	reproduction number	8
+14279	validation	8
+2741	coronavirus (covid-19)	8
+5379	ghana	8
+10232	pornography	8
+3033	covid-19 suicide	8
+4252	emotional eating	8
+7510	longitudinal design	8
+3498	dermatology	8
+2437	compassion fatigue	8
+8744	neurosurgery	8
+12851	social work	8
+4110	efficacy	8
+6245	human behavior	8
+12933	south africa	8
+3350	death	8
+1717	caregiver burden	8
+5296	general practice	8
+9825	perceived threat	8
+11171	public opinion	8
+10415	precautionary behavior	8
+3542	diabetes mellitus	8
+13532	teachers	8
+10475	prenatal	8
+9079	occupational & industrial medicine	8
+1727	caregiving	8
+4126	ehealth literacy	8
+13242	sub-saharan africa	8
+6864	intensive care units	8
+10966	psychological trauma	8
+179	2019 novel coronavirus	8
+4122	egypt	8
+7978	mental health policy	8
+1233	behavioral addiction	8
+13152	stress disorders	8
+5363	geriatrics and gerontology	8
+10375	ppe	8
+1040	athletes	8
+9015	nursing students	8
+11146	public health policy	8
+8931	norway	8
+9519	pandemic response	8
+3199	cross-sectional survey	8
+10887	psychological burden	8
+2481	compulsivity	8
+5910	healthcare staff	8
+11023	psychosocial effects	8
+2363	community engagement	7
+8244	model	7
+14101	uganda	7
