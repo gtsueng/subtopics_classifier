@@ -1,0 +1,319 @@
+	keywords	count
+3632	misinformation	96
+5474	social media	71
+2579	health informatics	54
+3546	mental health	45
+537	bibliometrics	40
+1058	computer and information science	38
+2417	gis	37
+5501	social sciences	36
+3001	infodemic	35
+6186	virology	34
+3535	medicine	33
+1647	digital health	32
+600	biotechnology	32
+2167	fake news	29
+6025	twitter	28
+330	anxiety	28
+3537	medicine, health and life sciences	26
+538	big data	26
+1558	depression	25
+2360	genetics	25
+5210	science policy	24
+3857	natural language processing	24
+3499	medical informatics	23
+575	biomarkers	22
+376	artificial intelligence and image processing	22
+481	bangladesh	21
+3003	infodemiology	20
+2541	health care	20
+560	bioinformatics	20
+3008	informatics	19
+1894	electronic health record	18
+4516	prediction	18
+5217	scientometrics	17
+1895	electronic health records	17
+5954	transfer learning	16
+994	communication	16
+1114	contact tracing	16
+1722	disease severity	16
+1476	data science	16
+168	africa	15
+5205	science and engineering	15
+4518	prediction model	15
+3139	internet of things	15
+3041	information systems	15
+3536	medicine and health	15
+199	ai	14
+2891	immunology	14
+2073	ethics	14
+371	artificial intelligence (ai)	14
+6118	vaccine hesitancy	13
+891	clinical informatics	13
+2929	india	13
+4574	privacy	13
+2534	health	13
+552	biochemistry	13
+2631	healthcare	13
+1736	disinformation	13
+3798	multiple instance learning	12
+2747	hospitalization	12
+6101	vaccination	12
+5644	stress	12
+582	biomedical engineering not elsewhere classified	12
+213	air pollution	12
+792	chest ct	12
+3133	internet	12
+3044	information systems not elsewhere classified	12
+6010	trust	12
+5796	technology	12
+5549	spatial analysis	12
+565	biological engineering	12
+2262	forecasting	12
+2610	health promotion	11
+5073	robotics	11
+868	classification	11
+4338	pharmacology	11
+1398	ct	11
+1879	ehealth	11
+6205	virtual screening	11
+612	blockchain	11
+5020	review	11
+569	biological sciences not elsewhere classified	10
+4362	physical activity	10
+2431	global health	10
+3481	medical biotechnology diagnostics (incl. biosensors)	10
+1155	convolutional neural network	10
+3098	intensive care unit	10
+2589	health information systems (incl. surveillance)	10
+934	cnn	10
+5038	risk communication	10
+2350	genetic engineering	10
+1881	ehr	10
+3595	microbiology	10
+5712	surveillance	10
+5922	topic modeling	10
+4389	planetary health	9
+5037	risk assessment	9
+5715	survey	9
+5749	synthetic biology	9
+576	biomaterials	9
+619	blood parameters	9
+2563	health disparities	9
+2598	health literacy	9
+4393	plant biology	9
+2771	human	9
+3936	news2 score	9
+1836	earth and environmental sciences	9
+802	chest x-ray images	9
+577	biomechanical engineering	9
+800	chest x-ray	9
+2950	industrial microbiology (incl. biofeedstocks)	9
+4876	regenerative medicine (incl. stem cells and tissue engineering)	9
+3045	information technology	9
+3509	medical molecular engineering of nucleic acids and proteins	9
+592	bioremediation	9
+3588	mhealth	9
+3899	neural network	9
+2946	industrial biotechnology diagnostics (incl. biosensors)	9
+197	agricultural marine biotechnology	9
+2036	epidemics	9
+2951	industrial molecular engineering of nucleic acids and proteins	9
+2947	industrial biotechnology not elsewhere classified	9
+2051	epitope	9
+590	bioprocessing, bioproduction and bioproducts	9
+3482	medical biotechnology not elsewhere classified	9
+4774	quality of life	9
+5999	triage	8
+5499	social science	8
+3096	intensive care	8
+3056	infoveillance	8
+5327	severe acute respiratory syndrome coronavirus 2 (sars-cov-2)	8
+3668	mobility	8
+1789	drug discovery	8
+4243	patient care	8
+3467	media	8
+3773	multi-omics	8
+4724	public health surveillance	8
+5500	social science, humanities and public policy	8
+3009	information	8
+571	biomarker	8
+4946	research	8
+3421	marine biology	8
+623	bmj health informatics	8
+3448	mathematical sciences not elsewhere classified	8
+5053	risk stratification	8
+1607	diagnostic model	8
+5061	rna sequence	8
+1156	convolutional neural networks	7
+1991	environment	7
+5536	sonification	7
+422	auditory display	7
+3693	molecular animation	7
+4680	psychology not elsewhere classified	7
+1507	decision making	7
+4495	practice	7
+3888	network analysis	7
+2580	health information	7
+2452	google trends	7
+3371	lung	7
+338	app	7
+1304	covid-19 suicide	7
+4185	pakistan	7
+3169	iran	7
+2184	fear	7
+1317	covid-19, coronavirus disease 2019	7
+5488	social network analysis	7
+5889	time series	7
+2375	genomics	7
+1257	covid-19 diagnosis	7
+5762	systems biology	7
+5373	simulation	7
+3573	metabolomics	7
+3557	mers	7
+5462	social determinants of health	7
+705	cardiovascular	7
+4153	outcome	7
+916	clinical trial	7
+1863	education	7
+2793	humanities and public policy	7
+3677	modeling	7
+4938	reproduction number	7
+2858	imaging	7
+1070	computer vision	7
+418	attitudes	7
+2556	health communication	7
+489	basic reproduction number	7
+5221	screening	7
+1924	emergency medicine	7
+3659	mobile health	7
+1467	data mining	7
+1126	content analysis	7
+5032	risk	7
+5251	seir model	7
+1453	data analytics	7
+4678	psychology	7
+3814	mutation	7
+3101	intensive care units	7
+804	chest x-rays	7
+4566	primary health care	6
+1370	critical illness	6
+655	built environment	6
+5207	science communication	6
+5850	text mining	6
+6334	x-ray	6
+533	bibliometric analysis	6
+5066	rna-dependent rna polymerase	6
+2054	epitopes	6
+4552	prevalence	6
+1765	docking	6
+5916	tomography	6
+4965	resilience	6
+3063	innovation	6
+2705	hiv	6
+4299	perception	6
+2621	health systems	6
+5183	saudi arabia	6
+4679	psychology and cognitive sciences not elsewhere classified	6
+3444	mathematical model	6
+1738	disparities	6
+4430	policy	6
+2852	image processing	6
+4157	outcomes	6
+3416	management	6
+2662	heart failure	6
+4642	proteomics	6
+4810	radiology	6
+3705	molecular dynamics simulation	6
+2006	environmental sciences not elsewhere classified	6
+2884	immuno-informatics	6
+3491	medical education	6
+2567	health education	6
+1726	disease surveillance	6
+707	cardiovascular disease	6
+4060	omics	6
+5471	social isolation	6
+417	attitude	6
+4843	rdrp	6
+1450	data	6
+4702	public health and health services not elsewhere classified	6
+5844	testing	6
+6059	united states	6
+384	artificial neural network	6
+1539	dementia	6
+3652	mobile app	6
+1353	crisis	6
+3655	mobile apps	6
+3716	monitoring	6
+1043	computational  biology	6
+6176	viral infection	6
+1030	comorbidity	6
+6347	youtube	5
+2318	gender	5
+1479	data sharing	5
+215	air quality	5
+5587	spike	5
+2157	fact-checking	5
+6336	x-ray images	5
+2590	health information technology	5
+3729	morbidity	5
+4464	population health	5
+1676	digital transformation	5
+6190	virtual care	5
+5047	risk perception	5
+3917	neuroscience	5
+4561	preventive measures	5
+4301	perceptions	5
+6332	wuhan	5
+3695	molecular biology	5
+2919	incidence	5
+359	arima	5
+2273	frailty	5
+3032	information science	5
+3413	malaysia	5
+5335	severity	5
+3559	mers-cov	5
+509	behavior	5
+5746	symptoms	5
+5040	risk factor	5
+4930	renin-angiotensin system	5
+993	communicable diseases	5
+4083	online learning	5
+5390	sir model	5
+1071	computer-aided diagnosis	5
+4332	pharmaceutical sciences	5
+1052	computed tomography (ct)	5
+1731	diseases	5
+5919	tomography, x-ray computed	5
+5518	socioeconomic status	5
+91	access to care	5
+1783	drug	5
+2406	germany	5
+2782	human mobility	5
+175	age	5
+4663	psychiatry	5
+1580	developmental biology	5
+1107	conspiracy theories	5
+3933	news	5
+4564	price rises	5
+639	breast cancer	5
+275	angiotensin-converting enzyme inhibitors	5
+5546	spain	5
+4238	pathology	5
+3445	mathematical modeling	5
+1660	digital medicine	5
+834	chronic diseases	5
+1616	dialysis	5
+5967	transmission dynamics	5
+1825	e-learning	5
+1824	e-health	5
+3199	journalism	5
+1526	deep transfer learning	5
+5295	sentiment analysis	5
+1615	diagnostics	5
+6227	visualization	5
+1016	community pharmacists	5
+2091	evaluation	5
+4407	pm(2.5)	5
+4098	open science	5
+65	4ce	5
