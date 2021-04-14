@@ -1,0 +1,251 @@
+	keywords	count
+13344	mental health	1981
+1522	anxiety	1360
+5900	depression	1146
+21946	stress	680
+13277	medicine	642
+21505	sociology	458
+2385	biotechnology	369
+20324	science policy	341
+16845	physical activity	313
+2348	biological sciences not elsewhere classified	286
+21369	social sciences	281
+19530	resilience	271
+10878	immunology	257
+24172	virology	222
+18773	quality of life	218
+18252	psychological distress	213
+18357	psychology not elsewhere classified	210
+21286	social isolation	207
+24505	well-being	200
+9703	health promotion	193
+18523	public health and health services not elsewhere classified	187
+17744	primary health care	187
+12540	loneliness	187
+20992	sleep	181
+2693	burnout	178
+22346	survey	177
+23366	trauma	175
+21300	social media	171
+4229	computational  biology	168
+965	aged health care	166
+8144	fear	164
+3663	clinical psychology	162
+9498	health and community services	161
+1832	attitude	161
+17718	preventive medicine	161
+8035	family care	158
+5791	dementia	155
+19818	risk perception	153
+15092	nursing not elsewhere classified	153
+9653	health information systems (incl. surveillance)	150
+9604	health counselling	150
+4016	community child health	150
+4548	coping	149
+13382	mental health nursing	148
+13600	midwifery	148
+9537	health care administration	148
+7393	environmental and occupational health and safety	147
+13282	medicine, nursing and health curriculum and pedagogy	146
+14234	nanotoxicology, health and safety	146
+2928	care for disabled	146
+370	aboriginal and torres strait islander health	146
+18162	psychiatry	145
+18356	psychology and cognitive sciences not elsewhere classified	144
+9787	health, clinical and counselling psychology	143
+1600	applied psychology	142
+6887	education	142
+7745	exercise	139
+5980	developmental and educational psychology	138
+15658	organizational behavioral psychology	138
+18164	psychiatry (incl. psychotherapy)	138
+11112	industrial and organisational psychology	137
+21218	social determinants of health	137
+16680	personality, social and criminal psychology	136
+14637	neuroscience and physiological psychology	136
+8832	gender psychology	136
+21389	social support	133
+776	adolescents	130
+9611	health disparities	127
+9490	health	126
+15300	older adults	123
+13838	molecular biology	123
+13552	microbiology	119
+8928	genetics	118
+18278	psychological impact	111
+11410	insomnia	111
+15059	nurses	111
+11868	isolation	104
+4285	confinement	103
+14636	neuroscience	102
+18355	psychology	98
+13281	medicine, health and life sciences	97
+23913	vaccine hesitancy	94
+22198	suicide	92
+18470	ptsd	91
+7616	ethics	91
+17463	practice	90
+1068	alcohol	90
+9583	health care workers	90
+12356	lifestyle	89
+3083	cell biology	88
+24508	wellbeing	88
+21886	stigma	88
+22767	telepsychiatry	86
+2318	biochemistry	82
+6403	distress	82
+8809	gender	81
+11046	india	81
+13170	medical education	79
+23877	vaccination	78
+18741	qualitative research	78
+19210	rehabilitation	76
+21121	smoking	76
+16758	pharmacology	75
+11332	information systems not elsewhere classified	73
+22639	technology	73
+15120	nutrition	70
+7422	environmental sciences not elsewhere classified	69
+15938	palliative care	69
+23731	university students	69
+13654	mindfulness	68
+9534	health care	67
+11835	iran	67
+6989	elderly	67
+17732	primary care	66
+17110	policy	65
+3981	communication	65
+6811	ecology	64
+6466	domestic violence	64
+1847	attitudes	64
+989	aging	63
+9062	global health	63
+7064	emergency	63
+22080	students	63
+13232	medical students	62
+22475	systematic review	62
+2086	behavior	61
+17664	prevalence	61
+6071	diet	61
+754	adolescent	61
+15734	orthopaedics	60
+5926	depressive symptoms	59
+10158	hiv	59
+5769	delirium	58
+17356	post-traumatic stress disorder	58
+16528	perceived stress	58
+18048	protocol	58
+9518	health behavior	58
+24597	women	58
+21032	sleep quality	55
+3918	college students	55
+9623	health equity	55
+15069	nursing	55
+4591	corona	54
+13015	mathematical sciences not elsewhere classified	53
+18888	racism	53
+15932	pakistan	53
+13705	misinformation	52
+11494	intensive care	52
+7508	epilepsy	51
+5309	crisis	50
+23525	trust	50
+16549	perception	50
+22152	substance use	50
+15561	opioid use disorder	50
+2968	caregivers	50
+18320	psychological stress	49
+17626	preparedness	49
+9858	healthcare professionals	49
+19712	review	49
+13223	medical staff	49
+7247	emotions	49
+8881	general population	49
+20266	schizophrenia	48
+16933	physiology	48
+4567	coping strategies	48
+7076	emergency department	48
+20229	saudi arabia	48
+18446	psychotherapy	48
+16133	parents	48
+2371	biophysics	48
+15309	older people	47
+2006	bangladesh	47
+18345	psychological well-being	47
+15234	occupational health	47
+9819	healthcare	47
+21597	spain	46
+18730	qualitative	46
+19774	risk	46
+18746	qualitative study	46
+7102	emergency medicine	46
+24735	worry	45
+1950	awareness	45
+18215	psychological	45
+16674	personality	45
+9264	grief	45
+23238	training	44
+3209	chemical sciences not elsewhere classified	44
+23570	twitter	44
+15040	nurse	43
+1189	alzheimer’s disease	43
+18938	randomised controlled trial	43
+14096	multiple sclerosis	43
+21594	space science	43
+18390	psychosocial	42
+1530	anxiety disorders	42
+6147	digital health	42
+2230	bereavement	42
+7539	equity	42
+4005	community	42
+20496	self-efficacy	41
+16926	physicians	41
+5018	covid-19 outbreak	41
+7164	emotion	41
+18949	randomized controlled trial	41
+10904	impact	40
+11895	italy	40
+12842	management	40
+7636	ethnicity	40
+4690	coronavirus pandemic	40
+24513	wellness	40
+9660	health literacy	39
+3800	cognition	39
+12213	leadership	39
+20428	sedentary behavior	39
+11738	intervention	39
+8024	family	39
+11496	intensive care unit	39
+13874	mood	39
+4193	compliance	39
+681	addiction	38
+11765	intimate partner violence	38
+6362	disparities	38
+18388	psychosis	38
+24806	youth	38
+15354	oncology	38
+6773	eating disorders	38
+16867	physical distancing	38
+7485	epidemics	37
+5679	death	37
+8130	fatigue	37
+15801	outcome	37
+9513	health anxiety	37
+5122	covid-19 vaccine	37
+11272	infodemic	37
+9675	health personnel	37
+19792	risk communication	37
+20355	screening	37
+15471	online survey	36
+19584	respiratory failure	36
+10822	immune system	36
+14778	nigeria	36
+3425	chronic disease	36
+19442	research	35
+433	access to care	35
+7250	empathy	35
+24791	young adults	35
+6969	ehealth	35
+13401	mental health services	35
+918	africa	34
+7174	emotion regulation	34

@@ -1,0 +1,117 @@
+	keywords	count
+9925	social media	366
+5378	information systems not elsewhere classified	342
+1034	biological sciences not elsewhere classified	277
+6326	medicine	234
+1075	biotechnology	193
+1004	biochemistry	190
+6353	mental health	181
+4599	health promotion	173
+4567	health information systems (incl. surveillance)	164
+8335	primary health care	163
+8597	public health and health services not elsewhere classified	156
+4484	health and community services	155
+4497	health care administration	154
+8329	preventive medicine	154
+4523	health counselling	153
+1410	chemical sciences not elsewhere classified	152
+3510	environmental and occupational health and safety	149
+7942	pharmacology	149
+1796	community child health	148
+3817	family care	148
+6330	medicine, nursing and health curriculum and pedagogy	147
+343	aged health care	147
+1287	care for disabled	146
+138	aboriginal and torres strait islander health	146
+6457	midwifery	146
+6358	mental health nursing	146
+6847	nanotoxicology, health and safety	146
+7216	nursing not elsewhere classified	146
+9457	science policy	141
+11268	virology	130
+613	anxiety	129
+6603	molecular biology	123
+1870	computational  biology	122
+1060	biophysics	122
+10954	twitter	116
+5110	immunology	114
+2754	depression	103
+6505	misinformation	98
+4179	genetics	94
+4332	google trends	68
+5315	infodemic	66
+10259	stress	62
+5318	infodemiology	61
+9984	social sciences	55
+4552	health informatics	54
+10025	sociology	52
+10407	survey	52
+2905	digital health	50
+6172	mathematical sciences not elsewhere classified	50
+972	big data	49
+3527	environmental sciences not elsewhere classified	48
+6438	microbiology	47
+5379	information technology	46
+5544	internet	45
+969	bibliometrics	43
+8041	plant biology	42
+3264	ecology	41
+6881	natural language processing	40
+7005	neuroscience	40
+1773	communication	39
+4495	health care	39
+764	attitude	39
+1893	computer and information science	38
+6329	medicine, health and life sciences	38
+4264	gis	38
+2015	content analysis	37
+1349	cell biology	36
+5375	information systems	36
+1018	bioinformatics	35
+5190	india	34
+10076	spatial analysis	34
+11304	virtual screening	34
+6619	molecular dynamics	33
+8255	prediction	33
+10403	surveillance	33
+8706	qualitative research	33
+1999	contact tracing	32
+9362	sars-cov-2 main protease	31
+4580	health literacy	31
+825	awareness	31
+2602	data mining	31
+10546	technology	30
+6253	medical education	30
+3289	education	29
+862	bangladesh	29
+4519	health communication	29
+3807	fake news	29
+9070	resilience	27
+9604	sentiment analysis	27
+9192	risk perception	26
+4284	global health	26
+3685	evolutionary biology	26
+9181	risk communication	26
+814	automted upload	26
+4553	health information	25
+11136	vaccine hesitancy	25
+2799	developmental biology	25
+10838	transfer learning	24
+1042	biomarkers	24
+9919	social isolation	24
+9469	scientometrics	24
+6116	marine biology	24
+11110	vaccination	24
+10617	temperature	24
+6621	molecular dynamics simulation	24
+319	africa	24
+3849	fear	23
+4655	healthcare	23
+5402	infoveillance	23
+6265	medical informatics	23
+8224	practice	23
+3101	docking	23
+3639	ethics	22
+2077	coping	22
+692	artificial intelligence and image processing	22
+3572	epidemics	22

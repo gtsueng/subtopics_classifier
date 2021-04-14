@@ -1,0 +1,5 @@
+	starttime	runtime	function
+0	2021-04-13 15:07:30.964490	0 days 12:37:41.613414000	run_test()
+1	2021-04-14 03:45:12.577904	0 days 02:57:36.213144000	generate_models()
+2	2021-04-14 06:42:48.791048	0 days 00:05:50.002751000	classify_preprints()
+3	2021-04-14 06:48:38.793799	0 days 00:00:00.000000000	load_annotations()

@@ -5,7 +5,6 @@ alcohol consumption
 alcohol use
 alcoholism
 anxiety
-anxiety
 attitude
 autism spectrum disorder
 behavior change
@@ -95,7 +94,6 @@ psychometrics
 psychopathology
 psychosis
 psychosocial
-psychosocial
 psychosocial impact
 psycho-social impact
 psychotherapy
@@ -140,5 +138,8 @@ wellbeing
 well-being
 wellness
 worries
-worry
 xenophobia
+self-efficacy
+self awareness
+self-awareness
+self efficacy

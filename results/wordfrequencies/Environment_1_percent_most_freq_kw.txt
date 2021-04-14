@@ -1,0 +1,73 @@
+	keywords	count
+246	air pollution	226
+2146	environmental and occupational health and safety	161
+2927	health promotion	154
+5136	primary health care	153
+2890	health counselling	151
+2396	family care	151
+2868	health and community services	151
+2915	health information systems (incl. surveillance)	150
+2881	health care administration	150
+5129	preventive medicine	149
+5246	public health and health services not elsewhere classified	149
+1181	community child health	149
+206	aged health care	148
+888	care for disabled	146
+4010	midwifery	146
+3903	medicine, nursing and health curriculum and pedagogy	146
+72	aboriginal and torres strait islander health	146
+4229	nanotoxicology, health and safety	146
+3919	mental health nursing	146
+4473	nursing not elsewhere classified	146
+6474	temperature	112
+259	air quality	101
+1028	climate change	100
+4736	particulate matter	74
+7035	wastewater	58
+2132	environment	54
+3179	humidity	53
+4945	pm2.5	50
+5000	pollution	46
+4654	ozone	42
+6390	sustainability	36
+3308	india	35
+3916	mental health	35
+287	airborne transmission	32
+5917	sewage	30
+170	aerosol	30
+2205	environmental pollution	29
+4355	nitrogen dioxide	28
+4972	policy	28
+1021	climate	28
+2867	health	27
+4546	one health	27
+4929	pm(2.5)	26
+1804	disinfection	26
+5831	seasonality	26
+7094	weather	24
+7052	wastewater-based epidemiology	23
+7025	waste management	22
+2179	environmental health	21
+263	air quality index	21
+244	air pollutants	21
+4368	no(2)	20
+5460	relative humidity	20
+7141	wildlife	20
+5530	resilience	19
+3893	medical waste	19
+7157	wind speed	18
+4374	no2	18
+2721	global health	18
+6377	surveillance	18
+191	aerosols	17
+2879	health care	17
+2524	food security	17
+6288	stress	17
+3969	meteorology	16
+6888	ventilation	16
+2184	environmental impact	16
+3548	italy	16
+4874	physical activity	15
+7190	wuhan	15
+3334	indoor air quality	15
+1800	diseases	15
