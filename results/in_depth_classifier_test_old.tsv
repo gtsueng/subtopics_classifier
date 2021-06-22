@@ -1,0 +1,2341 @@
+	topicCategory	set size	classifier	runtime	auc	report	matrix	i
+0	Antibody Detection	8724	Random Forest	0 days 00:01:18.836104000	0.9662295844368772	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910532         0.910673  0.910602     0.910603      0.910602
+recall        0.912599         0.908565  0.910602     0.910582      0.910602
+f1-score      0.911565         0.909618  0.910602     0.910591      0.910601
+support     881.000000       864.000000  0.910602  1745.000000   1745.000000"	"[[804  77]
+ [ 79 785]]"	0
+1	Antibody Detection	8724	Random Forest	0 days 00:01:22.380830000	0.9678575937215627	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.887615         0.919817  0.903725     0.903716      0.904242
+recall        0.917062         0.891232  0.903725     0.904147      0.903725
+f1-score      0.902098         0.905299  0.903725     0.903698      0.903751
+support     844.000000       901.000000  0.903725  1745.000000   1745.000000"	"[[774  70]
+ [ 98 803]]"	1
+2	Antibody Detection	8724	Random Forest	0 days 00:01:21.212035000	0.9713173893501762	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.915541         0.908985  0.912321     0.912263      0.912332
+recall        0.912458         0.912178  0.912321     0.912318      0.912321
+f1-score      0.913997         0.910579  0.912321     0.912288      0.912324
+support     891.000000       854.000000  0.912321  1745.000000   1745.000000"	"[[813  78]
+ [ 75 779]]"	2
+3	Antibody Detection	8724	Random Forest	0 days 00:01:21.858250000	0.968501965875761	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.883277         0.919204   0.90086     0.901240      0.901580
+recall        0.919393         0.883015   0.90086     0.901204      0.900860
+f1-score      0.900973         0.900746   0.90086     0.900859      0.900857
+support     856.000000       889.000000   0.90086  1745.000000   1745.000000"	"[[787  69]
+ [104 785]]"	3
+4	Antibody Detection	8724	Random Forest	0 days 00:01:21.716060000	0.9689255290348187	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.879023         0.926540  0.902006     0.902782      0.903286
+recall        0.927400         0.877666  0.902006     0.902533      0.902006
+f1-score      0.902564         0.901441  0.902006     0.902003      0.901991
+support     854.000000       891.000000  0.902006  1745.000000   1745.000000"	"[[792  62]
+ [109 782]]"	4
+5	Antibody Detection	8724	MultinomialNB	0 days 00:00:00.079728000	0.9479429415226805	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.839671         0.917098  0.873926     0.878385      0.878008
+recall        0.927355         0.819444  0.873926     0.873400      0.873926
+f1-score      0.881338         0.865526  0.873926     0.873432      0.873509
+support     881.000000       864.000000  0.873926  1745.000000   1745.000000"	"[[817  64]
+ [156 708]]"	0
+6	Antibody Detection	8724	MultinomialNB	0 days 00:00:00.063017000	0.945932902357044	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.808247         0.922581  0.859026     0.865414      0.867281
+recall        0.928910         0.793563  0.859026     0.861236      0.859026
+f1-score      0.864388         0.853222  0.859026     0.858805      0.858623
+support     844.000000       901.000000  0.859026  1745.000000   1745.000000"	"[[784  60]
+ [186 715]]"	1
+7	Antibody Detection	8724	MultinomialNB	0 days 00:00:00.070723000	0.9480453770071255	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.844792         0.898089  0.868768     0.871440      0.870875
+recall        0.910213         0.825527  0.868768     0.867870      0.868768
+f1-score      0.876283         0.860281  0.868768     0.868282      0.868452
+support     891.000000       854.000000  0.868768  1745.000000   1745.000000"	"[[811  80]
+ [149 705]]"	2
+8	Antibody Detection	8724	MultinomialNB	0 days 00:00:00.060715000	0.9500304868433502	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.808809         0.935657  0.863037     0.872233      0.873432
+recall        0.943925         0.785152  0.863037     0.864539      0.863037
+f1-score      0.871159         0.853823  0.863037     0.862491      0.862327
+support     856.000000       889.000000  0.863037  1745.000000   1745.000000"	"[[808  48]
+ [191 698]]"	3
+9	Antibody Detection	8724	MultinomialNB	0 days 00:00:00.060808000	0.952047143303974	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.807960         0.943243   0.86533     0.875602      0.877036
+recall        0.950820         0.783389   0.86533     0.867105      0.865330
+f1-score      0.873588         0.855917   0.86533     0.864752      0.864565
+support     854.000000       891.000000   0.86533  1745.000000   1745.000000"	"[[812  42]
+ [193 698]]"	4
+10	Antibody Detection	8724	Logistic Regression	0 days 00:00:00.402413000	0.9609437402783033	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.924969         0.861588  0.891117     0.893279      0.893587
+recall        0.853575         0.929398  0.891117     0.891487      0.891117
+f1-score      0.887839         0.894209  0.891117     0.891024      0.890993
+support     881.000000       864.000000  0.891117  1745.000000   1745.000000"	"[[752 129]
+ [ 61 803]]"	0
+11	Antibody Detection	8724	Logistic Regression	0 days 00:00:00.445405000	0.9612344893246577	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.908416         0.882604  0.894556     0.895510      0.895088
+recall        0.869668         0.917869  0.894556     0.893769      0.894556
+f1-score      0.888620         0.899891  0.894556     0.894256      0.894440
+support     844.000000       901.000000  0.894556  1745.000000   1745.000000"	"[[734 110]
+ [ 74 827]]"	1
+12	Antibody Detection	8724	Logistic Regression	0 days 00:00:00.443186000	0.9649395332455443	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.934568         0.856684  0.892837     0.895626      0.896452
+recall        0.849607         0.937939  0.892837     0.893773      0.892837
+f1-score      0.890065         0.895472  0.892837     0.892768      0.892711
+support     891.000000       854.000000  0.892837  1745.000000   1745.000000"	"[[757 134]
+ [ 53 801]]"	2
+13	Antibody Detection	8724	Logistic Regression	0 days 00:00:00.523922000	0.9619361248068291	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910429         0.877419  0.892837     0.893924      0.893612
+recall        0.866822         0.917885  0.892837     0.892354      0.892837
+f1-score      0.888091         0.897196  0.892837     0.892644      0.892730
+support     856.000000       889.000000  0.892837  1745.000000   1745.000000"	"[[742 114]
+ [ 73 816]]"	3
+14	Antibody Detection	8724	Logistic Regression	0 days 00:00:00.483323000	0.9649776453055141	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.907543         0.882990  0.894556     0.895266      0.895006
+recall        0.873536         0.914703  0.894556     0.894119      0.894556
+f1-score      0.890215         0.898567  0.894556     0.894391      0.894479
+support     854.000000       891.000000  0.894556  1745.000000   1745.000000"	"[[746 108]
+ [ 76 815]]"	4
+15	Biologics	6672	Random Forest	0 days 00:00:56.721209000	0.9697153668674645	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.888730         0.930599  0.908614     0.909665      0.909681
+recall        0.934033         0.883234  0.908614     0.908633      0.908614
+f1-score      0.910819         0.906298  0.908614     0.908558      0.908557
+support     667.000000       668.000000  0.908614  1335.000000   1335.000000"	"[[623  44]
+ [ 78 590]]"	0
+16	Biologics	6672	Random Forest	0 days 00:00:58.719787000	0.9760285819541037	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.883453         0.946875  0.913858     0.915164      0.916091
+recall        0.947531         0.882096  0.913858     0.914813      0.913858
+f1-score      0.914371         0.913338  0.913858     0.913855      0.913840
+support     648.000000       687.000000  0.913858  1335.000000   1335.000000"	"[[614  34]
+ [ 81 606]]"	1
+17	Biologics	6672	Random Forest	0 days 00:01:00.087264000	0.970288893884892	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.905767         0.918269   0.91161     0.912018      0.911760
+recall        0.926619         0.895312   0.91161     0.910966      0.911610
+f1-score      0.916074         0.906646   0.91161     0.911360      0.911554
+support     695.000000       640.000000   0.91161  1335.000000   1335.000000"	"[[644  51]
+ [ 67 573]]"	2
+18	Biologics	6672	Random Forest	0 days 00:01:22.204374000	0.9689573587379121	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.869986         0.923203  0.894382     0.896594      0.896256
+recall        0.930473         0.857360  0.894382     0.893917      0.894382
+f1-score      0.899214         0.889064  0.894382     0.894139      0.894203
+support     676.000000       659.000000  0.894382  1335.000000   1335.000000"	"[[629  47]
+ [ 94 565]]"	3
+19	Biologics	6672	Random Forest	0 days 00:01:24.797225000	0.9691746385171685	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.885551         0.932390  0.907865     0.908970      0.909163
+recall        0.935045         0.881129  0.907865     0.908087      0.907865
+f1-score      0.909625         0.906035  0.907865     0.907830      0.907815
+support     662.000000       673.000000  0.907865  1335.000000   1335.000000"	"[[619  43]
+ [ 80 593]]"	4
+20	Biologics	6672	MultinomialNB	0 days 00:00:00.050568000	0.939311781235131	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.774510         0.932563  0.835955     0.853536      0.853595
+recall        0.947526         0.724551  0.835955     0.836039      0.835955
+f1-score      0.852326         0.815501  0.835955     0.833914      0.833900
+support     667.000000       668.000000  0.835955  1335.000000   1335.000000"	"[[632  35]
+ [184 484]]"	0
+21	Biologics	6672	MultinomialNB	0 days 00:00:00.042580000	0.9490044386939098	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.776233         0.937500  0.841948     0.856866      0.859222
+recall        0.947531         0.742358  0.841948     0.844944      0.841948
+f1-score      0.853370         0.828595  0.841948     0.840983      0.840621
+support     648.000000       687.000000  0.841948  1335.000000   1335.000000"	"[[614  34]
+ [177 510]]"	1
+22	Biologics	6672	MultinomialNB	0 days 00:00:00.050705000	0.9325809352517986	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.798995         0.890538  0.835955     0.844767      0.842881
+recall        0.915108         0.750000  0.835955     0.832554      0.835955
+f1-score      0.853119         0.814249  0.835955     0.833684      0.834485
+support     695.000000       640.000000  0.835955  1335.000000   1335.000000"	"[[636  59]
+ [160 480]]"	2
+23	Biologics	6672	MultinomialNB	0 days 00:00:00.050584000	0.9369606989252139	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.775213         0.925781  0.832959     0.850497      0.849538
+recall        0.943787         0.719272  0.832959     0.831529      0.832959
+f1-score      0.851234         0.809564  0.832959     0.830399      0.830665
+support     676.000000       659.000000  0.832959  1335.000000   1335.000000"	"[[638  38]
+ [185 474]]"	3
+24	Biologics	6672	MultinomialNB	0 days 00:00:00.050562000	0.9348365751942647	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.775381         0.906764  0.829213     0.841072      0.841614
+recall        0.922961         0.736999  0.829213     0.829980      0.829213
+f1-score      0.842759         0.813115  0.829213     0.827937      0.827815
+support     662.000000       673.000000  0.829213  1335.000000   1335.000000"	"[[611  51]
+ [177 496]]"	4
+25	Biologics	6672	Logistic Regression	0 days 00:00:00.344058000	0.9663252206232213	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.915361         0.880918  0.897378     0.898139      0.898126
+recall        0.875562         0.919162  0.897378     0.897362      0.897378
+f1-score      0.895019         0.899634  0.897378     0.897326      0.897328
+support     667.000000       668.000000  0.897378  1335.000000   1335.000000"	"[[584  83]
+ [ 54 614]]"	0
+26	Biologics	6672	Logistic Regression	0 days 00:00:00.421835000	0.9702948946034827	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.925620         0.879452  0.900375     0.902536      0.901862
+recall        0.864198         0.934498  0.900375     0.899348      0.900375
+f1-score      0.893855         0.906140  0.900375     0.899997      0.900177
+support     648.000000       687.000000  0.900375  1335.000000   1335.000000"	"[[560  88]
+ [ 45 642]]"	1
+27	Biologics	6672	Logistic Regression	0 days 00:00:00.524931000	0.9616614208633093	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.932692         0.841069  0.883895     0.886881      0.888768
+recall        0.837410         0.934375  0.883895     0.885893      0.883895
+f1-score      0.882487         0.885270  0.883895     0.883878      0.883821
+support     695.000000       640.000000  0.883895  1335.000000   1335.000000"	"[[582 113]
+ [ 42 598]]"	2
+28	Biologics	6672	Logistic Regression	0 days 00:00:00.324641000	0.9627326682888723	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.916533         0.852528  0.882397     0.884530      0.884938
+recall        0.844675         0.921093  0.882397     0.882884      0.882397
+f1-score      0.879138         0.885485  0.882397     0.882311      0.882271
+support     676.000000       659.000000  0.882397  1335.000000   1335.000000"	"[[571 105]
+ [ 52 607]]"	3
+29	Biologics	6672	Logistic Regression	0 days 00:00:00.340303000	0.9670322270754119	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.922468         0.887624   0.90412     0.905046      0.904903
+recall        0.880665         0.927192   0.90412     0.903928      0.904120
+f1-score      0.901082         0.906977   0.90412     0.904029      0.904054
+support     662.000000       673.000000   0.90412  1335.000000   1335.000000"	"[[583  79]
+ [ 49 624]]"	4
+30	Classical epidemiology	22012	Random Forest	0 days 00:08:34.090492000	0.923789622030282	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.843891         0.852713  0.848285     0.848302      0.848329
+recall        0.852377         0.844244  0.848285     0.848310      0.848285
+f1-score      0.848113         0.848457  0.848285     0.848285      0.848286
+support    2188.000000      2215.000000  0.848285  4403.000000   4403.000000"	"[[1865  323]
+ [ 345 1870]]"	0
+31	Classical epidemiology	22012	Random Forest	0 days 00:07:48.944572000	0.9244068342272694	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.846358         0.852198  0.849194     0.849278      0.849236
+recall        0.858486         0.839631  0.849194     0.849059      0.849194
+f1-score      0.852379         0.845868  0.849194     0.849123      0.849170
+support    2233.000000      2170.000000  0.849194  4403.000000   4403.000000"	"[[1917  316]
+ [ 348 1822]]"	1
+32	Classical epidemiology	22012	Random Forest	0 days 00:06:59.757617000	0.9173219666803321	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.824672         0.849772  0.837156     0.837222      0.837493
+recall        0.847261         0.827479  0.837156     0.837370      0.837156
+f1-score      0.835814         0.838477  0.837156     0.837146      0.837174
+support    2154.000000      2249.000000  0.837156  4403.000000   4403.000000"	"[[1825  329]
+ [ 388 1861]]"	2
+33	Classical epidemiology	22012	Random Forest	0 days 00:08:56.359273000	0.9256595931726302	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.845438         0.850350  0.847831     0.847894      0.847862
+recall        0.856054         0.839393  0.847831     0.847723      0.847831
+f1-score      0.850713         0.844836  0.847831     0.847774      0.847812
+support    2230.000000      2173.000000  0.847831  4403.000000   4403.000000"	"[[1909  321]
+ [ 349 1824]]"	3
+34	Classical epidemiology	22012	Random Forest	0 days 00:08:24.997682000	0.9228784568119027	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.834431         0.856538  0.845106     0.845485      0.845467
+recall        0.861678         0.828480  0.845106     0.845079      0.845106
+f1-score      0.847836         0.842276  0.845106     0.845056      0.845060
+support    2205.000000      2198.000000  0.845106  4403.000000   4403.000000"	"[[1900  305]
+ [ 377 1821]]"	4
+35	Classical epidemiology	22012	MultinomialNB	0 days 00:00:00.171853000	0.8171505977608214	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.696394         0.785088  0.733136     0.740741      0.741013
+recall        0.820841         0.646501  0.733136     0.733671      0.733136
+f1-score      0.753514         0.709086  0.733136     0.731300      0.731164
+support    2188.000000      2215.000000  0.733136  4403.000000   4403.000000"	"[[1796  392]
+ [ 783 1432]]"	0
+36	Classical epidemiology	22012	MultinomialNB	0 days 00:00:00.179721000	0.8136773285509977	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.701897         0.769231   0.72973     0.735564      0.735082
+recall        0.811912         0.645161   0.72973     0.728537      0.729730
+f1-score      0.752907         0.701754   0.72973     0.727331      0.727697
+support    2233.000000      2170.000000   0.72973  4403.000000   4403.000000"	"[[1813  420]
+ [ 770 1400]]"	1
+37	Classical epidemiology	22012	MultinomialNB	0 days 00:00:00.163824000	0.8033583893470864	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.679654         0.770677  0.718147     0.725165      0.726147
+recall        0.801764         0.638061  0.718147     0.719913      0.718147
+f1-score      0.735676         0.698127  0.718147     0.716902      0.716497
+support    2154.000000      2249.000000  0.718147  4403.000000   4403.000000"	"[[1727  427]
+ [ 814 1435]]"	2
+38	Classical epidemiology	22012	MultinomialNB	0 days 00:00:00.179894000	0.8159579758924758	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.709148         0.774526  0.736543     0.741837      0.741414
+recall        0.813453         0.657616  0.736543     0.735535      0.736543
+f1-score      0.757728         0.711299  0.736543     0.734513      0.734814
+support    2230.000000      2173.000000  0.736543  4403.000000   4403.000000"	"[[1814  416]
+ [ 744 1429]]"	3
+39	Classical epidemiology	22012	MultinomialNB	0 days 00:00:00.173858000	0.809228756713483	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.687861         0.767699  0.720645     0.727780      0.727717
+recall        0.809524         0.631483  0.720645     0.720503      0.720645
+f1-score      0.743750         0.692961  0.720645     0.718355      0.718396
+support    2205.000000      2198.000000  0.720645  4403.000000   4403.000000"	"[[1785  420]
+ [ 810 1388]]"	4
+40	Classical epidemiology	22012	Logistic Regression	0 days 00:00:01.694569000	0.9131206127409511	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.866735         0.797308  0.828072     0.832022      0.831809
+recall        0.772852         0.882619  0.828072     0.827735      0.828072
+f1-score      0.817106         0.837797  0.828072     0.827451      0.827515
+support    2188.000000      2215.000000  0.828072  4403.000000   4403.000000"	"[[1691  497]
+ [ 260 1955]]"	0
+41	Classical epidemiology	22012	Logistic Regression	0 days 00:00:00.956960000	0.9171076500172322	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.870361         0.801008  0.832841     0.835684      0.836181
+recall        0.787730         0.879263  0.832841     0.833496      0.832841
+f1-score      0.826986         0.838313  0.832841     0.832650      0.832569
+support    2233.000000      2170.000000  0.832841  4403.000000   4403.000000"	"[[1759  474]
+ [ 262 1908]]"	1
+42	Classical epidemiology	22012	Logistic Regression	0 days 00:00:01.513828000	0.9086859196267154	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.865050         0.795291  0.825346     0.830171      0.829418
+recall        0.761838         0.886172  0.825346     0.824005      0.825346
+f1-score      0.810170         0.838275  0.825346     0.824223      0.824526
+support    2154.000000      2249.000000  0.825346  4403.000000   4403.000000"	"[[1641  513]
+ [ 256 1993]]"	2
+43	Classical epidemiology	22012	Logistic Regression	0 days 00:00:01.512346000	0.9183650137542072	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.881748         0.790480  0.830797     0.836114      0.836705
+recall        0.769058         0.894156  0.830797     0.831607      0.830797
+f1-score      0.821557         0.839128  0.830797     0.830342      0.830229
+support    2230.000000      2173.000000  0.830797  4403.000000   4403.000000"	"[[1715  515]
+ [ 230 1943]]"	3
+44	Classical epidemiology	22012	Logistic Regression	0 days 00:00:01.312517000	0.9152864178731852	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.873354         0.801976  0.833977     0.837665      0.837722
+recall        0.781859         0.886260  0.833977     0.834060      0.833977
+f1-score      0.825078         0.842014  0.833977     0.833546      0.833533
+support    2205.000000      2198.000000  0.833977  4403.000000   4403.000000"	"[[1724  481]
+ [ 250 1948]]"	4
+45	Clinical	36	Random Forest	0 days 00:00:01.262910000	0.40625	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         1.00         0.571429     0.625   0.785714      0.785714
+recall            0.25         1.000000     0.625   0.625000      0.625000
+f1-score          0.40         0.727273     0.625   0.563636      0.563636
+support           4.00         4.000000     0.625   8.000000      8.000000"	"[[1 3]
+ [0 4]]"	0
+46	Clinical	36	Random Forest	0 days 00:00:01.180468000	0.6666666666666666	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0         0.750000      0.75   0.375000      0.562500
+recall             0.0         1.000000      0.75   0.500000      0.750000
+f1-score           0.0         0.857143      0.75   0.428571      0.642857
+support            2.0         6.000000      0.75   8.000000      8.000000"	"[[0 2]
+ [0 6]]"	1
+47	Clinical	36	Random Forest	0 days 00:00:01.148062000	0.84375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         1.00         0.571429     0.625   0.785714      0.785714
+recall            0.25         1.000000     0.625   0.625000      0.625000
+f1-score          0.40         0.727273     0.625   0.563636      0.563636
+support           4.00         4.000000     0.625   8.000000      8.000000"	"[[1 3]
+ [0 4]]"	2
+48	Clinical	36	Random Forest	0 days 00:00:01.207267000	0.5333333333333334	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.714286      0.75   0.857143      0.821429
+recall        0.333333         1.000000      0.75   0.666667      0.750000
+f1-score      0.500000         0.833333      0.75   0.666667      0.708333
+support       3.000000         5.000000      0.75   8.000000      8.000000"	"[[1 2]
+ [0 5]]"	3
+49	Clinical	36	Random Forest	0 days 00:00:01.122265000	0.6	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0         0.625000     0.625   0.312500      0.390625
+recall             0.0         1.000000     0.625   0.500000      0.625000
+f1-score           0.0         0.769231     0.625   0.384615      0.480769
+support            3.0         5.000000     0.625   8.000000      8.000000"	"[[0 3]
+ [0 5]]"	4
+50	Clinical	36	MultinomialNB	0 days 00:00:00.008046000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.800000         1.000000     0.875   0.900000      0.900000
+recall        1.000000         0.750000     0.875   0.875000      0.875000
+f1-score      0.888889         0.857143     0.875   0.873016      0.873016
+support       4.000000         4.000000     0.875   8.000000      8.000000"	"[[4 0]
+ [1 3]]"	0
+51	Clinical	36	MultinomialNB	0 days 00:00:00.002048000	0.9166666666666667	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.25              0.0      0.25      0.125        0.0625
+recall            1.00              0.0      0.25      0.500        0.2500
+f1-score          0.40              0.0      0.25      0.200        0.1000
+support           2.00              6.0      0.25      8.000        8.0000"	"[[2 0]
+ [6 0]]"	1
+52	Clinical	36	MultinomialNB	0 days 00:00:00.008009000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            4.0              4.0       1.0        8.0           8.0"	"[[4 0]
+ [0 4]]"	2
+53	Clinical	36	MultinomialNB	0 days 00:00:00.000000000	0.9333333333333333	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.428571         1.000000       0.5   0.714286      0.785714
+recall        1.000000         0.200000       0.5   0.600000      0.500000
+f1-score      0.600000         0.333333       0.5   0.466667      0.433333
+support       3.000000         5.000000       0.5   8.000000      8.000000"	"[[3 0]
+ [4 1]]"	3
+54	Clinical	36	MultinomialNB	0 days 00:00:00.012088000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.60             1.00      0.75       0.80          0.85
+recall            1.00             0.60      0.75       0.80          0.75
+f1-score          0.75             0.75      0.75       0.75          0.75
+support           3.00             5.00      0.75       8.00          8.00"	"[[3 0]
+ [2 3]]"	4
+55	Clinical	36	Logistic Regression	0 days 00:00:00.010098000	0.9375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         1.00         0.571429     0.625   0.785714      0.785714
+recall            0.25         1.000000     0.625   0.625000      0.625000
+f1-score          0.40         0.727273     0.625   0.563636      0.563636
+support           4.00         4.000000     0.625   8.000000      8.000000"	"[[1 3]
+ [0 4]]"	0
+56	Clinical	36	Logistic Regression	0 days 00:00:00.010070000	0.8333333333333333	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.285714         1.000000     0.375   0.642857      0.821429
+recall        1.000000         0.166667     0.375   0.583333      0.375000
+f1-score      0.444444         0.285714     0.375   0.365079      0.325397
+support       2.000000         6.000000     0.375   8.000000      8.000000"	"[[2 0]
+ [5 1]]"	1
+57	Clinical	36	Logistic Regression	0 days 00:00:00.010101000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         1.00         0.571429     0.625   0.785714      0.785714
+recall            0.25         1.000000     0.625   0.625000      0.625000
+f1-score          0.40         0.727273     0.625   0.563636      0.563636
+support           4.00         4.000000     0.625   8.000000      8.000000"	"[[1 3]
+ [0 4]]"	2
+58	Clinical	36	Logistic Regression	0 days 00:00:00.010068000	0.7333333333333334	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.333333              0.6       0.5   0.466667           0.5
+recall        0.333333              0.6       0.5   0.466667           0.5
+f1-score      0.333333              0.6       0.5   0.466667           0.5
+support       3.000000              5.0       0.5   8.000000           8.0"	"[[1 2]
+ [2 3]]"	3
+59	Clinical	36	Logistic Regression	0 days 00:00:00.010051000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          0.0         0.625000     0.625   0.312500      0.390625
+recall             0.0         1.000000     0.625   0.500000      0.625000
+f1-score           0.0         0.769231     0.625   0.384615      0.480769
+support            3.0         5.000000     0.625   8.000000      8.000000"	"[[0 3]
+ [0 5]]"	4
+60	Epidemiology	58	Random Forest	0 days 00:00:01.192571000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            6.0              6.0       1.0       12.0          12.0"	"[[6 0]
+ [0 6]]"	0
+61	Epidemiology	58	Random Forest	0 days 00:00:01.209386000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.666667         1.000000  0.833333   0.833333      0.888889
+recall        1.000000         0.750000  0.833333   0.875000      0.833333
+f1-score      0.800000         0.857143  0.833333   0.828571      0.838095
+support       4.000000         8.000000  0.833333  12.000000     12.000000"	"[[4 0]
+ [2 6]]"	1
+62	Epidemiology	58	Random Forest	0 days 00:00:01.196551000	0.90625	"           in category  not in category  accuracy  macro avg  weighted avg
+precision         0.75            0.875  0.833333     0.8125      0.833333
+recall            0.75            0.875  0.833333     0.8125      0.833333
+f1-score          0.75            0.875  0.833333     0.8125      0.833333
+support           4.00            8.000  0.833333    12.0000     12.000000"	"[[3 1]
+ [1 7]]"	2
+63	Epidemiology	58	Random Forest	0 days 00:00:01.200277000	0.942857142857143	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.833333  0.916667   0.916667      0.930556
+recall        0.857143         1.000000  0.916667   0.928571      0.916667
+f1-score      0.923077         0.909091  0.916667   0.916084      0.917249
+support       7.000000         5.000000  0.916667  12.000000     12.000000"	"[[6 1]
+ [0 5]]"	3
+64	Epidemiology	58	Random Forest	0 days 00:00:01.211002000	0.84375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.857143         0.600000      0.75   0.728571      0.771429
+recall        0.750000         0.750000      0.75   0.750000      0.750000
+f1-score      0.800000         0.666667      0.75   0.733333      0.755556
+support       8.000000         4.000000      0.75  12.000000     12.000000"	"[[6 2]
+ [1 3]]"	4
+65	Epidemiology	58	MultinomialNB	0 days 00:00:00.010096000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision          1.0              1.0       1.0        1.0           1.0
+recall             1.0              1.0       1.0        1.0           1.0
+f1-score           1.0              1.0       1.0        1.0           1.0
+support            6.0              6.0       1.0       12.0          12.0"	"[[6 0]
+ [0 6]]"	0
+66	Epidemiology	58	MultinomialNB	0 days 00:00:00.008059000	0.875	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.428571         0.800000  0.583333   0.614286      0.676190
+recall        0.750000         0.500000  0.583333   0.625000      0.583333
+f1-score      0.545455         0.615385  0.583333   0.580420      0.592075
+support       4.000000         8.000000  0.583333  12.000000     12.000000"	"[[3 1]
+ [4 4]]"	1
+67	Epidemiology	58	MultinomialNB	0 days 00:00:00.002045000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.500000         1.000000  0.666667   0.750000      0.833333
+recall        1.000000         0.500000  0.666667   0.750000      0.666667
+f1-score      0.666667         0.666667  0.666667   0.666667      0.666667
+support       4.000000         8.000000  0.666667  12.000000     12.000000"	"[[4 0]
+ [4 4]]"	2
+68	Epidemiology	58	MultinomialNB	0 days 00:00:00.008045000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.833333  0.916667   0.916667      0.930556
+recall        0.857143         1.000000  0.916667   0.928571      0.916667
+f1-score      0.923077         0.909091  0.916667   0.916084      0.917249
+support       7.000000         5.000000  0.916667  12.000000     12.000000"	"[[6 1]
+ [0 5]]"	3
+69	Epidemiology	58	MultinomialNB	0 days 00:00:00.002048000	0.875	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.666667  0.833333   0.833333      0.888889
+recall        0.750000         1.000000  0.833333   0.875000      0.833333
+f1-score      0.857143         0.800000  0.833333   0.828571      0.838095
+support       8.000000         4.000000  0.833333  12.000000     12.000000"	"[[6 2]
+ [0 4]]"	4
+70	Epidemiology	58	Logistic Regression	0 days 00:00:00.010101000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.750000  0.833333   0.875000      0.875000
+recall        0.666667         1.000000  0.833333   0.833333      0.833333
+f1-score      0.800000         0.857143  0.833333   0.828571      0.828571
+support       6.000000         6.000000  0.833333  12.000000     12.000000"	"[[4 2]
+ [0 6]]"	0
+71	Epidemiology	58	Logistic Regression	0 days 00:00:00.018156000	0.9375	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.600000         0.857143      0.75   0.728571      0.771429
+recall        0.750000         0.750000      0.75   0.750000      0.750000
+f1-score      0.666667         0.800000      0.75   0.733333      0.755556
+support       4.000000         8.000000      0.75  12.000000     12.000000"	"[[3 1]
+ [2 6]]"	1
+72	Epidemiology	58	Logistic Regression	0 days 00:00:00.010114000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.800000         1.000000  0.916667   0.900000      0.933333
+recall        1.000000         0.875000  0.916667   0.937500      0.916667
+f1-score      0.888889         0.933333  0.916667   0.911111      0.918519
+support       4.000000         8.000000  0.916667  12.000000     12.000000"	"[[4 0]
+ [1 7]]"	2
+73	Epidemiology	58	Logistic Regression	0 days 00:00:00.012187000	1.0	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.833333  0.916667   0.916667      0.930556
+recall        0.857143         1.000000  0.916667   0.928571      0.916667
+f1-score      0.923077         0.909091  0.916667   0.916084      0.917249
+support       7.000000         5.000000  0.916667  12.000000     12.000000"	"[[6 1]
+ [0 5]]"	3
+74	Epidemiology	58	Logistic Regression	0 days 00:00:00.010112000	0.90625	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     1.000000         0.571429      0.75   0.785714      0.857143
+recall        0.625000         1.000000      0.75   0.812500      0.750000
+f1-score      0.769231         0.727273      0.75   0.748252      0.755245
+support       8.000000         4.000000      0.75  12.000000     12.000000"	"[[5 3]
+ [0 4]]"	4
+75	Host Factors	1198	Random Forest	0 days 00:00:06.264322000	0.9817832167832168	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.883333         0.966667     0.925    0.925000      0.928472
+recall        0.963636         0.892308     0.925    0.927972      0.925000
+f1-score      0.921739         0.928000     0.925    0.924870      0.925130
+support     110.000000       130.000000     0.925  240.000000    240.000000"	"[[106   4]
+ [ 14 116]]"	0
+76	Host Factors	1198	Random Forest	0 days 00:00:06.321231000	0.9802979671400724	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.888889         0.942857    0.9125    0.915873      0.914524
+recall        0.952381         0.868421    0.9125    0.910401      0.912500
+f1-score      0.919540         0.904110    0.9125    0.911825      0.912211
+support     126.000000       114.000000    0.9125  240.000000    240.000000"	"[[120   6]
+ [ 15  99]]"	1
+77	Host Factors	1198	Random Forest	0 days 00:00:06.218559000	0.9850684075283006	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.900763         0.972477  0.933333    0.936620      0.936321
+recall        0.975207         0.890756  0.933333    0.932981      0.933333
+f1-score      0.936508         0.929825  0.933333    0.933166      0.933194
+support     121.000000       119.000000  0.933333  240.000000    240.000000"	"[[118   3]
+ [ 13 106]]"	2
+78	Host Factors	1198	Random Forest	0 days 00:00:06.194695000	0.9577513723855187	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.853846         0.890909  0.870833    0.872378      0.871914
+recall        0.902439         0.837607  0.870833    0.870023      0.870833
+f1-score      0.877470         0.863436  0.870833    0.870453      0.870629
+support     123.000000       117.000000  0.870833  240.000000    240.000000"	"[[111  12]
+ [ 19  98]]"	3
+79	Host Factors	1198	Random Forest	0 days 00:00:06.301611000	0.9615545778336476	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.793893         0.935780  0.858333    0.864836      0.870157
+recall        0.936937         0.790698  0.858333    0.863817      0.858333
+f1-score      0.859504         0.857143  0.858333    0.858323      0.858235
+support     111.000000       129.000000  0.858333  240.000000    240.000000"	"[[104   7]
+ [ 27 102]]"	4
+80	Host Factors	1198	MultinomialNB	0 days 00:00:00.018316000	0.9783916083916084	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.726667         0.988889     0.825    0.857778      0.868704
+recall        0.990909         0.684615     0.825    0.837762      0.825000
+f1-score      0.838462         0.809091     0.825    0.823776      0.822552
+support     110.000000       130.000000     0.825  240.000000    240.000000"	"[[109   1]
+ [ 41  89]]"	0
+81	Host Factors	1198	MultinomialNB	0 days 00:00:00.012358000	0.9569757727652466	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.786164         0.987654  0.854167    0.886909      0.881872
+recall        0.992063         0.701754  0.854167    0.846909      0.854167
+f1-score      0.877193         0.820513  0.854167    0.848853      0.850270
+support     126.000000       114.000000  0.854167  240.000000    240.000000"	"[[125   1]
+ [ 34  80]]"	1
+82	Host Factors	1198	MultinomialNB	0 days 00:00:00.010196000	0.9746510174317662	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.764331         0.987952  0.841667    0.876142      0.875210
+recall        0.991736         0.689076  0.841667    0.840406      0.841667
+f1-score      0.863309         0.811881  0.841667    0.837595      0.837810
+support     121.000000       119.000000  0.841667  240.000000    240.000000"	"[[120   1]
+ [ 37  82]]"	2
+83	Host Factors	1198	MultinomialNB	0 days 00:00:00.010246000	0.938503231186158	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.756250         0.975000  0.829167    0.865625      0.862891
+recall        0.983740         0.666667  0.829167    0.825203      0.829167
+f1-score      0.855124         0.791878  0.829167    0.823501      0.824291
+support     123.000000       117.000000  0.829167  240.000000    240.000000"	"[[121   2]
+ [ 39  78]]"	3
+84	Host Factors	1198	MultinomialNB	0 days 00:00:00.010191000	0.9392415671485439	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.677019         0.974684     0.775    0.825851      0.837014
+recall        0.981982         0.596899     0.775    0.789441      0.775000
+f1-score      0.801471         0.740385     0.775    0.770928      0.768637
+support     111.000000       129.000000     0.775  240.000000    240.000000"	"[[109   2]
+ [ 52  77]]"	4
+85	Host Factors	1198	Logistic Regression	0 days 00:00:00.068959000	0.963986013986014	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.929293         0.872340  0.895833    0.900817      0.898444
+recall        0.836364         0.946154  0.895833    0.891259      0.895833
+f1-score      0.880383         0.907749  0.895833    0.894066      0.895206
+support     110.000000       130.000000  0.895833  240.000000    240.000000"	"[[ 92  18]
+ [  7 123]]"	0
+86	Host Factors	1198	Logistic Regression	0 days 00:00:00.092714000	0.9727791701475912	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.901639         0.864407  0.883333    0.883023      0.883954
+recall        0.873016         0.894737  0.883333    0.883876      0.883333
+f1-score      0.887097         0.879310  0.883333    0.883204      0.883398
+support     126.000000       114.000000  0.883333  240.000000    240.000000"	"[[110  16]
+ [ 12 102]]"	1
+87	Host Factors	1198	Logistic Regression	0 days 00:00:00.070378000	0.9707618584623933	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.914530         0.886179       0.9    0.900354      0.900473
+recall        0.884298         0.915966       0.9    0.900132      0.900000
+f1-score      0.899160         0.900826       0.9    0.899993      0.899986
+support     121.000000       119.000000       0.9  240.000000    240.000000"	"[[107  14]
+ [ 10 109]]"	2
+88	Host Factors	1198	Logistic Regression	0 days 00:00:00.100625000	0.9445486762559934	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.870968         0.870690  0.870833    0.870829      0.870832
+recall        0.878049         0.863248  0.870833    0.870648      0.870833
+f1-score      0.874494         0.866953  0.870833    0.870723      0.870818
+support     123.000000       117.000000  0.870833  240.000000    240.000000"	"[[108  15]
+ [ 16 101]]"	3
+89	Host Factors	1198	Logistic Regression	0 days 00:00:00.050219000	0.9445492003631538	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.850877         0.888889  0.870833    0.869883      0.871308
+recall        0.873874         0.868217  0.870833    0.871045      0.870833
+f1-score      0.862222         0.878431  0.870833    0.870327      0.870935
+support     111.000000       129.000000  0.870833  240.000000    240.000000"	"[[ 97  14]
+ [ 17 112]]"	4
+90	Host-Intermediate Reservoirs	1454	Random Forest	0 days 00:00:08.324382000	0.9637660619803476	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.915493         0.885906  0.900344    0.900699      0.900852
+recall        0.884354         0.916667  0.900344    0.900510      0.900344
+f1-score      0.899654         0.901024  0.900344    0.900339      0.900332
+support     147.000000       144.000000  0.900344  291.000000    291.000000"	"[[130  17]
+ [ 12 132]]"	0
+91	Host-Intermediate Reservoirs	1454	Random Forest	0 days 00:00:07.983515000	0.9375532821824382	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.895161         0.838323  0.862543    0.866742      0.865277
+recall        0.804348         0.915033  0.862543    0.859690      0.862543
+f1-score      0.847328         0.875000  0.862543    0.861164      0.861877
+support     138.000000       153.000000  0.862543  291.000000    291.000000"	"[[111  27]
+ [ 13 140]]"	1
+92	Host-Intermediate Reservoirs	1454	Random Forest	0 days 00:00:07.933865000	0.9530169555745003	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.916667         0.893082   0.90378    0.904874      0.904266
+recall        0.876812         0.928105   0.90378    0.902458      0.903780
+f1-score      0.896296         0.910256   0.90378    0.903276      0.903636
+support     138.000000       153.000000   0.90378  291.000000    291.000000"	"[[121  17]
+ [ 11 142]]"	2
+93	Host-Intermediate Reservoirs	1454	Random Forest	0 days 00:00:07.962606000	0.9399149740198394	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.916667         0.849057  0.879725    0.882862      0.882745
+recall        0.834483         0.924658  0.879725    0.879570      0.879725
+f1-score      0.873646         0.885246  0.879725    0.879446      0.879466
+support     145.000000       146.000000  0.879725  291.000000    291.000000"	"[[121  24]
+ [ 11 135]]"	3
+94	Host-Intermediate Reservoirs	1454	Random Forest	0 days 00:00:07.926114000	0.9381557803195009	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.948529         0.870968  0.907216    0.909749      0.910681
+recall        0.865772         0.950704  0.907216    0.908238      0.907216
+f1-score      0.905263         0.909091  0.907216    0.907177      0.907131
+support     149.000000       142.000000  0.907216  291.000000    291.000000"	"[[129  20]
+ [  7 135]]"	4
+95	Host-Intermediate Reservoirs	1454	MultinomialNB	0 days 00:00:00.010201000	0.964332955404384	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.819767         0.949580  0.872852    0.884674      0.884005
+recall        0.959184         0.784722  0.872852    0.871953      0.872852
+f1-score      0.884013         0.859316  0.872852    0.871664      0.871791
+support     147.000000       144.000000  0.872852  291.000000    291.000000"	"[[141   6]
+ [ 31 113]]"	0
+96	Host-Intermediate Reservoirs	1454	MultinomialNB	0 days 00:00:00.020437000	0.9218054371507057	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.805195         0.897810  0.848797    0.851503      0.853890
+recall        0.898551         0.803922  0.848797    0.851236      0.848797
+f1-score      0.849315         0.848276  0.848797    0.848795      0.848769
+support     138.000000       153.000000  0.848797  291.000000    291.000000"	"[[124  14]
+ [ 30 123]]"	1
+97	Host-Intermediate Reservoirs	1454	MultinomialNB	0 days 00:00:00.010240000	0.9515960973761485	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.797546         0.937500  0.859107    0.867523      0.871130
+recall        0.942029         0.784314  0.859107    0.863171      0.859107
+f1-score      0.863787         0.854093  0.859107    0.858940      0.858690
+support     138.000000       153.000000  0.859107  291.000000    291.000000"	"[[130   8]
+ [ 33 120]]"	2
+98	Host-Intermediate Reservoirs	1454	MultinomialNB	0 days 00:00:00.018295000	0.9288143599433161	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.792453         0.856061  0.821306    0.824257      0.824366
+recall        0.868966         0.773973  0.821306    0.821469      0.821306
+f1-score      0.828947         0.812950  0.821306    0.820949      0.820921
+support     145.000000       146.000000  0.821306  291.000000    291.000000"	"[[126  19]
+ [ 33 113]]"	3
+99	Host-Intermediate Reservoirs	1454	MultinomialNB	0 days 00:00:00.012163000	0.9282068248416675	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.818750         0.862595  0.838488    0.840673      0.840145
+recall        0.879195         0.795775  0.838488    0.837485      0.838488
+f1-score      0.847896         0.827839  0.838488    0.837868      0.838109
+support     149.000000       142.000000  0.838488  291.000000    291.000000"	"[[131  18]
+ [ 29 113]]"	4
+100	Host-Intermediate Reservoirs	1454	Logistic Regression	0 days 00:00:00.091291000	0.9632936507936509	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.933333         0.865385  0.896907    0.899359      0.899709
+recall        0.857143         0.937500  0.896907    0.897321      0.896907
+f1-score      0.893617         0.900000  0.896907    0.896809      0.896776
+support     147.000000       144.000000  0.896907  291.000000    291.000000"	"[[126  21]
+ [  9 135]]"	0
+101	Host-Intermediate Reservoirs	1454	Logistic Regression	0 days 00:00:00.141184000	0.9425499668466422	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.933333         0.847953  0.883162    0.890643      0.888443
+recall        0.811594         0.947712  0.883162    0.879653      0.883162
+f1-score      0.868217         0.895062  0.883162    0.881639      0.882331
+support     138.000000       153.000000  0.883162  291.000000    291.000000"	"[[112  26]
+ [  8 145]]"	1
+102	Host-Intermediate Reservoirs	1454	Logistic Regression	0 days 00:00:00.098599000	0.9553850525717534	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.929688         0.883436   0.90378    0.906562      0.905369
+recall        0.862319         0.941176   0.90378    0.901748      0.903780
+f1-score      0.894737         0.911392   0.90378    0.903065      0.903494
+support     138.000000       153.000000   0.90378  291.000000    291.000000"	"[[119  19]
+ [  9 144]]"	2
+103	Host-Intermediate Reservoirs	1454	Logistic Regression	0 days 00:00:00.070634000	0.9329711856400567	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.919355         0.814371  0.859107    0.866863      0.866683
+recall        0.786207         0.931507  0.859107    0.858857      0.859107
+f1-score      0.847584         0.869010  0.859107    0.858297      0.858333
+support     145.000000       146.000000  0.859107  291.000000    291.000000"	"[[114  31]
+ [ 10 136]]"	3
+104	Host-Intermediate Reservoirs	1454	Logistic Regression	0 days 00:00:00.131133000	0.9347291804518385	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.938931         0.837500  0.883162    0.888216      0.889436
+recall        0.825503         0.943662  0.883162    0.884583      0.883162
+f1-score      0.878571         0.887417  0.883162    0.882994      0.882888
+support     149.000000       142.000000  0.883162  291.000000    291.000000"	"[[123  26]
+ [  8 134]]"	4
+105	Immunological Response	9868	Random Forest	0 days 00:01:33.510676000	0.963455632512697	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.886567         0.931889  0.908815     0.909228      0.909917
+recall        0.931034         0.887906  0.908815     0.909470      0.908815
+f1-score      0.908257         0.909366  0.908815     0.908811      0.908828
+support     957.000000      1017.000000  0.908815  1974.000000   1974.000000"	"[[891  66]
+ [114 903]]"	0
+106	Immunological Response	9868	Random Forest	0 days 00:01:34.973251000	0.9662155087459966	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.881905         0.930736  0.904762     0.906320      0.906246
+recall        0.935354         0.873984  0.904762     0.904669      0.904762
+f1-score      0.907843         0.901468  0.904762     0.904655      0.904665
+support     990.000000       984.000000  0.904762  1974.000000   1974.000000"	"[[926  64]
+ [124 860]]"	1
+107	Immunological Response	9868	Random Forest	0 days 00:01:35.976987000	0.9751069215326875	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.912162         0.936034  0.923506     0.924098      0.923880
+recall        0.940299         0.906089  0.923506     0.923194      0.923506
+f1-score      0.926017         0.920818  0.923506     0.923417      0.923465
+support    1005.000000       969.000000  0.923506  1974.000000   1974.000000"	"[[945  60]
+ [ 91 878]]"	2
+108	Immunological Response	9868	Random Forest	0 days 00:01:35.073189000	0.9699440958848986	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.892720         0.939785  0.914894     0.916253      0.916229
+recall        0.943320         0.886410  0.914894     0.914865      0.914894
+f1-score      0.917323         0.912317  0.914894     0.914820      0.914823
+support     988.000000       986.000000  0.914894  1974.000000   1974.000000"	"[[932  56]
+ [112 874]]"	3
+109	Immunological Response	9868	Random Forest	0 days 00:01:34.028307000	0.9664563395900932	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.875723         0.934829  0.903749     0.905276      0.905785
+recall        0.937113         0.871514  0.903749     0.904314      0.903749
+f1-score      0.905378         0.902062  0.903749     0.903720      0.903692
+support     970.000000      1004.000000  0.903749  1974.000000   1974.000000"	"[[909  61]
+ [129 875]]"	4
+110	Immunological Response	9868	MultinomialNB	0 days 00:00:00.070666000	0.9580033885801356	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.862333         0.940733  0.899189     0.901533      0.902724
+recall        0.942529         0.858407  0.899189     0.900468      0.899189
+f1-score      0.900649         0.897686  0.899189     0.899168      0.899123
+support     957.000000      1017.000000  0.899189  1974.000000   1974.000000"	"[[902  55]
+ [144 873]]"	0
+111	Immunological Response	9868	MultinomialNB	0 days 00:00:00.070693000	0.9581670362158168	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.863720         0.941441  0.898683     0.902581      0.902463
+recall        0.947475         0.849593  0.898683     0.898534      0.898683
+f1-score      0.903661         0.893162  0.898683     0.898412      0.898428
+support     990.000000       984.000000  0.898683  1974.000000   1974.000000"	"[[938  52]
+ [148 836]]"	1
+112	Immunological Response	9868	MultinomialNB	0 days 00:00:00.071143000	0.9708968059598806	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.887859         0.947486  0.914894     0.917673      0.917129
+recall        0.953234         0.875129  0.914894     0.914181      0.914894
+f1-score      0.919386         0.909871  0.914894     0.914629      0.914715
+support    1005.000000       969.000000  0.914894  1974.000000   1974.000000"	"[[958  47]
+ [121 848]]"	2
+113	Immunological Response	9868	MultinomialNB	0 days 00:00:00.081672000	0.9620506935148762	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.869806         0.948373  0.905268     0.909089      0.909050
+recall        0.953441         0.856998  0.905268     0.905220      0.905268
+f1-score      0.909705         0.900373  0.905268     0.905039      0.905044
+support     988.000000       986.000000  0.905268  1974.000000   1974.000000"	"[[942  46]
+ [141 845]]"	3
+114	Immunological Response	9868	MultinomialNB	0 days 00:00:00.071578000	0.9616687887624759	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.857811         0.941436   0.89615     0.899624      0.900344
+recall        0.945361         0.848606   0.89615     0.896983      0.896150
+f1-score      0.899461         0.892614   0.89615     0.896037      0.895978
+support     970.000000      1004.000000   0.89615  1974.000000   1974.000000"	"[[917  53]
+ [152 852]]"	4
+115	Immunological Response	9868	Logistic Regression	0 days 00:00:00.482695000	0.9694472956602953	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.911734         0.921860   0.91692     0.916797      0.916951
+recall        0.917450         0.916421   0.91692     0.916936      0.916920
+f1-score      0.914583         0.919132   0.91692     0.916858      0.916927
+support     957.000000      1017.000000   0.91692  1974.000000   1974.000000"	"[[878  79]
+ [ 85 932]]"	0
+116	Immunological Response	9868	Logistic Regression	0 days 00:00:00.608833000	0.9662827461607949	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.914487         0.917347  0.915907     0.915917      0.915913
+recall        0.918182         0.913618  0.915907     0.915900      0.915907
+f1-score      0.916331         0.915479  0.915907     0.915905      0.915906
+support     990.000000       984.000000  0.915907  1974.000000   1974.000000"	"[[909  81]
+ [ 85 899]]"	1
+117	Immunological Response	9868	Logistic Regression	0 days 00:00:00.519476000	0.9768751700732663	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.929878         0.909091  0.919453     0.919484      0.919674
+recall        0.910448         0.928793  0.919453     0.919620      0.919453
+f1-score      0.920060         0.918836  0.919453     0.919448      0.919459
+support    1005.000000       969.000000  0.919453  1974.000000   1974.000000"	"[[915  90]
+ [ 69 900]]"	2
+118	Immunological Response	9868	Logistic Regression	0 days 00:00:00.412624000	0.9697916581123585	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910626         0.926577   0.91844     0.918601      0.918593
+recall        0.928138         0.908722   0.91844     0.918430      0.918440
+f1-score      0.919298         0.917563   0.91844     0.918430      0.918431
+support     988.000000       986.000000   0.91844  1974.000000   1974.000000"	"[[917  71]
+ [ 90 896]]"	3
+119	Immunological Response	9868	Logistic Regression	0 days 00:00:00.383957000	0.967250585287715	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.899796         0.909639  0.904762     0.904717      0.904802
+recall        0.907216         0.902390  0.904762     0.904803      0.904762
+f1-score      0.903491         0.906000  0.904762     0.904745      0.904767
+support     970.000000      1004.000000  0.904762  1974.000000   1974.000000"	"[[880  90]
+ [ 98 906]]"	4
+120	Individual Prevention	85426	Random Forest	0 days 01:07:24.246418000	0.970050517063101	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.901727         0.937711  0.919174      0.919719      0.919909
+recall        0.938957         0.899803  0.919174      0.919380      0.919174
+f1-score      0.919965         0.918366  0.919174      0.919166      0.919157
+support    8453.000000      8633.000000  0.919174  17086.000000  17086.000000"	"[[7937  516]
+ [ 865 7768]]"	0
+121	Individual Prevention	85426	Random Forest	0 days 01:10:40.557763000	0.966355850550174	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.898452         0.931490  0.914257      0.914971      0.914924
+recall        0.934633         0.893767  0.914257      0.914200      0.914257
+f1-score      0.916185         0.912239  0.914257      0.914212      0.914217
+support    8567.000000      8519.000000  0.914257  17086.000000  17086.000000"	"[[8007  560]
+ [ 905 7614]]"	1
+122	Individual Prevention	85426	Random Forest	0 days 01:10:36.108473000	0.9659187648074117	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.896368         0.929853  0.912209      0.913110      0.912926
+recall        0.934352         0.889573  0.912209      0.911962      0.912209
+f1-score      0.914966         0.909267  0.912209      0.912116      0.912148
+support    8637.000000      8449.000000  0.912209  17086.000000  17086.000000"	"[[8070  567]
+ [ 933 7516]]"	2
+123	Individual Prevention	85426	Random Forest	0 days 01:01:01.114961000	0.9690843977828143	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.902373         0.934756  0.917827      0.918565      0.918472
+recall        0.938082         0.897339  0.917827      0.917711      0.917827
+f1-score      0.919881         0.915666  0.917827      0.917773      0.917786
+support    8592.000000      8494.000000  0.917827  17086.000000  17086.000000"	"[[8060  532]
+ [ 872 7622]]"	3
+124	Individual Prevention	85426	Random Forest	0 days 01:13:57.075777000	0.9674665791787549	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.898014         0.936115   0.91613      0.917065      0.917011
+recall        0.939419         0.892710   0.91613      0.916065      0.916130
+f1-score      0.918250         0.913898   0.91613      0.916074      0.916080
+support    8567.000000      8519.000000   0.91613  17086.000000  17086.000000"	"[[8048  519]
+ [ 914 7605]]"	4
+125	Individual Prevention	85426	MultinomialNB	0 days 00:00:01.719950000	0.942107097894917	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.866222         0.889405  0.877619      0.877813      0.877935
+recall        0.890098         0.865400  0.877619      0.877749      0.877619
+f1-score      0.877998         0.877238  0.877619      0.877618      0.877614
+support    8453.000000      8633.000000  0.877619  17086.000000  17086.000000"	"[[7524  929]
+ [1162 7471]]"	0
+126	Individual Prevention	85426	MultinomialNB	0 days 00:00:01.687454000	0.9383748845421681	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.868084         0.883305  0.875512      0.875695      0.875673
+recall        0.886425         0.864538  0.875512      0.875481      0.875512
+f1-score      0.877159         0.873821  0.875512      0.875490      0.875494
+support    8567.000000      8519.000000  0.875512  17086.000000  17086.000000"	"[[7594  973]
+ [1154 7365]]"	1
+127	Individual Prevention	85426	MultinomialNB	0 days 00:00:01.689991000	0.9391340585860337	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.868741         0.880903  0.874634      0.874822      0.874755
+recall        0.885840         0.863179  0.874634      0.874510      0.874634
+f1-score      0.877207         0.871951  0.874634      0.874579      0.874608
+support    8637.000000      8449.000000  0.874634  17086.000000  17086.000000"	"[[7651  986]
+ [1156 7293]]"	2
+128	Individual Prevention	85426	MultinomialNB	0 days 00:00:01.620815000	0.9410272460919943	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.866237         0.887042  0.876273      0.876639      0.876580
+recall        0.891643         0.860725  0.876273      0.876184      0.876273
+f1-score      0.878757         0.873685  0.876273      0.876221      0.876236
+support    8592.000000      8494.000000  0.876273  17086.000000  17086.000000"	"[[7661  931]
+ [1183 7311]]"	3
+129	Individual Prevention	85426	MultinomialNB	0 days 00:00:01.709218000	0.939465025979665	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.866425         0.887988  0.876858      0.877207      0.877176
+recall        0.891911         0.861721  0.876858      0.876816      0.876858
+f1-score      0.878983         0.874657  0.876858      0.876820      0.876826
+support    8567.000000      8519.000000  0.876858  17086.000000  17086.000000"	"[[7641  926]
+ [1178 7341]]"	4
+130	Individual Prevention	85426	Logistic Regression	0 days 00:00:14.474285000	0.9709652581333306	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.908628         0.929265  0.918822      0.918947      0.919056
+recall        0.929374         0.908491  0.918822      0.918932      0.918822
+f1-score      0.918884         0.918761  0.918822      0.918822      0.918822
+support    8453.000000      8633.000000  0.918822  17086.000000  17086.000000"	"[[7856  597]
+ [ 790 7843]]"	0
+131	Individual Prevention	85426	Logistic Regression	0 days 00:00:13.886482000	0.9674657433593498	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.902417         0.921698  0.911799      0.912058      0.912030
+recall        0.924011         0.899519  0.911799      0.911765      0.911799
+f1-score      0.913086         0.910473  0.911799      0.911780      0.911783
+support    8567.000000      8519.000000  0.911799  17086.000000  17086.000000"	"[[7916  651]
+ [ 856 7663]]"	1
+132	Individual Prevention	85426	Logistic Regression	0 days 00:00:14.499249000	0.9692079699659658	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.908534         0.923737  0.915896      0.916135      0.916052
+recall        0.926942         0.904604  0.915896      0.915773      0.915896
+f1-score      0.917646         0.914070  0.915896      0.915858      0.915878
+support    8637.000000      8449.000000  0.915896  17086.000000  17086.000000"	"[[8006  631]
+ [ 806 7643]]"	2
+133	Individual Prevention	85426	Logistic Regression	0 days 00:00:14.479334000	0.9689565758763224	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.906481         0.923679  0.914843      0.915080      0.915031
+recall        0.926210         0.903344  0.914843      0.914777      0.914843
+f1-score      0.916240         0.913398  0.914843      0.914819      0.914827
+support    8592.000000      8494.000000  0.914843  17086.000000  17086.000000"	"[[7958  634]
+ [ 821 7673]]"	3
+134	Individual Prevention	85426	Logistic Regression	0 days 00:00:13.938253000	0.9675745917094142	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.903376         0.925202  0.913965      0.914289      0.914258
+recall        0.927629         0.900223  0.913965      0.913926      0.913965
+f1-score      0.915342         0.912542  0.913965      0.913942      0.913946
+support    8567.000000      8519.000000  0.913965  17086.000000  17086.000000"	"[[7947  620]
+ [ 850 7669]]"	4
+135	Mechanism of Infection	4976	Random Forest	0 days 00:01:15.400238000	0.9897334032427201	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.918251         0.985106  0.949799    0.951679      0.952216
+recall        0.985714         0.915020  0.949799    0.950367      0.949799
+f1-score      0.950787         0.948770  0.949799    0.949779      0.949763
+support     490.000000       506.000000  0.949799  996.000000    996.000000"	"[[483   7]
+ [ 43 463]]"	0
+136	Mechanism of Infection	4976	Random Forest	0 days 00:01:07.293577000	0.9906207146890377	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.930970         0.984783  0.955823    0.957876      0.957444
+recall        0.986166         0.924490  0.955823    0.955328      0.955823
+f1-score      0.957774         0.953684  0.955823    0.955729      0.955762
+support     506.000000       490.000000  0.955823  996.000000    996.000000"	"[[499   7]
+ [ 37 453]]"	1
+137	Mechanism of Infection	4976	Random Forest	0 days 00:01:09.326481000	0.9921548454772855	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.924214         0.978022  0.948795    0.951118      0.950470
+recall        0.980392         0.915638  0.948795    0.948015      0.948795
+f1-score      0.951475         0.945802  0.948795    0.948639      0.948707
+support     510.000000       486.000000  0.948795  996.000000    996.000000"	"[[500  10]
+ [ 41 445]]"	2
+138	Mechanism of Infection	4976	Random Forest	0 days 00:01:04.353519000	0.9909121338237192	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.919847         0.978814  0.947791    0.949330      0.949686
+recall        0.979675         0.916667  0.947791    0.948171      0.947791
+f1-score      0.948819         0.946721  0.947791    0.947770      0.947757
+support     492.000000       504.000000  0.947791  996.000000    996.000000"	"[[482  10]
+ [ 42 462]]"	3
+139	Mechanism of Infection	4976	Random Forest	0 days 00:01:05.341394000	0.9890873376007873	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.907273         0.982063  0.940763    0.944668      0.943992
+recall        0.984221         0.895706  0.940763    0.939963      0.940763
+f1-score      0.944182         0.936898  0.940763    0.940540      0.940606
+support     507.000000       489.000000  0.940763  996.000000    996.000000"	"[[499   8]
+ [ 51 438]]"	4
+140	Mechanism of Infection	4976	MultinomialNB	0 days 00:00:00.072936000	0.9748366540292007	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.877737         0.979911  0.923695    0.928824      0.929645
+recall        0.981633         0.867589  0.923695    0.924611      0.923695
+f1-score      0.926782         0.920335  0.923695    0.923559      0.923507
+support     490.000000       506.000000  0.923695  996.000000    996.000000"	"[[481   9]
+ [ 67 439]]"	0
+141	Mechanism of Infection	4976	MultinomialNB	0 days 00:00:00.080889000	0.9775832862789384	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.896364         0.970852  0.929719    0.933608      0.933010
+recall        0.974308         0.883673  0.929719    0.928991      0.929719
+f1-score      0.933712         0.925214  0.929719    0.929463      0.929531
+support     506.000000       490.000000  0.929719  996.000000    996.000000"	"[[493  13]
+ [ 57 433]]"	1
+142	Mechanism of Infection	4976	MultinomialNB	0 days 00:00:00.082804000	0.9796578713790043	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.894265         0.974886  0.929719    0.934576      0.933604
+recall        0.978431         0.878601  0.929719    0.928516      0.929719
+f1-score      0.934457         0.924242  0.929719    0.929350      0.929473
+support     510.000000       486.000000  0.929719  996.000000    996.000000"	"[[499  11]
+ [ 59 427]]"	2
+143	Mechanism of Infection	4976	MultinomialNB	0 days 00:00:00.079152000	0.9778681120144536	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.882569         0.975610  0.924699    0.929089      0.929650
+recall        0.977642         0.873016  0.924699    0.925329      0.924699
+f1-score      0.927676         0.921466  0.924699    0.924571      0.924534
+support     492.000000       504.000000  0.924699  996.000000    996.000000"	"[[481  11]
+ [ 64 440]]"	3
+144	Mechanism of Infection	4976	MultinomialNB	0 days 00:00:00.070778000	0.9759360769271104	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.868651         0.974118  0.913655    0.921385      0.920432
+recall        0.978304         0.846626  0.913655    0.912465      0.913655
+f1-score      0.920223         0.905908  0.913655    0.913065      0.913195
+support     507.000000       489.000000  0.913655  996.000000    996.000000"	"[[496  11]
+ [ 75 414]]"	4
+145	Mechanism of Infection	4976	Logistic Regression	0 days 00:00:00.373541000	0.9871904493022505	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.935872         0.953722  0.944779    0.944797      0.944940
+recall        0.953061         0.936759  0.944779    0.944910      0.944779
+f1-score      0.944388         0.945165  0.944779    0.944776      0.944783
+support     490.000000       506.000000  0.944779  996.000000    996.000000"	"[[467  23]
+ [ 32 474]]"	0
+146	Mechanism of Infection	4976	Logistic Regression	0 days 00:00:00.442492000	0.9867185609421634	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.952475         0.949084  0.950803    0.950779      0.950807
+recall        0.950593         0.951020  0.950803    0.950807      0.950803
+f1-score      0.951533         0.950051  0.950803    0.950792      0.950804
+support     506.000000       490.000000  0.950803  996.000000    996.000000"	"[[481  25]
+ [ 24 466]]"	1
+147	Mechanism of Infection	4976	Logistic Regression	0 days 00:00:00.574006000	0.986246268054547	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.939806         0.945946  0.942771    0.942876      0.942802
+recall        0.949020         0.936214  0.942771    0.942617      0.942771
+f1-score      0.944390         0.941055  0.942771    0.942723      0.942763
+support     510.000000       486.000000  0.942771  996.000000    996.000000"	"[[484  26]
+ [ 31 455]]"	2
+148	Mechanism of Infection	4976	Logistic Regression	0 days 00:00:00.847409000	0.9868692734546394	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.934132         0.951515  0.942771    0.942823      0.942928
+recall        0.951220         0.934524  0.942771    0.942872      0.942771
+f1-score      0.942598         0.942943  0.942771    0.942771      0.942773
+support     492.000000       504.000000  0.942771  996.000000    996.000000"	"[[468  24]
+ [ 33 471]]"	3
+149	Mechanism of Infection	4976	Logistic Regression	0 days 00:00:00.513922000	0.9870322640497251	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.922495         0.959315  0.939759    0.940905      0.940572
+recall        0.962525         0.916155  0.939759    0.939340      0.939759
+f1-score      0.942085         0.937238  0.939759    0.939662      0.939706
+support     507.000000       489.000000  0.939759  996.000000    996.000000"	"[[488  19]
+ [ 41 448]]"	4
+150	Mechanism of Transmission	856	Random Forest	0 days 00:00:09.721552000	0.9394986449864497	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.888889         0.878049  0.883721    0.883469      0.883721
+recall        0.888889         0.878049  0.883721    0.883469      0.883721
+f1-score      0.888889         0.878049  0.883721    0.883469      0.883721
+support      90.000000        82.000000  0.883721  172.000000    172.000000"	"[[80 10]
+ [10 72]]"	0
+151	Mechanism of Transmission	856	Random Forest	0 days 00:00:10.191560000	0.9051490514905149	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.787234         0.897436  0.837209    0.842335      0.844898
+recall        0.902439         0.777778  0.837209    0.840108      0.837209
+f1-score      0.840909         0.833333  0.837209    0.837121      0.836945
+support      82.000000        90.000000  0.837209  172.000000    172.000000"	"[[74  8]
+ [20 70]]"	1
+152	Mechanism of Transmission	856	Random Forest	0 days 00:00:09.537079000	0.9204992538325871	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.829545         0.904762  0.866279    0.867154      0.869340
+recall        0.901235         0.835165  0.866279    0.868200      0.866279
+f1-score      0.863905         0.868571  0.866279    0.866238      0.866374
+support      81.000000        91.000000  0.866279  172.000000    172.000000"	"[[73  8]
+ [15 76]]"	2
+153	Mechanism of Transmission	856	Random Forest	0 days 00:00:10.311907000	0.9369829012686156	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.888889         0.863014  0.877907    0.875951      0.877757
+recall        0.897959         0.851351  0.877907    0.874655      0.877907
+f1-score      0.893401         0.857143  0.877907    0.875272      0.877802
+support      98.000000        74.000000  0.877907  172.000000    172.000000"	"[[88 10]
+ [11 63]]"	3
+154	Mechanism of Transmission	856	Random Forest	0 days 00:00:09.370105000	0.9226902173913044	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.864583         0.881579  0.872093    0.873081      0.872488
+recall        0.902174         0.837500  0.872093    0.869837      0.872093
+f1-score      0.882979         0.858974  0.872093    0.870977      0.871814
+support      92.000000        80.000000  0.872093  172.000000    172.000000"	"[[83  9]
+ [13 67]]"	4
+155	Mechanism of Transmission	856	MultinomialNB	0 days 00:00:00.020213000	0.9238482384823847	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.863158         0.896104  0.877907    0.879631      0.878865
+recall        0.911111         0.841463  0.877907    0.876287      0.877907
+f1-score      0.886486         0.867925  0.877907    0.877206      0.877637
+support      90.000000        82.000000  0.877907  172.000000    172.000000"	"[[82  8]
+ [13 69]]"	0
+156	Mechanism of Transmission	856	MultinomialNB	0 days 00:00:00.020218000	0.8920054200542006	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.772277         0.943662  0.843023    0.857970      0.861955
+recall        0.951220         0.744444  0.843023    0.847832      0.843023
+f1-score      0.852459         0.832298  0.843023    0.842379      0.841910
+support      82.000000        90.000000  0.843023  172.000000    172.000000"	"[[78  4]
+ [23 67]]"	1
+157	Mechanism of Transmission	856	MultinomialNB	0 days 00:00:00.028296000	0.9123592456925791	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.785714         0.945946  0.854651    0.865830      0.870488
+recall        0.950617         0.769231  0.854651    0.859924      0.854651
+f1-score      0.860335         0.848485  0.854651    0.854410      0.854066
+support      81.000000        91.000000  0.854651  172.000000    172.000000"	"[[77  4]
+ [21 70]]"	2
+158	Mechanism of Transmission	856	MultinomialNB	0 days 00:00:00.020199000	0.9513237727523443	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.893204         0.913043  0.901163    0.903124      0.901740
+recall        0.938776         0.851351  0.901163    0.895063      0.901163
+f1-score      0.915423         0.881119  0.901163    0.898271      0.900664
+support      98.000000        74.000000  0.901163  172.000000    172.000000"	"[[92  6]
+ [11 63]]"	3
+159	Mechanism of Transmission	856	MultinomialNB	0 days 00:00:00.020181000	0.8864130434782609	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.835052         0.853333  0.843023    0.844192      0.843555
+recall        0.880435         0.800000  0.843023    0.840217      0.843023
+f1-score      0.857143         0.825806  0.843023    0.841475      0.842568
+support      92.000000        80.000000  0.843023  172.000000    172.000000"	"[[81 11]
+ [16 64]]"	4
+160	Mechanism of Transmission	856	Logistic Regression	0 days 00:00:00.092745000	0.9373983739837397	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.902439         0.822222  0.860465    0.862331      0.864196
+recall        0.822222         0.902439  0.860465    0.862331      0.860465
+f1-score      0.860465         0.860465  0.860465    0.860465      0.860465
+support      90.000000        82.000000  0.860465  172.000000    172.000000"	"[[74 16]
+ [ 8 74]]"	0
+161	Mechanism of Transmission	856	Logistic Regression	0 days 00:00:00.151119000	0.9001355013550135	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.808989         0.879518  0.843023    0.844253      0.845894
+recall        0.878049         0.811111  0.843023    0.844580      0.843023
+f1-score      0.842105         0.843931  0.843023    0.843018      0.843060
+support      82.000000        90.000000  0.843023  172.000000    172.000000"	"[[72 10]
+ [17 73]]"	1
+162	Mechanism of Transmission	856	Logistic Regression	0 days 00:00:00.161148000	0.919006919006919	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.843373         0.876404  0.860465    0.859889      0.860849
+recall        0.864198         0.857143  0.860465    0.860670      0.860465
+f1-score      0.853659         0.866667  0.860465    0.860163      0.860541
+support      81.000000        91.000000  0.860465  172.000000    172.000000"	"[[70 11]
+ [13 78]]"	2
+163	Mechanism of Transmission	856	Logistic Regression	0 days 00:00:00.201566000	0.9533921676778819	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.925532         0.858974  0.895349    0.892253      0.896897
+recall        0.887755         0.905405  0.895349    0.896580      0.895349
+f1-score      0.906250         0.881579  0.895349    0.893914      0.895636
+support      98.000000        74.000000  0.895349  172.000000    172.000000"	"[[87 11]
+ [ 7 67]]"	3
+164	Mechanism of Transmission	856	Logistic Regression	0 days 00:00:00.119026000	0.9052989130434783	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.873563         0.811765  0.843023    0.842664      0.844820
+recall        0.826087         0.862500  0.843023    0.844293      0.843023
+f1-score      0.849162         0.836364  0.843023    0.842763      0.843209
+support      92.000000        80.000000  0.843023  172.000000    172.000000"	"[[76 16]
+ [11 69]]"	4
+165	Medical Care	6570	Random Forest	0 days 00:01:58.373326000	0.9350739628517407	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.811295         0.899660  0.850837     0.855477      0.856083
+recall        0.908951         0.794294  0.850837     0.851622      0.850837
+f1-score      0.857351         0.843700  0.850837     0.850525      0.850432
+support     648.000000       666.000000  0.850837  1314.000000   1314.000000"	"[[589  59]
+ [137 529]]"	0
+166	Medical Care	6570	Random Forest	0 days 00:01:41.290747000	0.9280117690668149	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.802949         0.903169  0.846271     0.853059      0.853288
+recall        0.915902         0.777273  0.846271     0.846587      0.846271
+f1-score      0.855714         0.835505  0.846271     0.845610      0.845563
+support     654.000000       660.000000  0.846271  1314.000000   1314.000000"	"[[599  55]
+ [147 513]]"	1
+167	Medical Care	6570	Random Forest	0 days 00:01:41.636667000	0.9365961342356541	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.840220         0.897959  0.866058     0.869090      0.868519
+recall        0.910448         0.819876  0.866058     0.865162      0.866058
+f1-score      0.873926         0.857143  0.866058     0.865534      0.865700
+support     670.000000       644.000000  0.866058  1314.000000   1314.000000"	"[[610  60]
+ [116 528]]"	2
+168	Medical Care	6570	Random Forest	0 days 00:01:42.997234000	0.9394677639459423	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.827298         0.904362  0.862253     0.865830      0.866182
+recall        0.912442         0.812971  0.862253     0.862707      0.862253
+f1-score      0.867787         0.856235  0.862253     0.862011      0.861958
+support     651.000000       663.000000  0.862253  1314.000000   1314.000000"	"[[594  57]
+ [124 539]]"	3
+169	Medical Care	6570	Random Forest	0 days 00:01:41.209157000	0.9379923540315108	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.815825         0.910499  0.857686     0.863162      0.863667
+recall        0.920000         0.796687  0.857686     0.858343      0.857686
+f1-score      0.864787         0.849799  0.857686     0.857293      0.857213
+support     650.000000       664.000000  0.857686  1314.000000   1314.000000"	"[[598  52]
+ [135 529]]"	4
+170	Medical Care	6570	MultinomialNB	0 days 00:00:00.072881000	0.8623299225151076	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.696019         0.853608  0.754186     0.774814      0.775893
+recall        0.890432         0.621622  0.754186     0.756027      0.754186
+f1-score      0.781313         0.719374  0.754186     0.750344      0.749920
+support     648.000000       666.000000  0.754186  1314.000000   1314.000000"	"[[577  71]
+ [252 414]]"	0
+171	Medical Care	6570	MultinomialNB	0 days 00:00:00.080905000	0.8563965341488278	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.693491         0.855011  0.751142     0.774251      0.774620
+recall        0.896024         0.607576  0.751142     0.751800      0.751142
+f1-score      0.781855         0.710363  0.751142     0.746109      0.745946
+support     654.000000       660.000000  0.751142  1314.000000   1314.000000"	"[[586  68]
+ [259 401]]"	1
+172	Medical Care	6570	MultinomialNB	0 days 00:00:00.078850000	0.8672615184944841	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.726044         0.842000  0.770167     0.784022      0.782875
+recall        0.882090         0.653727  0.770167     0.767908      0.770167
+f1-score      0.796496         0.736014  0.770167     0.766255      0.766853
+support     670.000000       644.000000  0.770167  1314.000000   1314.000000"	"[[591  79]
+ [223 421]]"	2
+173	Medical Care	6570	MultinomialNB	0 days 00:00:00.072898000	0.8653724517102126	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.714462         0.855446  0.768645     0.784954      0.785598
+recall        0.887865         0.651584  0.768645     0.769724      0.768645
+f1-score      0.791781         0.739726  0.768645     0.765753      0.765516
+support     651.000000       663.000000  0.768645  1314.000000   1314.000000"	"[[578  73]
+ [231 432]]"	3
+174	Medical Care	6570	MultinomialNB	0 days 00:00:00.080970000	0.8683063021316033	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.707169         0.861507   0.76484     0.784338      0.785160
+recall        0.895385         0.637048   0.76484     0.766216      0.764840
+f1-score      0.790224         0.732468   0.76484     0.761346      0.761038
+support     650.000000       664.000000   0.76484  1314.000000   1314.000000"	"[[582  68]
+ [241 423]]"	4
+175	Medical Care	6570	Logistic Regression	0 days 00:00:00.687933000	0.9148454009565121	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.840376         0.835556    0.8379     0.837966      0.837933
+recall        0.828704         0.846847    0.8379     0.837775      0.837900
+f1-score      0.834499         0.841163    0.8379     0.837831      0.837877
+support     648.000000       666.000000    0.8379  1314.000000   1314.000000"	"[[537 111]
+ [102 564]]"	0
+176	Medical Care	6570	Logistic Regression	0 days 00:00:00.643607000	0.9091766286720414	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.845048         0.818314   0.83105     0.831681      0.831620
+recall        0.808869         0.853030   0.83105     0.830949      0.831050
+f1-score      0.826562         0.835312   0.83105     0.830937      0.830957
+support     654.000000       660.000000   0.83105  1314.000000   1314.000000"	"[[529 125]
+ [ 97 563]]"	1
+177	Medical Care	6570	Logistic Regression	0 days 00:00:00.424551000	0.9183531102252713	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.855385         0.828313  0.841705     0.841849      0.842117
+recall        0.829851         0.854037  0.841705     0.841944      0.841705
+f1-score      0.842424         0.840979  0.841705     0.841701      0.841716
+support     670.000000       644.000000  0.841705  1314.000000   1314.000000"	"[[556 114]
+ [ 94 550]]"	2
+178	Medical Care	6570	Logistic Regression	0 days 00:00:00.809419000	0.9165687780488541	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.847896         0.817529  0.831811     0.832713      0.832574
+recall        0.804916         0.858220  0.831811     0.831568      0.831811
+f1-score      0.825847         0.837380  0.831811     0.831614      0.831666
+support     651.000000       663.000000  0.831811  1314.000000   1314.000000"	"[[524 127]
+ [ 94 569]]"	3
+179	Medical Care	6570	Logistic Regression	0 days 00:00:00.494431000	0.9218211306765524	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.841615         0.838806  0.840183     0.840210      0.840195
+recall        0.833846         0.846386  0.840183     0.840116      0.840183
+f1-score      0.837713         0.842579  0.840183     0.840146      0.840172
+support     650.000000       664.000000  0.840183  1314.000000   1314.000000"	"[[542 108]
+ [102 562]]"	4
+180	Molecular epidemiology	494	Random Forest	0 days 00:00:04.533516000	0.9156223893065998	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.777778         0.870370  0.828283   0.824074      0.831089
+recall        0.833333         0.824561  0.828283   0.828947      0.828283
+f1-score      0.804598         0.846847  0.828283   0.825722      0.828923
+support      42.000000        57.000000  0.828283  99.000000     99.000000"	"[[35  7]
+ [10 47]]"	0
+181	Molecular epidemiology	494	Random Forest	0 days 00:00:04.231665000	0.9196428571428572	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.711538         0.872340  0.787879   0.791939      0.802497
+recall        0.860465         0.732143  0.787879   0.796304      0.787879
+f1-score      0.778947         0.796117  0.787879   0.787532      0.788659
+support      43.000000        56.000000  0.787879  99.000000     99.000000"	"[[37  6]
+ [15 41]]"	1
+182	Molecular epidemiology	494	Random Forest	0 days 00:00:04.268838000	0.9252450980392156	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.857143         0.880000  0.868687   0.868571      0.868918
+recall        0.875000         0.862745  0.868687   0.868873      0.868687
+f1-score      0.865979         0.871287  0.868687   0.868633      0.868714
+support      48.000000        51.000000  0.868687  99.000000     99.000000"	"[[42  6]
+ [ 7 44]]"	2
+183	Molecular epidemiology	494	Random Forest	0 days 00:00:04.434180000	0.9657142857142857	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.916667         0.901961  0.909091   0.909314      0.909239
+recall        0.897959         0.920000  0.909091   0.908980      0.909091
+f1-score      0.907216         0.910891  0.909091   0.909054      0.909072
+support      49.000000        50.000000  0.909091  99.000000     99.000000"	"[[44  5]
+ [ 4 46]]"	3
+184	Molecular epidemiology	494	Random Forest	0 days 00:00:04.339499000	0.9708163265306122	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.921569         0.937500  0.929293   0.929534      0.929454
+recall        0.940000         0.918367  0.929293   0.929184      0.929293
+f1-score      0.930693         0.927835  0.929293   0.929264      0.929278
+support      50.000000        49.000000  0.929293  99.000000     99.000000"	"[[47  3]
+ [ 4 45]]"	4
+185	Molecular epidemiology	494	MultinomialNB	0 days 00:00:00.012136000	0.9423558897243107	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.709091         0.931818  0.808081   0.820455      0.837328
+recall        0.928571         0.719298  0.808081   0.823935      0.808081
+f1-score      0.804124         0.811881  0.808081   0.808002      0.808590
+support      42.000000        57.000000  0.808081  99.000000     99.000000"	"[[39  3]
+ [16 41]]"	0
+186	Molecular epidemiology	494	MultinomialNB	0 days 00:00:00.010082000	0.9169435215946844	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.646154         0.970588  0.757576   0.808371      0.829672
+recall        0.976744         0.589286  0.757576   0.783015      0.757576
+f1-score      0.777778         0.733333  0.757576   0.755556      0.752637
+support      43.000000        56.000000  0.757576  99.000000     99.000000"	"[[42  1]
+ [23 33]]"	1
+187	Molecular epidemiology	494	MultinomialNB	0 days 00:00:00.010075000	0.945669934640523	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.807018         0.952381  0.868687   0.879699      0.881902
+recall        0.958333         0.784314  0.868687   0.871324      0.868687
+f1-score      0.876190         0.860215  0.868687   0.868203      0.867961
+support      48.000000        51.000000  0.868687  99.000000     99.000000"	"[[46  2]
+ [11 40]]"	2
+188	Molecular epidemiology	494	MultinomialNB	0 days 00:00:00.018115000	0.970204081632653	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.870370         0.955556  0.909091   0.912963      0.913393
+recall        0.959184         0.860000  0.909091   0.909592      0.909091
+f1-score      0.912621         0.905263  0.909091   0.908942      0.908905
+support      49.000000        50.000000  0.909091  99.000000     99.000000"	"[[47  2]
+ [ 7 43]]"	3
+189	Molecular epidemiology	494	MultinomialNB	0 days 00:00:00.012123000	0.966530612244898	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.859649         0.976190  0.909091   0.917920      0.917331
+recall        0.980000         0.836735  0.909091   0.908367      0.909091
+f1-score      0.915888         0.901099  0.909091   0.908493      0.908568
+support      50.000000        49.000000  0.909091  99.000000     99.000000"	"[[49  1]
+ [ 8 41]]"	4
+190	Molecular epidemiology	494	Logistic Regression	0 days 00:00:00.080754000	0.9248120300751879	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.808511         0.923077  0.868687   0.865794      0.874473
+recall        0.904762         0.842105  0.868687   0.873434      0.868687
+f1-score      0.853933         0.880734  0.868687   0.867333      0.869364
+support      42.000000        57.000000  0.868687  99.000000     99.000000"	"[[38  4]
+ [ 9 48]]"	0
+191	Molecular epidemiology	494	Logistic Regression	0 days 00:00:00.080726000	0.9061461794019934	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.782609         0.867925  0.828283   0.825267      0.830868
+recall        0.837209         0.821429  0.828283   0.829319      0.828283
+f1-score      0.808989         0.844037  0.828283   0.826513      0.828814
+support      43.000000        56.000000  0.828283  99.000000     99.000000"	"[[36  7]
+ [10 46]]"	1
+192	Molecular epidemiology	494	Logistic Regression	0 days 00:00:00.050566000	0.9289215686274509	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.886364         0.836364  0.858586   0.861364      0.860606
+recall        0.812500         0.901961  0.858586   0.857230      0.858586
+f1-score      0.847826         0.867925  0.858586   0.857875      0.858180
+support      48.000000        51.000000  0.858586  99.000000     99.000000"	"[[39  9]
+ [ 5 46]]"	2
+193	Molecular epidemiology	494	Logistic Regression	0 days 00:00:00.068480000	0.9604081632653061	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.913043         0.867925  0.888889   0.890484      0.890256
+recall        0.857143         0.920000  0.888889   0.888571      0.888889
+f1-score      0.884211         0.893204  0.888889   0.888707      0.888753
+support      49.000000        50.000000  0.888889  99.000000     99.000000"	"[[42  7]
+ [ 4 46]]"	3
+194	Molecular epidemiology	494	Logistic Regression	0 days 00:00:00.072892000	0.9681632653061224	"           in category  not in category  accuracy  macro avg  weighted avg
+precision     0.938776         0.920000  0.929293   0.929388      0.929483
+recall        0.920000         0.938776  0.929293   0.929388      0.929293
+f1-score      0.929293         0.929293  0.929293   0.929293      0.929293
+support      50.000000        49.000000  0.929293  99.000000     99.000000"	"[[46  4]
+ [ 3 46]]"	4
+195	Pathology-Radiology	13810	Random Forest	0 days 00:04:37.907556000	0.9421608649631262	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.839662         0.890299  0.864229     0.864980      0.865714
+recall        0.890380         0.839550  0.864229     0.864965      0.864229
+f1-score      0.864278         0.864180  0.864229     0.864229      0.864227
+support    1341.000000      1421.000000  0.864229  2762.000000   2762.000000"	"[[1194  147]
+ [ 228 1193]]"	0
+196	Pathology-Radiology	13810	Random Forest	0 days 00:04:13.878693000	0.9435047519171528	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.862955         0.869214  0.866039     0.866084      0.866071
+recall        0.871665         0.860364  0.866039     0.866015      0.866039
+f1-score      0.867288         0.864766  0.866039     0.866027      0.866033
+support    1387.000000      1375.000000  0.866039  2762.000000   2762.000000"	"[[1209  178]
+ [ 192 1183]]"	1
+197	Pathology-Radiology	13810	Random Forest	0 days 00:04:48.389616000	0.9401797981991851	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.859088         0.883217  0.870384     0.871153      0.870873
+recall        0.893135         0.846553  0.870384     0.869844      0.870384
+f1-score      0.875781         0.864497  0.870384     0.870139      0.870269
+support    1413.000000      1349.000000  0.870384  2762.000000   2762.000000"	"[[1262  151]
+ [ 207 1142]]"	2
+198	Pathology-Radiology	13810	Random Forest	0 days 00:04:38.745303000	0.95104452880844	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.857649         0.880741  0.868936     0.869195      0.869270
+recall        0.882653         0.855396  0.868936     0.869024      0.868936
+f1-score      0.869971         0.867883  0.868936     0.868927      0.868920
+support    1372.000000      1390.000000  0.868936  2762.000000   2762.000000"	"[[1211  161]
+ [ 201 1189]]"	3
+199	Pathology-Radiology	13810	Random Forest	0 days 00:04:38.245539000	0.9421027425320384	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.857045         0.880000  0.867849     0.868523      0.868290
+recall        0.889283         0.845528  0.867849     0.867406      0.867849
+f1-score      0.872867         0.862420  0.867849     0.867643      0.867749
+support    1409.000000      1353.000000  0.867849  2762.000000   2762.000000"	"[[1253  156]
+ [ 209 1144]]"	4
+200	Pathology-Radiology	13810	MultinomialNB	0 days 00:00:00.173940000	0.9062302387590846	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.781890         0.873499  0.823316     0.827695      0.829021
+recall        0.882177         0.767769  0.823316     0.824973      0.823316
+f1-score      0.829012         0.817228  0.823316     0.823120      0.822950
+support    1341.000000      1421.000000  0.823316  2762.000000   2762.000000"	"[[1183  158]
+ [ 330 1091]]"	0
+201	Pathology-Radiology	13810	MultinomialNB	0 days 00:00:00.161803000	0.9134309497279939	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.809779         0.859732   0.83273     0.834756      0.834647
+recall        0.871665         0.793455   0.83273     0.832560      0.832730
+f1-score      0.839583         0.825265   0.83273     0.832424      0.832455
+support    1387.000000      1375.000000   0.83273  2762.000000   2762.000000"	"[[1209  178]
+ [ 284 1091]]"	1
+202	Pathology-Radiology	13810	MultinomialNB	0 days 00:00:00.200630000	0.9102635329989398	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.807767         0.864421   0.83273     0.836094      0.835437
+recall        0.883227         0.779837   0.83273     0.831532      0.832730
+f1-score      0.843813         0.819953   0.83273     0.831883      0.832160
+support    1413.000000      1349.000000   0.83273  2762.000000   2762.000000"	"[[1248  165]
+ [ 297 1052]]"	2
+203	Pathology-Radiology	13810	MultinomialNB	0 days 00:00:00.204433000	0.9201433605302347	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.803001         0.885273  0.839609     0.844137      0.844405
+recall        0.897230         0.782734  0.839609     0.839982      0.839609
+f1-score      0.847504         0.830851  0.839609     0.839178      0.839124
+support    1372.000000      1390.000000  0.839609  2762.000000   2762.000000"	"[[1231  141]
+ [ 302 1088]]"	3
+204	Pathology-Radiology	13810	MultinomialNB	0 days 00:00:00.182167000	0.9127947934747429	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.813072         0.866071  0.836713     0.839572      0.839034
+recall        0.882896         0.788618  0.836713     0.835757      0.836713
+f1-score      0.846546         0.825532  0.836713     0.836039      0.836252
+support    1409.000000      1353.000000  0.836713  2762.000000   2762.000000"	"[[1244  165]
+ [ 286 1067]]"	4
+205	Pathology-Radiology	13810	Logistic Regression	0 days 00:00:01.411927000	0.94567584034308	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.863436         0.882143  0.872918     0.872789      0.873060
+recall        0.876957         0.869106  0.872918     0.873032      0.872918
+f1-score      0.870144         0.875576  0.872918     0.872860      0.872939
+support    1341.000000      1421.000000  0.872918  2762.000000   2762.000000"	"[[1176  165]
+ [ 186 1235]]"	0
+206	Pathology-Radiology	13810	Logistic Regression	0 days 00:00:01.496880000	0.9458126761486532	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.874719         0.845346  0.859522     0.860033      0.860096
+recall        0.840663         0.878545  0.859522     0.859604      0.859522
+f1-score      0.857353         0.861626  0.859522     0.859490      0.859480
+support    1387.000000      1375.000000  0.859522  2762.000000   2762.000000"	"[[1166  221]
+ [ 167 1208]]"	1
+207	Pathology-Radiology	13810	Logistic Regression	0 days 00:00:00.991838000	0.9430901346545396	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.873752         0.861765  0.867849     0.867758      0.867897
+recall        0.866950         0.868792  0.867849     0.867871      0.867849
+f1-score      0.870337         0.865264  0.867849     0.867801      0.867859
+support    1413.000000      1349.000000  0.867849  2762.000000   2762.000000"	"[[1225  188]
+ [ 177 1172]]"	2
+208	Pathology-Radiology	13810	Logistic Regression	0 days 00:00:01.385019000	0.953247897308975	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.881343         0.865682   0.87328     0.873513      0.873462
+recall        0.860787         0.885612   0.87328     0.873199      0.873280
+f1-score      0.870944         0.875533   0.87328     0.873239      0.873254
+support    1372.000000      1390.000000   0.87328  2762.000000   2762.000000"	"[[1181  191]
+ [ 159 1231]]"	3
+209	Pathology-Radiology	13810	Logistic Regression	0 days 00:00:01.719601000	0.9433459383951862	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.867845         0.865627  0.866763     0.866736      0.866758
+recall        0.871540         0.861789  0.866763     0.866664      0.866763
+f1-score      0.869688         0.863704  0.866763     0.866696      0.866757
+support    1409.000000      1353.000000  0.866763  2762.000000   2762.000000"	"[[1228  181]
+ [ 187 1166]]"	4
+210	Pharmaceutical Treatments	9736	Random Forest	0 days 00:02:46.213917000	0.9494439407994603	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.893873         0.853965   0.87269     0.873919      0.873796
+recall        0.844008         0.901020   0.87269     0.872514      0.872690
+f1-score      0.868225         0.876862   0.87269     0.872544      0.872570
+support     968.000000       980.000000   0.87269  1948.000000   1948.000000"	"[[817 151]
+ [ 97 883]]"	0
+211	Pharmaceutical Treatments	9736	Random Forest	0 days 00:02:48.325149000	0.9444945353462494	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.900329         0.833816   0.86499     0.867073      0.867755
+recall        0.826962         0.904612   0.86499     0.865787      0.864990
+f1-score      0.862087         0.867773   0.86499     0.864930      0.864872
+support     994.000000       954.000000   0.86499  1948.000000   1948.000000"	"[[822 172]
+ [ 91 863]]"	1
+212	Pharmaceutical Treatments	9736	Random Forest	0 days 00:02:42.864490000	0.9422464318090781	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.894972         0.839506   0.86499     0.867239      0.867125
+recall        0.825773         0.903885   0.86499     0.864829      0.864990
+f1-score      0.858981         0.870507   0.86499     0.864744      0.864768
+support     970.000000       978.000000   0.86499  1948.000000   1948.000000"	"[[801 169]
+ [ 94 884]]"	2
+213	Pharmaceutical Treatments	9736	Random Forest	0 days 00:02:42.678746000	0.9476150871079037	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.896061         0.845261  0.869097     0.870661      0.870792
+recall        0.836568         0.901961  0.869097     0.869264      0.869097
+f1-score      0.865293         0.872691  0.869097     0.868992      0.868973
+support     979.000000       969.000000  0.869097  1948.000000   1948.000000"	"[[819 160]
+ [ 95 874]]"	3
+214	Pharmaceutical Treatments	9736	Random Forest	0 days 00:02:42.912851000	0.9453828371810129	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.900222         0.842256  0.869097     0.871239      0.871328
+recall        0.831116         0.907312  0.869097     0.869214      0.869097
+f1-score      0.864290         0.873575  0.869097     0.868932      0.868918
+support     977.000000       971.000000  0.869097  1948.000000   1948.000000"	"[[812 165]
+ [ 90 881]]"	4
+215	Pharmaceutical Treatments	9736	MultinomialNB	0 days 00:00:00.121396000	0.9053181396525553	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.862302         0.807910  0.832649     0.835106      0.834939
+recall        0.789256         0.875510  0.832649     0.832383      0.832649
+f1-score      0.824164         0.840353  0.832649     0.832258      0.832308
+support     968.000000       980.000000  0.832649  1948.000000   1948.000000"	"[[764 204]
+ [122 858]]"	0
+216	Pharmaceutical Treatments	9736	MultinomialNB	0 days 00:00:00.119341000	0.9024745960036951	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.875581         0.778493  0.821355     0.827037      0.828034
+recall        0.757545         0.887841  0.821355     0.822693      0.821355
+f1-score      0.812298         0.829579  0.821355     0.820938      0.820761
+support     994.000000       954.000000  0.821355  1948.000000   1948.000000"	"[[753 241]
+ [107 847]]"	1
+217	Pharmaceutical Treatments	9736	MultinomialNB	0 days 00:00:00.113429000	0.905923091518563	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.879953         0.802752  0.836756     0.841353      0.841194
+recall        0.778351         0.894683  0.836756     0.836517      0.836756
+f1-score      0.826039         0.846228  0.836756     0.836134      0.836175
+support     970.000000       978.000000  0.836756  1948.000000   1948.000000"	"[[755 215]
+ [103 875]]"	2
+218	Pharmaceutical Treatments	9736	MultinomialNB	0 days 00:00:00.119334000	0.9062953604644911	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.870561         0.796279  0.829569     0.833420      0.833611
+recall        0.776302         0.883385  0.829569     0.829844      0.829569
+f1-score      0.820734         0.837573  0.829569     0.829154      0.829111
+support     979.000000       969.000000  0.829569  1948.000000   1948.000000"	"[[760 219]
+ [113 856]]"	3
+219	Pharmaceutical Treatments	9736	MultinomialNB	0 days 00:00:00.113348000	0.8990362266211431	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.870011         0.800187  0.831622     0.835099      0.835207
+recall        0.780962         0.882595  0.831622     0.831779      0.831622
+f1-score      0.823085         0.839373  0.831622     0.831229      0.831204
+support     977.000000       971.000000  0.831622  1948.000000   1948.000000"	"[[763 214]
+ [114 857]]"	4
+220	Pharmaceutical Treatments	9736	Logistic Regression	0 days 00:00:01.070886000	0.9461734693877552	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.896476         0.851923   0.87269     0.874199      0.874062
+recall        0.840909         0.904082   0.87269     0.872495      0.872690
+f1-score      0.867804         0.877228   0.87269     0.872516      0.872545
+support     968.000000       980.000000   0.87269  1948.000000   1948.000000"	"[[814 154]
+ [ 94 886]]"	0
+221	Pharmaceutical Treatments	9736	Logistic Regression	0 days 00:00:00.746651000	0.9479718984768148	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.911565         0.821764  0.862423     0.866664      0.867586
+recall        0.808853         0.918239  0.862423     0.863546      0.862423
+f1-score      0.857143         0.867327  0.862423     0.862235      0.862130
+support     994.000000       954.000000  0.862423  1948.000000   1948.000000"	"[[804 190]
+ [ 78 876]]"	1
+222	Pharmaceutical Treatments	9736	Logistic Regression	0 days 00:00:00.775733000	0.9487519237661544	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910242         0.834106   0.86807     0.872174      0.872017
+recall        0.815464         0.920245   0.86807     0.867855      0.868070
+f1-score      0.860250         0.875061   0.86807     0.867655      0.867686
+support     970.000000       978.000000   0.86807  1948.000000   1948.000000"	"[[791 179]
+ [ 78 900]]"	2
+223	Pharmaceutical Treatments	9736	Logistic Regression	0 days 00:00:00.971650000	0.9500575027064748	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.923253         0.839070  0.876797     0.881161      0.881378
+recall        0.823289         0.930857  0.876797     0.877073      0.876797
+f1-score      0.870410         0.882583  0.876797     0.876497      0.876466
+support     979.000000       969.000000  0.876797  1948.000000   1948.000000"	"[[806 173]
+ [ 67 902]]"	3
+224	Pharmaceutical Treatments	9736	Logistic Regression	0 days 00:00:00.705183000	0.9467273553312174	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.915235         0.834419  0.870637     0.874827      0.874951
+recall        0.817810         0.923790  0.870637     0.870800      0.870637
+f1-score      0.863784         0.876833  0.870637     0.870308      0.870288
+support     977.000000       971.000000  0.870637  1948.000000   1948.000000"	"[[799 178]
+ [ 74 897]]"	4
+225	Prognosis	6084	Random Forest	0 days 00:01:14.450143000	0.9606728676140937	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.863976         0.939781   0.89811     0.901879      0.901723
+recall        0.945990         0.849835   0.89811     0.897913      0.898110
+f1-score      0.903125         0.892548   0.89811     0.897836      0.897858
+support     611.000000       606.000000   0.89811  1217.000000   1217.000000"	"[[578  33]
+ [ 91 515]]"	0
+226	Prognosis	6084	Random Forest	0 days 00:01:15.049298000	0.9781958442541003	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.896605         0.927944  0.911257     0.912274      0.911927
+recall        0.934084         0.887395  0.911257     0.910739      0.911257
+f1-score      0.914961         0.907216  0.911257     0.911089      0.911174
+support     622.000000       595.000000  0.911257  1217.000000   1217.000000"	"[[581  41]
+ [ 67 528]]"	1
+227	Prognosis	6084	Random Forest	0 days 00:01:16.540294000	0.9649026386150646	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.883721         0.930070  0.905505     0.906895      0.906838
+recall        0.934426         0.876442  0.905505     0.905434      0.905505
+f1-score      0.908367         0.902460  0.905505     0.905413      0.905420
+support     610.000000       607.000000  0.905505  1217.000000   1217.000000"	"[[570  40]
+ [ 75 532]]"	2
+228	Prognosis	6084	Random Forest	0 days 00:01:15.231257000	0.958064603251769	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.867692         0.915344  0.889893     0.891518      0.891381
+recall        0.921569         0.857851  0.889893     0.889710      0.889893
+f1-score      0.893819         0.885666  0.889893     0.889742      0.889766
+support     612.000000       605.000000  0.889893  1217.000000   1217.000000"	"[[564  48]
+ [ 86 519]]"	3
+229	Prognosis	6084	Random Forest	0 days 00:01:15.787676000	0.9630649900613601	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.874052         0.940860  0.904684     0.907456      0.907428
+recall        0.945813         0.863487  0.904684     0.904650      0.904684
+f1-score      0.908517         0.900515  0.904684     0.904516      0.904519
+support     609.000000       608.000000  0.904684  1217.000000   1217.000000"	"[[576  33]
+ [ 83 525]]"	4
+230	Prognosis	6084	MultinomialNB	0 days 00:00:00.079681000	0.9058325636164272	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.795620         0.875940  0.830731     0.835780      0.835615
+recall        0.891980         0.768977  0.830731     0.830479      0.830731
+f1-score      0.841049         0.818981  0.830731     0.830015      0.830060
+support     611.000000       606.000000  0.830731  1217.000000   1217.000000"	"[[545  66]
+ [140 466]]"	0
+231	Prognosis	6084	MultinomialNB	0 days 00:00:00.073625000	0.9297116917506553	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.823704         0.878229  0.847987     0.850966      0.850361
+recall        0.893891         0.800000  0.847987     0.846945      0.847987
+f1-score      0.857363         0.837291  0.847987     0.847327      0.847550
+support     622.000000       595.000000  0.847987  1217.000000   1217.000000"	"[[556  66]
+ [119 476]]"	1
+232	Prognosis	6084	MultinomialNB	0 days 00:00:00.071511000	0.91494314959354	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.809453         0.885185  0.843057     0.847319      0.847226
+recall        0.898361         0.787479  0.843057     0.842920      0.843057
+f1-score      0.851593         0.833479  0.843057     0.842536      0.842558
+support     610.000000       607.000000  0.843057  1217.000000   1217.000000"	"[[548  62]
+ [129 478]]"	2
+233	Prognosis	6084	MultinomialNB	0 days 00:00:00.071546000	0.9105196348511857	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.814706         0.891993  0.848809     0.853349      0.853127
+recall        0.905229         0.791736  0.848809     0.848482      0.848809
+f1-score      0.857585         0.838879  0.848809     0.848232      0.848286
+support     612.000000       605.000000  0.848809  1217.000000   1217.000000"	"[[554  58]
+ [126 479]]"	3
+234	Prognosis	6084	MultinomialNB	0 days 00:00:00.079623000	0.9138120084694494	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.812684         0.892393  0.847987     0.852539      0.852506
+recall        0.904762         0.791118  0.847987     0.847940      0.847987
+f1-score      0.856255         0.838710  0.847987     0.847482      0.847489
+support     609.000000       608.000000  0.847987  1217.000000   1217.000000"	"[[551  58]
+ [127 481]]"	4
+235	Prognosis	6084	Logistic Regression	0 days 00:00:00.498636000	0.9434352600562838	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.883446         0.859200  0.870994     0.871323      0.871373
+recall        0.855974         0.886139  0.870994     0.871056      0.870994
+f1-score      0.869493         0.872461  0.870994     0.870977      0.870971
+support     611.000000       606.000000  0.870994  1217.000000   1217.000000"	"[[523  88]
+ [ 69 537]]"	0
+236	Prognosis	6084	Logistic Regression	0 days 00:00:00.535041000	0.9593531303196521	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.903390         0.858054  0.880033     0.880722      0.881225
+recall        0.856913         0.904202  0.880033     0.880557      0.880033
+f1-score      0.879538         0.880524  0.880033     0.880031      0.880020
+support     622.000000       595.000000  0.880033  1217.000000   1217.000000"	"[[533  89]
+ [ 57 538]]"	1
+237	Prognosis	6084	Logistic Regression	0 days 00:00:00.474201000	0.9498149998649634	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.896194         0.856025  0.875103     0.876109      0.876159
+recall        0.849180         0.901153  0.875103     0.875167      0.875103
+f1-score      0.872054         0.878010  0.875103     0.875032      0.875024
+support     610.000000       607.000000  0.875103  1217.000000   1217.000000"	"[[518  92]
+ [ 60 547]]"	2
+238	Prognosis	6084	Logistic Regression	0 days 00:00:00.545091000	0.9399719116296656	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.885666         0.852615  0.868529     0.869140      0.869235
+recall        0.848039         0.889256  0.868529     0.868648      0.868529
+f1-score      0.866444         0.870550  0.868529     0.868497      0.868485
+support     612.000000       605.000000  0.868529  1217.000000   1217.000000"	"[[519  93]
+ [ 67 538]]"	3
+239	Prognosis	6084	Logistic Regression	0 days 00:00:00.555290000	0.9465744101633394	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.876238         0.872340  0.874281     0.874289      0.874291
+recall        0.871921         0.876645  0.874281     0.874283      0.874281
+f1-score      0.874074         0.874487  0.874281     0.874281      0.874281
+support     609.000000       608.000000  0.874281  1217.000000   1217.000000"	"[[531  78]
+ [ 75 533]]"	4
+240	Public Health Interventions	50682	Random Forest	0 days 00:36:34.233958000	0.9287129313736183	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.834649         0.875182  0.853902      0.854915      0.855017
+recall        0.880825         0.827248  0.853902      0.854036      0.853902
+f1-score      0.857115         0.850540  0.853902      0.853828      0.853811
+support    5043.000000      5094.000000  0.853902  10137.000000  10137.000000"	"[[4442  601]
+ [ 880 4214]]"	0
+241	Public Health Interventions	50682	Random Forest	0 days 00:36:36.427222000	0.9294956188840175	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.838967         0.876499  0.856565      0.857733      0.857602
+recall        0.884992         0.827737  0.856565      0.856365      0.856565
+f1-score      0.861365         0.851420  0.856565      0.856393      0.856428
+support    5104.000000      5033.000000  0.856565  10137.000000  10137.000000"	"[[4517  587]
+ [ 867 4166]]"	1
+242	Public Health Interventions	50682	Random Forest	0 days 00:37:01.139465000	0.9286256989286242	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.829855         0.880738  0.853803      0.855296      0.855530
+recall        0.886699         0.821505  0.853803      0.854102      0.853803
+f1-score      0.857335         0.850091  0.853803      0.853713      0.853680
+support    5022.000000      5115.000000  0.853803  10137.000000  10137.000000"	"[[4453  569]
+ [ 913 4202]]"	2
+243	Public Health Interventions	50682	Random Forest	0 days 00:36:11.999532000	0.9307843677720586	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.845076         0.872963  0.858242      0.859019      0.858850
+recall        0.881481         0.834432  0.858242      0.857957      0.858242
+f1-score      0.862895         0.853263  0.858242      0.858079      0.858137
+support    5130.000000      5007.000000  0.858242  10137.000000  10137.000000"	"[[4522  608]
+ [ 829 4178]]"	3
+244	Public Health Interventions	50682	Random Forest	0 days 00:36:54.650128000	0.9324718650612915	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.841718         0.881988  0.860906      0.861853      0.861978
+recall        0.886837         0.835294  0.860906      0.861066      0.860906
+f1-score      0.863689         0.858006  0.860906      0.860848      0.860830
+support    5037.000000      5100.000000  0.860906  10137.000000  10137.000000"	"[[4467  570]
+ [ 840 4260]]"	4
+245	Public Health Interventions	50682	MultinomialNB	0 days 00:00:00.645206000	0.8943006516163584	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.774271         0.872522  0.816316      0.823397      0.823644
+recall        0.890343         0.743031  0.816316      0.816687      0.816316
+f1-score      0.828260         0.802587  0.816316      0.815424      0.815359
+support    5043.000000      5094.000000  0.816316  10137.000000  10137.000000"	"[[4490  553]
+ [1309 3785]]"	0
+246	Public Health Interventions	50682	MultinomialNB	0 days 00:00:00.639616000	0.8959467047268592	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.783048         0.876425   0.82263      0.829737      0.829410
+recall        0.895964         0.748261   0.82263      0.822113      0.822630
+f1-score      0.835709         0.807288   0.82263      0.821499      0.821598
+support    5104.000000      5033.000000   0.82263  10137.000000  10137.000000"	"[[4573  531]
+ [1267 3766]]"	1
+247	Public Health Interventions	50682	MultinomialNB	0 days 00:00:00.637020000	0.8958751191726102	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.775254         0.880490  0.820164      0.827872      0.828355
+recall        0.897053         0.744673  0.820164      0.820863      0.820164
+f1-score      0.831718         0.806906  0.820164      0.819312      0.819198
+support    5022.000000      5115.000000  0.820164  10137.000000  10137.000000"	"[[4505  517]
+ [1306 3809]]"	2
+248	Public Health Interventions	50682	MultinomialNB	0 days 00:00:00.657562000	0.8974659648032715	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.785824         0.874302  0.823321      0.830063      0.829526
+recall        0.894737         0.750150  0.823321      0.822443      0.823321
+f1-score      0.836751         0.807481  0.823321      0.822116      0.822294
+support    5130.000000      5007.000000  0.823321  10137.000000  10137.000000"	"[[4590  540]
+ [1251 3756]]"	3
+249	Public Health Interventions	50682	MultinomialNB	0 days 00:00:00.647052000	0.8992829337412948	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.777049         0.877015  0.819868      0.827032      0.827343
+recall        0.893985         0.746667  0.819868      0.820326      0.819868
+f1-score      0.831425         0.806609  0.819868      0.819017      0.818940
+support    5037.000000      5100.000000  0.819868  10137.000000  10137.000000"	"[[4503  534]
+ [1292 3808]]"	4
+250	Public Health Interventions	50682	Logistic Regression	0 days 00:00:04.040058000	0.9314170610176901	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.844518         0.857513  0.850942      0.851016      0.851048
+recall        0.858418         0.843541  0.850942      0.850980      0.850942
+f1-score      0.851411         0.850470  0.850942      0.850941      0.850938
+support    5043.000000      5094.000000  0.850942  10137.000000  10137.000000"	"[[4329  714]
+ [ 797 4297]]"	0
+251	Public Health Interventions	50682	Logistic Regression	0 days 00:00:05.398664000	0.9333585638858767	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.849318         0.861167  0.855085      0.855243      0.855201
+recall        0.865792         0.844228  0.855085      0.855010      0.855085
+f1-score      0.857476         0.852614  0.855085      0.855045      0.855062
+support    5104.000000      5033.000000  0.855085  10137.000000  10137.000000"	"[[4419  685]
+ [ 784 4249]]"	1
+252	Public Health Interventions	50682	Logistic Regression	0 days 00:00:05.319433000	0.9328116015825578	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.838523         0.861861  0.849956      0.850192      0.850299
+recall        0.863401         0.836755  0.849956      0.850078      0.849956
+f1-score      0.850780         0.849122  0.849956      0.849951      0.849943
+support    5022.000000      5115.000000  0.849956  10137.000000  10137.000000"	"[[4336  686]
+ [ 835 4280]]"	2
+253	Public Health Interventions	50682	Logistic Regression	0 days 00:00:04.161650000	0.9339959923553419	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.855126         0.857258   0.85617      0.856192      0.856179
+recall        0.861793         0.850409   0.85617      0.856101      0.856170
+f1-score      0.858447         0.853820   0.85617      0.856133      0.856161
+support    5130.000000      5007.000000   0.85617  10137.000000  10137.000000"	"[[4421  709]
+ [ 749 4258]]"	3
+254	Public Health Interventions	50682	Logistic Regression	0 days 00:00:04.376452000	0.9340836437811177	"           in category  not in category  accuracy     macro avg  weighted avg
+precision     0.848165         0.862158  0.855085      0.855162      0.855205
+recall        0.862815         0.847451  0.855085      0.855133      0.855085
+f1-score      0.855428         0.854741  0.855085      0.855085      0.855082
+support    5037.000000      5100.000000  0.855085  10137.000000  10137.000000"	"[[4346  691]
+ [ 778 4322]]"	4
+255	Rapid Diagnostics	2528	Random Forest	0 days 00:00:24.936133000	0.9412656250000001	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.876033         0.856061  0.865613    0.866047      0.865928
+recall        0.848000         0.882812  0.865613    0.865406      0.865613
+f1-score      0.861789         0.869231  0.865613    0.865510      0.865554
+support     250.000000       256.000000  0.865613  506.000000    506.000000"	"[[212  38]
+ [ 30 226]]"	0
+256	Rapid Diagnostics	2528	Random Forest	0 days 00:00:24.746718000	0.9547489356373655	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.868313         0.882129  0.875494    0.875221      0.875521
+recall        0.871901         0.878788  0.875494    0.875344      0.875494
+f1-score      0.870103         0.880455  0.875494    0.875279      0.875504
+support     242.000000       264.000000  0.875494  506.000000    506.000000"	"[[211  31]
+ [ 32 232]]"	1
+257	Rapid Diagnostics	2528	Random Forest	0 days 00:00:25.150296000	0.9421233795967346	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.866379         0.905109  0.887352    0.885744      0.887734
+recall        0.885463         0.888889  0.887352    0.887176      0.887352
+f1-score      0.875817         0.896926  0.887352    0.886371      0.887456
+support     227.000000       279.000000  0.887352  506.000000    506.000000"	"[[201  26]
+ [ 31 248]]"	2
+258	Rapid Diagnostics	2528	Random Forest	0 days 00:00:25.276871000	0.9484765625	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.892116         0.867925  0.879447    0.880020      0.879877
+recall        0.860000         0.898438  0.879447    0.879219      0.879447
+f1-score      0.875764         0.882917  0.879447    0.879341      0.879383
+support     250.000000       256.000000  0.879447  506.000000    506.000000"	"[[215  35]
+ [ 26 230]]"	3
+259	Rapid Diagnostics	2528	Random Forest	0 days 00:00:26.266508000	0.9471114028096823	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.902041         0.862069  0.881423    0.882055      0.882371
+recall        0.859922         0.903614  0.881423    0.881768      0.881423
+f1-score      0.880478         0.882353  0.881423    0.881416      0.881401
+support     257.000000       249.000000  0.881423  506.000000    506.000000"	"[[221  36]
+ [ 24 225]]"	4
+260	Rapid Diagnostics	2528	MultinomialNB	0 days 00:00:00.050592000	0.9140000000000001	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.778947         0.873303  0.820158    0.826125      0.826685
+recall        0.888000         0.753906  0.820158    0.820953      0.820158
+f1-score      0.829907         0.809224  0.820158    0.819565      0.819443
+support     250.000000       256.000000  0.820158  506.000000    506.000000"	"[[222  28]
+ [ 63 193]]"	0
+261	Rapid Diagnostics	2528	MultinomialNB	0 days 00:00:00.040427000	0.9471262208865514	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.761589         0.941176  0.833992    0.851383      0.855287
+recall        0.950413         0.727273  0.833992    0.838843      0.833992
+f1-score      0.845588         0.820513  0.833992    0.833051      0.832505
+support     242.000000       264.000000  0.833992  506.000000    506.000000"	"[[230  12]
+ [ 72 192]]"	1
+262	Rapid Diagnostics	2528	MultinomialNB	0 days 00:00:00.050654000	0.9241153900810005	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.721088         0.929245    0.8083    0.825167      0.835863
+recall        0.933921         0.706093    0.8083    0.820007      0.808300
+f1-score      0.813820         0.802444    0.8083    0.808132      0.807547
+support     227.000000       279.000000    0.8083  506.000000    506.000000"	"[[212  15]
+ [ 82 197]]"	2
+263	Rapid Diagnostics	2528	MultinomialNB	0 days 00:00:00.048552000	0.93821875	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.804878         0.913242  0.851779    0.859060      0.859703
+recall        0.924000         0.781250  0.851779    0.852625      0.851779
+f1-score      0.860335         0.842105  0.851779    0.851220      0.851112
+support     250.000000       256.000000  0.851779  506.000000    506.000000"	"[[231  19]
+ [ 56 200]]"	3
+264	Rapid Diagnostics	2528	MultinomialNB	0 days 00:00:00.042594000	0.9357742253058928	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.794020         0.912195  0.841897    0.853108      0.852173
+recall        0.929961         0.751004  0.841897    0.840483      0.841897
+f1-score      0.856631         0.823789  0.841897    0.840210      0.840469
+support     257.000000       249.000000  0.841897  506.000000    506.000000"	"[[239  18]
+ [ 62 187]]"	4
+265	Rapid Diagnostics	2528	Logistic Regression	0 days 00:00:00.323280000	0.932421875	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.895197         0.837545  0.863636    0.866371      0.866029
+recall        0.820000         0.906250  0.863636    0.863125      0.863636
+f1-score      0.855950         0.870544  0.863636    0.863247      0.863334
+support     250.000000       256.000000  0.863636  506.000000    506.000000"	"[[205  45]
+ [ 24 232]]"	0
+266	Rapid Diagnostics	2528	Logistic Regression	0 days 00:00:00.302440000	0.9545141497620837	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.889868         0.856631  0.871542    0.873249      0.872527
+recall        0.834711         0.905303  0.871542    0.870007      0.871542
+f1-score      0.861407         0.880295  0.871542    0.870851      0.871262
+support     242.000000       264.000000  0.871542  506.000000    506.000000"	"[[202  40]
+ [ 25 239]]"	1
+267	Rapid Diagnostics	2528	Logistic Regression	0 days 00:00:00.312807000	0.9338575466186665	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.873832         0.863014  0.867589    0.868423      0.867867
+recall        0.823789         0.903226  0.867589    0.863507      0.867589
+f1-score      0.848073         0.882662  0.867589    0.865367      0.867145
+support     227.000000       279.000000  0.867589  506.000000    506.000000"	"[[187  40]
+ [ 27 252]]"	2
+268	Rapid Diagnostics	2528	Logistic Regression	0 days 00:00:00.474389000	0.9437656249999999	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.913242         0.825784  0.863636    0.869513      0.868994
+recall        0.800000         0.925781  0.863636    0.862891      0.863636
+f1-score      0.852878         0.872928  0.863636    0.862903      0.863022
+support     250.000000       256.000000  0.863636  506.000000    506.000000"	"[[200  50]
+ [ 19 237]]"	3
+269	Rapid Diagnostics	2528	Logistic Regression	0 days 00:00:00.371885000	0.9445408091510009	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.896996         0.824176  0.857708    0.860586      0.861161
+recall        0.813230         0.903614  0.857708    0.858422      0.857708
+f1-score      0.853061         0.862069  0.857708    0.857565      0.857494
+support     257.000000       249.000000  0.857708  506.000000    506.000000"	"[[209  48]
+ [ 24 225]]"	4
+270	Repurposing	7684	Random Forest	0 days 00:01:52.696427000	0.9739745870393901	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910156         0.933680  0.921926     0.921918      0.922201
+recall        0.932000         0.912325  0.921926     0.922163      0.921926
+f1-score      0.920949         0.922879  0.921926     0.921914      0.921937
+support     750.000000       787.000000  0.921926  1537.000000   1537.000000"	"[[699  51]
+ [ 69 718]]"	0
+271	Repurposing	7684	Random Forest	0 days 00:01:53.969088000	0.9800530653987863	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.939712         0.932817  0.936239     0.936264      0.936266
+recall        0.932380         0.940104  0.936239     0.936242      0.936239
+f1-score      0.936031         0.936446  0.936239     0.936239      0.936239
+support     769.000000       768.000000  0.936239  1537.000000   1537.000000"	"[[717  52]
+ [ 46 722]]"	1
+272	Repurposing	7684	Random Forest	0 days 00:01:52.096790000	0.9751072241645662	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.919154         0.938608  0.928432     0.928881      0.928685
+recall        0.942602         0.913679  0.928432     0.928140      0.928432
+f1-score      0.930730         0.925976  0.928432     0.928353      0.928401
+support     784.000000       753.000000  0.928432  1537.000000   1537.000000"	"[[739  45]
+ [ 65 688]]"	2
+273	Repurposing	7684	Random Forest	0 days 00:01:52.328548000	0.978208892546422	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.923077         0.928571   0.92583     0.925824      0.925844
+recall        0.927916         0.923773   0.92583     0.925844      0.925830
+f1-score      0.925490         0.926166   0.92583     0.925828      0.925830
+support     763.000000       774.000000   0.92583  1537.000000   1537.000000"	"[[708  55]
+ [ 59 715]]"	3
+274	Repurposing	7684	Random Forest	0 days 00:01:51.948591000	0.9740998201164669	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910390         0.930900  0.920625     0.920645      0.920838
+recall        0.929708         0.911877  0.920625     0.920793      0.920625
+f1-score      0.919948         0.921290  0.920625     0.920619      0.920632
+support     754.000000       783.000000  0.920625  1537.000000   1537.000000"	"[[701  53]
+ [ 69 714]]"	4
+275	Repurposing	7684	MultinomialNB	0 days 00:00:00.090861000	0.9339263024142312	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.806683         0.894134  0.846454     0.850409      0.851461
+recall        0.901333         0.794155  0.846454     0.847744      0.846454
+f1-score      0.851385         0.841184  0.846454     0.846285      0.846162
+support     750.000000       787.000000  0.846454  1537.000000   1537.000000"	"[[676  74]
+ [162 625]]"	0
+276	Repurposing	7684	MultinomialNB	0 days 00:00:00.091118000	0.950525912982228	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.847458         0.902954  0.873129     0.875206      0.875188
+recall        0.910273         0.835938  0.873129     0.873105      0.873129
+f1-score      0.877743         0.868154  0.873129     0.872949      0.872952
+support     769.000000       768.000000  0.873129  1537.000000   1537.000000"	"[[700  69]
+ [126 642]]"	1
+277	Repurposing	7684	MultinomialNB	0 days 00:00:00.090989000	0.9427256958560316	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.843416         0.894813  0.866623     0.869115      0.868596
+recall        0.906888         0.824701  0.866623     0.865794      0.866623
+f1-score      0.874001         0.858328  0.866623     0.866164      0.866322
+support     784.000000       753.000000  0.866623  1537.000000   1537.000000"	"[[711  73]
+ [132 621]]"	2
+278	Repurposing	7684	MultinomialNB	0 days 00:00:00.090999000	0.9370497932477877	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.817633         0.878702  0.845804     0.848168      0.848386
+recall        0.887287         0.804910  0.845804     0.846098      0.845804
+f1-score      0.851037         0.840189  0.845804     0.845613      0.845574
+support     763.000000       774.000000  0.845804  1537.000000   1537.000000"	"[[677  86]
+ [151 623]]"	3
+279	Repurposing	7684	MultinomialNB	0 days 00:00:00.091027000	0.9338699350589956	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.820170         0.889356   0.85231     0.854763      0.855416
+recall        0.895225         0.810983   0.85231     0.853104      0.852310
+f1-score      0.856056         0.848363   0.85231     0.852210      0.852137
+support     754.000000       783.000000   0.85231  1537.000000   1537.000000"	"[[675  79]
+ [148 635]]"	4
+280	Repurposing	7684	Logistic Regression	0 days 00:00:00.707286000	0.9770436255823803	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.932507         0.909988  0.920625     0.921247      0.920976
+recall        0.902667         0.937738  0.920625     0.920202      0.920625
+f1-score      0.917344         0.923655  0.920625     0.920499      0.920575
+support     750.000000       787.000000  0.920625  1537.000000   1537.000000"	"[[677  73]
+ [ 49 738]]"	0
+281	Repurposing	7684	Logistic Regression	0 days 00:00:00.646427000	0.9792564071304725	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.953975         0.896341  0.923227     0.925158      0.925177
+recall        0.889467         0.957031  0.923227     0.923249      0.923227
+f1-score      0.920592         0.925693  0.923227     0.923142      0.923141
+support     769.000000       768.000000  0.923227  1537.000000   1537.000000"	"[[684  85]
+ [ 33 735]]"	1
+282	Repurposing	7684	Logistic Regression	0 days 00:00:00.614149000	0.9765682169282056	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.948925         0.901639  0.924528     0.925282      0.925759
+recall        0.900510         0.949535  0.924528     0.925023      0.924528
+f1-score      0.924084         0.924968  0.924528     0.924526      0.924517
+support     784.000000       753.000000  0.924528  1537.000000   1537.000000"	"[[706  78]
+ [ 38 715]]"	2
+283	Repurposing	7684	Logistic Regression	0 days 00:00:00.628414000	0.9749865382466194	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.942611         0.873810   0.90501     0.908210      0.907964
+recall        0.861075         0.948320   0.90501     0.904698      0.905010
+f1-score      0.900000         0.909542   0.90501     0.904771      0.904805
+support     763.000000       774.000000   0.90501  1537.000000   1537.000000"	"[[657 106]
+ [ 40 734]]"	3
+284	Repurposing	7684	Logistic Regression	0 days 00:00:00.848314000	0.9699414955062993	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.931526         0.879187  0.903058     0.905356      0.904863
+recall        0.866048         0.938697  0.903058     0.902373      0.903058
+f1-score      0.897595         0.907968  0.903058     0.902781      0.902879
+support     754.000000       783.000000  0.903058  1537.000000   1537.000000"	"[[653 101]
+ [ 48 735]]"	4
+285	Risk Factors	4096	Random Forest	0 days 00:00:55.951622000	0.8794819590544055	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.813107         0.789216   0.80122    0.801161      0.801482
+recall        0.795724         0.807018   0.80122    0.801371      0.801220
+f1-score      0.804322         0.798017   0.80122    0.801170      0.801254
+support     421.000000       399.000000   0.80122  820.000000    820.000000"	"[[335  86]
+ [ 77 322]]"	0
+286	Risk Factors	4096	Random Forest	0 days 00:00:56.527027000	0.8685412239440318	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.828162         0.783042  0.806098    0.805602      0.806923
+recall        0.799539         0.813472  0.806098    0.806505      0.806098
+f1-score      0.813599         0.797967  0.806098    0.805783      0.806241
+support     434.000000       386.000000  0.806098  820.000000    820.000000"	"[[347  87]
+ [ 72 314]]"	1
+287	Risk Factors	4096	Random Forest	0 days 00:00:55.416819000	0.8831030913114872	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.815725         0.801453  0.808537    0.808589      0.808658
+recall        0.801932         0.815271  0.808537    0.808602      0.808537
+f1-score      0.808770         0.808303  0.808537    0.808536      0.808539
+support     414.000000       406.000000  0.808537  820.000000    820.000000"	"[[332  82]
+ [ 75 331]]"	2
+288	Risk Factors	4096	Random Forest	0 days 00:00:55.371990000	0.8683250800007151	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.812048         0.777778  0.795122    0.794913      0.795623
+recall        0.789227         0.801527  0.795122    0.795377      0.795122
+f1-score      0.800475         0.789474  0.795122    0.794974      0.795202
+support     427.000000       393.000000  0.795122  820.000000    820.000000"	"[[337  90]
+ [ 78 315]]"	3
+289	Risk Factors	4096	Random Forest	0 days 00:00:55.267991000	0.8882974918939539	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.801980         0.836538  0.819512    0.819259      0.820018
+recall        0.826531         0.813084  0.819512    0.819807      0.819512
+f1-score      0.814070         0.824645  0.819512    0.819357      0.819590
+support     392.000000       428.000000  0.819512  820.000000    820.000000"	"[[324  68]
+ [ 80 348]]"	4
+290	Risk Factors	4096	MultinomialNB	0 days 00:00:00.048553000	0.8595776853059013	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.747899         0.811047   0.77439    0.779473      0.778626
+recall        0.845606         0.699248   0.77439    0.772427      0.774390
+f1-score      0.793757         0.751009   0.77439    0.772383      0.772957
+support     421.000000       399.000000   0.77439  820.000000    820.000000"	"[[356  65]
+ [120 279]]"	0
+291	Risk Factors	4096	MultinomialNB	0 days 00:00:00.042534000	0.8418853418017715	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.756466         0.766854  0.760976    0.761660      0.761356
+recall        0.808756         0.707254  0.760976    0.758005      0.760976
+f1-score      0.781737         0.735849  0.760976    0.758793      0.760136
+support     434.000000       386.000000  0.760976  820.000000    820.000000"	"[[351  83]
+ [113 273]]"	1
+292	Risk Factors	4096	MultinomialNB	0 days 00:00:00.050568000	0.8472430451440945	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.721074         0.806548  0.756098    0.763811      0.763394
+recall        0.842995         0.667488  0.756098    0.755241      0.756098
+f1-score      0.777283         0.730458  0.756098    0.753871      0.754099
+support     414.000000       406.000000  0.756098  820.000000    820.000000"	"[[349  65]
+ [135 271]]"	2
+293	Risk Factors	4096	MultinomialNB	0 days 00:00:00.050609000	0.8249399622194016	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.736957         0.755556  0.745122    0.746256      0.745870
+recall        0.793911         0.692112  0.745122    0.743011      0.745122
+f1-score      0.764374         0.722444  0.745122    0.743409      0.744278
+support     427.000000       393.000000  0.745122  820.000000    820.000000"	"[[339  88]
+ [121 272]]"	3
+294	Risk Factors	4096	MultinomialNB	0 days 00:00:00.050615000	0.8413479877932482	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.682474         0.817910  0.737805    0.750192      0.753165
+recall        0.844388         0.640187  0.737805    0.742287      0.737805
+f1-score      0.754846         0.718218  0.737805    0.736532      0.735728
+support     392.000000       428.000000  0.737805  820.000000    820.000000"	"[[331  61]
+ [154 274]]"	4
+295	Risk Factors	4096	Logistic Regression	0 days 00:00:00.252316000	0.8938498264664035	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.853333         0.773034  0.809756    0.813184      0.814261
+recall        0.760095         0.862155  0.809756    0.811125      0.809756
+f1-score      0.804020         0.815166  0.809756    0.809593      0.809443
+support     421.000000       399.000000  0.809756  820.000000    820.000000"	"[[320 101]
+ [ 55 344]]"	0
+296	Risk Factors	4096	Logistic Regression	0 days 00:00:00.472652000	0.8855746042358109	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.853333         0.743820  0.793902    0.798577      0.801782
+recall        0.737327         0.857513  0.793902    0.797420      0.793902
+f1-score      0.791100         0.796631  0.793902    0.793865      0.793703
+support     434.000000       386.000000  0.793902  820.000000    820.000000"	"[[320 114]
+ [ 55 331]]"	1
+297	Risk Factors	4096	Logistic Regression	0 days 00:00:00.263662000	0.8906737107636657	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.852243         0.793651  0.820732    0.822947      0.823233
+recall        0.780193         0.862069  0.820732    0.821131      0.820732
+f1-score      0.814628         0.826446  0.820732    0.820537      0.820479
+support     414.000000       406.000000  0.820732  820.000000    820.000000"	"[[323  91]
+ [ 56 350]]"	2
+298	Risk Factors	4096	Logistic Regression	0 days 00:00:00.574976000	0.874263308126404	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.855191         0.748899  0.796341    0.802045      0.804249
+recall        0.733021         0.865140  0.796341    0.799081      0.796341
+f1-score      0.789407         0.802834  0.796341    0.796120      0.795842
+support     427.000000       393.000000  0.796341  820.000000    820.000000"	"[[313 114]
+ [ 53 340]]"	3
+299	Risk Factors	4096	Logistic Regression	0 days 00:00:00.353651000	0.8910928857524318	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.833787         0.810155  0.820732    0.821971      0.821452
+recall        0.780612         0.857477  0.820732    0.819044      0.820732
+f1-score      0.806324         0.833144  0.820732    0.819734      0.820323
+support     392.000000       428.000000  0.820732  820.000000    820.000000"	"[[306  86]
+ [ 61 367]]"	4
+300	Symptoms	15592	Random Forest	0 days 00:05:07.346448000	0.95113138629072	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.851351         0.909457  0.879128     0.880404      0.881121
+recall        0.911243         0.848561  0.879128     0.879902      0.879128
+f1-score      0.880279         0.877954  0.879128     0.879117      0.879088
+support    1521.000000      1598.000000  0.879128  3119.000000   3119.000000"	"[[1386  135]
+ [ 242 1356]]"	0
+301	Symptoms	15592	Random Forest	0 days 00:04:57.405211000	0.9513184567497667	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.858177         0.909713  0.882334     0.883945      0.884036
+recall        0.915058         0.849840  0.882334     0.882449      0.882334
+f1-score      0.885705         0.878758  0.882334     0.882232      0.882219
+support    1554.000000      1565.000000  0.882334  3119.000000   3119.000000"	"[[1422  132]
+ [ 235 1330]]"	1
+302	Symptoms	15592	Random Forest	0 days 00:05:04.745997000	0.9557939603568754	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.863222         0.909769   0.88522     0.886496      0.886593
+recall        0.914359         0.856322   0.88522     0.885341      0.885220
+f1-score      0.888055         0.882237   0.88522     0.885146      0.885134
+support    1553.000000      1566.000000   0.88522  3119.000000   3119.000000"	"[[1420  133]
+ [ 225 1341]]"	2
+303	Symptoms	15592	Random Forest	0 days 00:05:05.020586000	0.9532762888463089	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.842690         0.919092  0.877204     0.880891      0.881001
+recall        0.926688         0.828005  0.877204     0.877347      0.877204
+f1-score      0.882695         0.871174  0.877204     0.876935      0.876918
+support    1555.000000      1564.000000  0.877204  3119.000000   3119.000000"	"[[1441  114]
+ [ 269 1295]]"	3
+304	Symptoms	15592	Random Forest	0 days 00:05:01.876984000	0.9517787139839099	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.851384         0.899794  0.873998     0.875589      0.875566
+recall        0.906470         0.841463  0.873998     0.873967      0.873998
+f1-score      0.878064         0.869652  0.873998     0.873858      0.873862
+support    1561.000000      1558.000000  0.873998  3119.000000   3119.000000"	"[[1415  146]
+ [ 247 1311]]"	4
+305	Symptoms	15592	MultinomialNB	0 days 00:00:00.181766000	0.9103567987268767	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.777778         0.885630  0.824944     0.831704      0.833035
+recall        0.897436         0.755945  0.824944     0.826690      0.824944
+f1-score      0.833333         0.815665  0.824944     0.824499      0.824281
+support    1521.000000      1598.000000  0.824944  3119.000000   3119.000000"	"[[1365  156]
+ [ 390 1208]]"	0
+306	Symptoms	15592	MultinomialNB	0 days 00:00:00.192077000	0.91122117096558	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.783066         0.894055  0.829753     0.838560      0.838756
+recall        0.910553         0.749521  0.829753     0.830037      0.829753
+f1-score      0.842011         0.815433  0.829753     0.828722      0.828675
+support    1554.000000      1565.000000  0.829753  3119.000000   3119.000000"	"[[1415  139]
+ [ 392 1173]]"	1
+307	Symptoms	15592	MultinomialNB	0 days 00:00:00.190026000	0.9136134158005064	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.795826         0.894502   0.83841     0.845164       0.84537
+recall        0.908564         0.768838   0.83841     0.838701       0.83841
+f1-score      0.848467         0.826923   0.83841     0.837695       0.83765
+support    1553.000000      1566.000000   0.83841  3119.000000    3119.00000"	"[[1411  142]
+ [ 362 1204]]"	2
+308	Symptoms	15592	MultinomialNB	0 days 00:00:00.184128000	0.9149291535431453	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.775578         0.888547    0.8227     0.832062      0.832225
+recall        0.906752         0.739130    0.8227     0.822941      0.822700
+f1-score      0.836051         0.806981    0.8227     0.821516      0.821474
+support    1555.000000      1564.000000    0.8227  3119.000000   3119.000000"	"[[1410  145]
+ [ 408 1156]]"	3
+309	Symptoms	15592	MultinomialNB	0 days 00:00:00.182083000	0.9091963201232875	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.780324         0.875940  0.821097     0.828132      0.828086
+recall        0.894299         0.747754  0.821097     0.821026      0.821097
+f1-score      0.833433         0.806787  0.821097     0.820110      0.820123
+support    1561.000000      1558.000000  0.821097  3119.000000   3119.000000"	"[[1396  165]
+ [ 393 1165]]"	4
+310	Symptoms	15592	Logistic Regression	0 days 00:00:01.807110000	0.9579446365813941	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.884540         0.895965  0.890349     0.890252      0.890393
+recall        0.891519         0.889237  0.890349     0.890378      0.890349
+f1-score      0.888016         0.892588  0.890349     0.890302      0.890358
+support    1521.000000      1598.000000  0.890349  3119.000000   3119.000000"	"[[1356  165]
+ [ 177 1421]]"	0
+311	Symptoms	15592	Logistic Regression	0 days 00:00:01.265773000	0.955361203284526	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.890615         0.886912  0.888746     0.888764      0.888757
+recall        0.885457         0.892013  0.888746     0.888735      0.888746
+f1-score      0.888028         0.889455  0.888746     0.888742      0.888744
+support    1554.000000      1565.000000  0.888746  3119.000000   3119.000000"	"[[1376  178]
+ [ 169 1396]]"	1
+312	Symptoms	15592	Logistic Regression	0 days 00:00:01.174028000	0.9576064618474193	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.891769         0.887690  0.889708     0.889730      0.889721
+recall        0.886027         0.893359  0.889708     0.889693      0.889708
+f1-score      0.888889         0.890516  0.889708     0.889702      0.889706
+support    1553.000000      1566.000000  0.889708  3119.000000   3119.000000"	"[[1376  177]
+ [ 167 1399]]"	2
+313	Symptoms	15592	Logistic Regression	0 days 00:00:01.626646000	0.9594250869647454	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.891597         0.894231  0.892914     0.892914      0.892918
+recall        0.893891         0.891944  0.892914     0.892917      0.892914
+f1-score      0.892742         0.893086  0.892914     0.892914      0.892915
+support    1555.000000      1564.000000  0.892914  3119.000000   3119.000000"	"[[1390  165]
+ [ 169 1395]]"	3
+314	Symptoms	15592	Logistic Regression	0 days 00:00:01.424107000	0.9574180173171637	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.892100         0.889885  0.890991     0.890992      0.890994
+recall        0.889814         0.892169  0.890991     0.890992      0.890991
+f1-score      0.890956         0.891026  0.890991     0.890991      0.890991
+support    1561.000000      1558.000000  0.890991  3119.000000   3119.000000"	"[[1389  172]
+ [ 168 1390]]"	4
+315	Testing Prevalence	5590	Random Forest	0 days 00:01:20.502442000	0.9321620583717358	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.835000         0.886100  0.858676     0.860550      0.860504
+recall        0.894643         0.822581  0.858676     0.858612      0.858676
+f1-score      0.863793         0.853160  0.858676     0.858476      0.858486
+support     560.000000       558.000000  0.858676  1118.000000   1118.000000"	"[[501  59]
+ [ 99 459]]"	0
+316	Testing Prevalence	5590	Random Forest	0 days 00:01:17.054127000	0.9200464148527528	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.820225         0.884848  0.848837     0.852537      0.852016
+recall        0.899648         0.796364  0.848837     0.848006      0.848837
+f1-score      0.858102         0.838278  0.848837     0.848190      0.848350
+support     568.000000       550.000000  0.848837  1118.000000   1118.000000"	"[[511  57]
+ [112 438]]"	1
+317	Testing Prevalence	5590	Random Forest	0 days 00:01:20.450315000	0.9135011778563016	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.832787         0.885827  0.856887     0.859307      0.858975
+recall        0.897527         0.815217  0.856887     0.856372      0.856887
+f1-score      0.863946         0.849057  0.856887     0.856501      0.856594
+support     566.000000       552.000000  0.856887  1118.000000   1118.000000"	"[[508  58]
+ [102 450]]"	2
+318	Testing Prevalence	5590	Random Forest	0 days 00:01:20.574768000	0.9212913178175487	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.831104         0.890385  0.858676     0.860744      0.861009
+recall        0.897112         0.820922  0.858676     0.859017      0.858676
+f1-score      0.862847         0.854244  0.858676     0.858545      0.858507
+support     554.000000       564.000000  0.858676  1118.000000   1118.000000"	"[[497  57]
+ [101 463]]"	3
+319	Testing Prevalence	5590	Random Forest	0 days 00:01:19.098067000	0.9270478143827714	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.829154         0.893750  0.856887     0.861452      0.860238
+recall        0.912069         0.797398  0.856887     0.854733      0.856887
+f1-score      0.868637         0.842829  0.856887     0.855733      0.856218
+support     580.000000       538.000000  0.856887  1118.000000   1118.000000"	"[[529  51]
+ [109 429]]"	4
+320	Testing Prevalence	5590	MultinomialNB	0 days 00:00:00.062767000	0.8789650537634407	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.766917         0.889625  0.816637     0.828271      0.828161
+recall        0.910714         0.722222  0.816637     0.816468      0.816637
+f1-score      0.832653         0.797230  0.816637     0.814942      0.814973
+support     560.000000       558.000000  0.816637  1118.000000   1118.000000"	"[[510  50]
+ [155 403]]"	0
+321	Testing Prevalence	5590	MultinomialNB	0 days 00:00:00.070810000	0.8569558258642765	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.738439         0.866197   0.78712     0.802318      0.801290
+recall        0.899648         0.670909   0.78712     0.785278      0.787120
+f1-score      0.811111         0.756148   0.78712     0.783629      0.784072
+support     568.000000       550.000000   0.78712  1118.000000   1118.000000"	"[[511  57]
+ [181 369]]"	1
+322	Testing Prevalence	5590	MultinomialNB	0 days 00:00:00.070859000	0.855507758488247	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.745914         0.856180  0.789803     0.801047      0.800356
+recall        0.886926         0.690217  0.789803     0.788572      0.789803
+f1-score      0.810331         0.764293  0.789803     0.787312      0.787600
+support     566.000000       552.000000  0.789803  1118.000000   1118.000000"	"[[502  64]
+ [171 381]]"	2
+323	Testing Prevalence	5590	MultinomialNB	0 days 00:00:00.070851000	0.8757809099521212	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.742313         0.891954  0.800537     0.817134      0.817803
+recall        0.915162         0.687943  0.800537     0.801553      0.800537
+f1-score      0.819725         0.776777  0.800537     0.798251      0.798059
+support     554.000000       564.000000  0.800537  1118.000000   1118.000000"	"[[507  47]
+ [176 388]]"	3
+324	Testing Prevalence	5590	MultinomialNB	0 days 00:00:00.068719000	0.8751762594539163	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.745810         0.885572  0.796064     0.815691      0.813066
+recall        0.920690         0.661710  0.796064     0.791200      0.796064
+f1-score      0.824074         0.757447  0.796064     0.790760      0.792012
+support     580.000000       538.000000  0.796064  1118.000000   1118.000000"	"[[534  46]
+ [182 356]]"	4
+325	Testing Prevalence	5590	Logistic Regression	0 days 00:00:00.436760000	0.9232622887864824	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.870544         0.835897  0.852415     0.853221      0.853252
+recall        0.828571         0.876344  0.852415     0.852458      0.852415
+f1-score      0.849039         0.855643  0.852415     0.852341      0.852335
+support     560.000000       558.000000  0.852415  1118.000000   1118.000000"	"[[464  96]
+ [ 69 489]]"	0
+326	Testing Prevalence	5590	Logistic Regression	0 days 00:00:00.555456000	0.9086843790012804	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.837979         0.840074  0.838998     0.839026      0.839009
+recall        0.846831         0.830909  0.838998     0.838870      0.838998
+f1-score      0.842382         0.835466  0.838998     0.838924      0.838980
+support     568.000000       550.000000  0.838998  1118.000000   1118.000000"	"[[481  87]
+ [ 93 457]]"	1
+327	Testing Prevalence	5590	Logistic Regression	0 days 00:00:00.686941000	0.899181261842577	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.838290         0.801724   0.81932     0.820007      0.820236
+recall        0.796820         0.842391   0.81932     0.819606      0.819320
+f1-score      0.817029         0.821555   0.81932     0.819292      0.819264
+support     566.000000       552.000000   0.81932  1118.000000   1118.000000"	"[[451 115]
+ [ 87 465]]"	2
+328	Testing Prevalence	5590	Logistic Regression	0 days 00:00:00.624876000	0.9275193947307782	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.855098         0.864043  0.859571     0.859571      0.859611
+recall        0.862816         0.856383  0.859571     0.859599      0.859571
+f1-score      0.858940         0.860196  0.859571     0.859568      0.859573
+support     554.000000       564.000000  0.859571  1118.000000   1118.000000"	"[[478  76]
+ [ 81 483]]"	3
+329	Testing Prevalence	5590	Logistic Regression	0 days 00:00:00.412830000	0.9143282912447122	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.852686         0.837338  0.845259     0.845012      0.845301
+recall        0.848276         0.842007  0.845259     0.845142      0.845259
+f1-score      0.850475         0.839666  0.845259     0.845071      0.845274
+support     580.000000       538.000000  0.845259  1118.000000   1118.000000"	"[[492  88]
+ [ 85 453]]"	4
+330	Vaccines	15640	Random Forest	0 days 00:05:21.707179000	0.9707036943904388	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.899230         0.908280  0.903772     0.903755      0.903810
+recall        0.906796         0.900821  0.903772     0.903809      0.903772
+f1-score      0.902997         0.904535  0.903772     0.903766      0.903776
+support    1545.000000      1583.000000  0.903772  3128.000000   3128.000000"	"[[1401  144]
+ [ 157 1426]]"	0
+331	Vaccines	15640	Random Forest	0 days 00:05:13.211324000	0.9722485348618057	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.896639         0.909091  0.902813     0.902865      0.902901
+recall        0.909325         0.896376  0.902813     0.902851      0.902813
+f1-score      0.902937         0.902689  0.902813     0.902813      0.902812
+support    1555.000000      1573.000000  0.902813  3128.000000   3128.000000"	"[[1414  141]
+ [ 163 1410]]"	1
+332	Vaccines	15640	Random Forest	0 days 00:05:12.409246000	0.9709068134162909	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.906572         0.903553  0.905051     0.905063      0.905058
+recall        0.902502         0.907584  0.905051     0.905043      0.905051
+f1-score      0.904532         0.905564  0.905051     0.905048      0.905050
+support    1559.000000      1569.000000  0.905051  3128.000000   3128.000000"	"[[1407  152]
+ [ 145 1424]]"	2
+333	Vaccines	15640	Random Forest	0 days 00:05:11.115353000	0.9731931014998322	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.906250         0.914267  0.910166     0.910259      0.910215
+recall        0.917141         0.903038  0.910166     0.910090      0.910166
+f1-score      0.911663         0.908618  0.910166     0.910140      0.910157
+support    1581.000000      1547.000000  0.910166  3128.000000   3128.000000"	"[[1450  131]
+ [ 150 1397]]"	3
+334	Vaccines	15640	Random Forest	0 days 00:05:18.962883000	0.9732472434094683	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.913071         0.902857  0.907928     0.907964      0.907987
+recall        0.902610         0.913295  0.907928     0.907952      0.907928
+f1-score      0.907810         0.908046  0.907928     0.907928      0.907928
+support    1571.000000      1557.000000  0.907928  3128.000000   3128.000000"	"[[1418  153]
+ [ 135 1422]]"	4
+335	Vaccines	15640	MultinomialNB	0 days 00:00:00.184107000	0.9032119178897141	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.796017         0.846363  0.819693     0.821190      0.821496
+recall        0.853722         0.786481  0.819693     0.820102      0.819693
+f1-score      0.823860         0.815324  0.819693     0.819592      0.819540
+support    1545.000000      1583.000000  0.819693  3128.000000   3128.000000"	"[[1319  226]
+ [ 338 1245]]"	0
+336	Vaccines	15640	MultinomialNB	0 days 00:00:00.181974000	0.9102875493404579	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.805156         0.854795  0.828325     0.829975      0.830118
+recall        0.863666         0.793388  0.828325     0.828527      0.828325
+f1-score      0.833385         0.822948  0.828325     0.828166      0.828136
+support    1555.000000      1573.000000  0.828325  3128.000000   3128.000000"	"[[1343  212]
+ [ 325 1248]]"	1
+337	Vaccines	15640	MultinomialNB	0 days 00:00:00.182132000	0.905902159013373	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.809611         0.846361  0.827046     0.827986      0.828045
+recall        0.853752         0.800510  0.827046     0.827131      0.827046
+f1-score      0.831096         0.822797  0.827046     0.826947      0.826933
+support    1559.000000      1569.000000  0.827046  3128.000000   3128.000000"	"[[1331  228]
+ [ 313 1256]]"	2
+338	Vaccines	15640	MultinomialNB	0 days 00:00:00.192314000	0.9102598855919538	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.811131         0.853370  0.830563     0.832251      0.832021
+recall        0.866540         0.793794  0.830563     0.830167      0.830563
+f1-score      0.837920         0.822505  0.830563     0.830213      0.830297
+support    1581.000000      1547.000000  0.830563  3128.000000   3128.000000"	"[[1370  211]
+ [ 319 1228]]"	3
+339	Vaccines	15640	MultinomialNB	0 days 00:00:00.181908000	0.9103075288414326	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.813642         0.841857  0.827046     0.827750      0.827686
+recall        0.850414         0.803468  0.827046     0.826941      0.827046
+f1-score      0.831622         0.822215  0.827046     0.826918      0.826939
+support    1571.000000      1557.000000  0.827046  3128.000000   3128.000000"	"[[1336  235]
+ [ 306 1251]]"	4
+340	Vaccines	15640	Logistic Regression	0 days 00:00:01.521460000	0.9629367040991766	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.927157         0.863477  0.892263     0.895317      0.894930
+recall        0.848544         0.934934  0.892263     0.891739      0.892263
+f1-score      0.886110         0.897786  0.892263     0.891948      0.892019
+support    1545.000000      1583.000000  0.892263  3128.000000   3128.000000"	"[[1311  234]
+ [ 103 1480]]"	0
+341	Vaccines	15640	Logistic Regression	0 days 00:00:01.446609000	0.9646187778897514	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.925405         0.859402  0.889386     0.892404      0.892214
+recall        0.845659         0.932613  0.889386     0.889136      0.889386
+f1-score      0.883737         0.894512  0.889386     0.889124      0.889155
+support    1555.000000      1573.000000  0.889386  3128.000000   3128.000000"	"[[1315  240]
+ [ 106 1467]]"	1
+342	Vaccines	15640	Logistic Regression	0 days 00:00:01.221039000	0.9595841657907723	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.929799         0.849307   0.88523     0.889553      0.889425
+recall        0.832585         0.937540   0.88523     0.885062      0.885230
+f1-score      0.878511         0.891245   0.88523     0.884878      0.884898
+support    1559.000000      1569.000000   0.88523  3128.000000   3128.000000"	"[[1298  261]
+ [  98 1471]]"	2
+343	Vaccines	15640	Logistic Regression	0 days 00:00:01.456677000	0.9643222053089225	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.933380         0.860107  0.893862     0.896743      0.897141
+recall        0.850727         0.937944  0.893862     0.894336      0.893862
+f1-score      0.890139         0.897341  0.893862     0.893740      0.893701
+support    1581.000000      1547.000000  0.893862  3128.000000   3128.000000"	"[[1345  236]
+ [  96 1451]]"	3
+344	Vaccines	15640	Logistic Regression	0 days 00:00:01.699470000	0.9634851660659014	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.933473         0.860000  0.893542     0.896737      0.896901
+recall        0.848504         0.938985  0.893542     0.893745      0.893542
+f1-score      0.888963         0.897759  0.893542     0.893361      0.893341
+support    1571.000000      1557.000000  0.893542  3128.000000   3128.000000"	"[[1333  238]
+ [  95 1462]]"	4
+345	Viral Shedding-Persistence	808	Random Forest	0 days 00:00:07.241473000	0.9652777777777778	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.870130         0.941176  0.907407    0.905653      0.909600
+recall        0.930556         0.888889  0.907407    0.909722      0.907407
+f1-score      0.899329         0.914286  0.907407    0.906807      0.907638
+support      72.000000        90.000000  0.907407  162.000000    162.000000"	"[[67  5]
+ [10 80]]"	0
+346	Viral Shedding-Persistence	808	Random Forest	0 days 00:00:06.951787000	0.9564649877149877	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.809524         0.923077  0.864198    0.866300      0.871207
+recall        0.918919         0.818182  0.864198    0.868550      0.864198
+f1-score      0.860759         0.867470  0.864198    0.864115      0.864405
+support      74.000000        88.000000  0.864198  162.000000    162.000000"	"[[68  6]
+ [16 72]]"	1
+347	Viral Shedding-Persistence	808	Random Forest	0 days 00:00:06.551898000	0.9283200734394126	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.876404         0.890411  0.882716    0.883408      0.882975
+recall        0.906977         0.855263  0.882716    0.881120      0.882716
+f1-score      0.891429         0.872483  0.882716    0.881956      0.882541
+support      86.000000        76.000000  0.882716  162.000000    162.000000"	"[[78  8]
+ [11 65]]"	2
+348	Viral Shedding-Persistence	808	Random Forest	0 days 00:00:06.773232000	0.9636056511056511	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.950617         0.864198  0.907407    0.907407      0.911142
+recall        0.875000         0.945946  0.907407    0.910473      0.907407
+f1-score      0.911243         0.903226  0.907407    0.907234      0.907581
+support      88.000000        74.000000  0.907407  162.000000    162.000000"	"[[77 11]
+ [ 4 70]]"	3
+349	Viral Shedding-Persistence	808	Random Forest	0 days 00:00:06.869288000	0.9157372039724981	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.850575         0.853333  0.851852    0.851954      0.851886
+recall        0.870588         0.831169  0.851852    0.850879      0.851852
+f1-score      0.860465         0.842105  0.851852    0.851285      0.851739
+support      85.000000        77.000000  0.851852  162.000000    162.000000"	"[[74 11]
+ [13 64]]"	4
+350	Viral Shedding-Persistence	808	MultinomialNB	0 days 00:00:00.020175000	0.9334876543209877	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.619469         0.959184  0.722222    0.789326      0.808199
+recall        0.972222         0.522222  0.722222    0.747222      0.722222
+f1-score      0.756757         0.676259  0.722222    0.716508      0.712036
+support      72.000000        90.000000  0.722222  162.000000    162.000000"	"[[70  2]
+ [43 47]]"	0
+351	Viral Shedding-Persistence	808	MultinomialNB	0 days 00:00:00.010095000	0.9109336609336609	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.591667         0.928571  0.679012    0.760119      0.774677
+recall        0.959459         0.443182  0.679012    0.701321      0.679012
+f1-score      0.731959         0.600000  0.679012    0.665979      0.660277
+support      74.000000        88.000000  0.679012  162.000000    162.000000"	"[[71  3]
+ [49 39]]"	1
+352	Viral Shedding-Persistence	808	MultinomialNB	0 days 00:00:00.020199000	0.9039167686658507	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.719626         0.836364  0.759259    0.777995      0.774392
+recall        0.895349         0.605263  0.759259    0.750306      0.759259
+f1-score      0.797927         0.702290  0.759259    0.750109      0.753061
+support      86.000000        76.000000  0.759259  162.000000    162.000000"	"[[77  9]
+ [30 46]]"	2
+353	Viral Shedding-Persistence	808	MultinomialNB	0 days 00:00:00.010108000	0.9476351351351352	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.852632         0.895522   0.87037    0.874077      0.872224
+recall        0.920455         0.810811   0.87037    0.865633      0.870370
+f1-score      0.885246         0.851064   0.87037    0.868155      0.869632
+support      88.000000        74.000000   0.87037  162.000000    162.000000"	"[[81  7]
+ [14 60]]"	3
+354	Viral Shedding-Persistence	808	MultinomialNB	0 days 00:00:00.020198000	0.9025210084033615	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.728972         0.872727  0.777778    0.800850      0.797300
+recall        0.917647         0.623377  0.777778    0.770512      0.777778
+f1-score      0.812500         0.727273  0.777778    0.769886      0.771991
+support      85.000000        77.000000  0.777778  162.000000    162.000000"	"[[78  7]
+ [29 48]]"	4
+355	Viral Shedding-Persistence	808	Logistic Regression	0 days 00:00:00.080790000	0.9379629629629629	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.885714         0.891304  0.888889    0.888509      0.888820
+recall        0.861111         0.911111  0.888889    0.886111      0.888889
+f1-score      0.873239         0.901099  0.888889    0.887169      0.888717
+support      72.000000        90.000000  0.888889  162.000000    162.000000"	"[[62 10]
+ [ 8 82]]"	0
+356	Viral Shedding-Persistence	808	Logistic Regression	0 days 00:00:00.090732000	0.9247542997542997	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.884058         0.860215   0.87037    0.872137      0.871106
+recall        0.824324         0.909091   0.87037    0.866708      0.870370
+f1-score      0.853147         0.883978   0.87037    0.868562      0.869895
+support      74.000000        88.000000   0.87037  162.000000    162.000000"	"[[61 13]
+ [ 8 80]]"	1
+357	Viral Shedding-Persistence	808	Logistic Regression	0 days 00:00:00.100763000	0.9163096695226438	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.920000         0.804598  0.858025    0.862299      0.865861
+recall        0.802326         0.921053  0.858025    0.861689      0.858025
+f1-score      0.857143         0.858896  0.858025    0.858019      0.857965
+support      86.000000        76.000000  0.858025  162.000000    162.000000"	"[[69 17]
+ [ 6 70]]"	2
+358	Viral Shedding-Persistence	808	Logistic Regression	0 days 00:00:00.141426000	0.9468673218673218	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     1.000000         0.787234  0.876543    0.893617      0.902811
+recall        0.772727         1.000000  0.876543    0.886364      0.876543
+f1-score      0.871795         0.880952  0.876543    0.876374      0.875978
+support      88.000000        74.000000  0.876543  162.000000    162.000000"	"[[68 20]
+ [ 0 74]]"	3
+359	Viral Shedding-Persistence	808	Logistic Regression	0 days 00:00:00.070422000	0.8881588999236059	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.873239         0.747253  0.802469    0.810246      0.813357
+recall        0.729412         0.883117  0.802469    0.806264      0.802469
+f1-score      0.794872         0.809524  0.802469    0.802198      0.801836
+support      85.000000        77.000000  0.802469  162.000000    162.000000"	"[[62 23]
+ [ 9 68]]"	4
+360	Virus Detection	11100	Random Forest	0 days 00:02:47.183168000	0.9690793534762834	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.878553         0.943343  0.909459     0.910948      0.911823
+recall        0.944444         0.876316  0.909459     0.910380      0.909459
+f1-score      0.910308         0.908595  0.909459     0.909451      0.909428
+support    1080.000000      1140.000000  0.909459  2220.000000   2220.000000"	"[[1020   60]
+ [ 141  999]]"	0
+361	Virus Detection	11100	Random Forest	0 days 00:02:50.034383000	0.9798629822269812	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.910699         0.955470  0.931532     0.933084      0.932742
+recall        0.959184         0.903019  0.931532     0.931101      0.931532
+f1-score      0.934313         0.928504  0.931532     0.931409      0.931453
+support    1127.000000      1093.000000  0.931532  2220.000000   2220.000000"	"[[1081   46]
+ [ 106  987]]"	1
+362	Virus Detection	11100	Random Forest	0 days 00:02:48.060292000	0.9810071922592104	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.913043         0.952336  0.931982     0.932690      0.932849
+recall        0.953678         0.910634  0.931982     0.932156      0.931982
+f1-score      0.932919         0.931019  0.931982     0.931969      0.931961
+support    1101.000000      1119.000000  0.931982  2220.000000   2220.000000"	"[[1050   51]
+ [ 100 1019]]"	2
+363	Virus Detection	11100	Random Forest	0 days 00:02:47.616451000	0.9765572302774641	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.892679         0.952849   0.92027     0.922764      0.922466
+recall        0.957181         0.882621   0.92027     0.919901      0.920270
+f1-score      0.923805         0.916391   0.92027     0.920098      0.920135
+support    1121.000000      1099.000000   0.92027  2220.000000   2220.000000"	"[[1073   48]
+ [ 129  970]]"	3
+364	Virus Detection	11100	Random Forest	0 days 00:02:46.876759000	0.9773897943759229	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.899090         0.960435  0.927027     0.929763      0.929293
+recall        0.964508         0.888381  0.927027     0.926444      0.927027
+f1-score      0.930651         0.923004  0.927027     0.926827      0.926886
+support    1127.000000      1093.000000  0.927027  2220.000000   2220.000000"	"[[1087   40]
+ [ 122  971]]"	4
+365	Virus Detection	11100	MultinomialNB	0 days 00:00:00.123475000	0.93102420402859	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.797806         0.934322  0.855856     0.866064      0.867909
+recall        0.942593         0.773684  0.855856     0.858138      0.855856
+f1-score      0.864177         0.846449  0.855856     0.855313      0.855073
+support    1080.000000      1140.000000  0.855856  2220.000000   2220.000000"	"[[1018   62]
+ [ 258  882]]"	0
+366	Virus Detection	11100	MultinomialNB	0 days 00:00:00.141658000	0.9458309756935115	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.836703         0.945396  0.882432     0.891050      0.890217
+recall        0.954747         0.807868  0.882432     0.881308      0.882432
+f1-score      0.891836         0.871238  0.882432     0.881537      0.881695
+support    1127.000000      1093.000000  0.882432  2220.000000   2220.000000"	"[[1076   51]
+ [ 210  883]]"	1
+367	Virus Detection	11100	MultinomialNB	0 days 00:00:00.131587000	0.9489894230527288	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.816978         0.944444  0.870721     0.880711      0.881228
+recall        0.952770         0.789991  0.870721     0.871381      0.870721
+f1-score      0.879665         0.860341  0.870721     0.870003      0.869924
+support    1101.000000      1119.000000  0.870721  2220.000000   2220.000000"	"[[1049   52]
+ [ 235  884]]"	2
+368	Virus Detection	11100	MultinomialNB	0 days 00:00:00.131428000	0.9432165645680649	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.820552         0.944323  0.871622     0.882438      0.881824
+recall        0.954505         0.787079  0.871622     0.870792      0.871622
+f1-score      0.882474         0.858561  0.871622     0.870518      0.870636
+support    1121.000000      1099.000000  0.871622  2220.000000   2220.000000"	"[[1070   51]
+ [ 234  865]]"	3
+369	Virus Detection	11100	MultinomialNB	0 days 00:00:00.131445000	0.944320191977503	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.820748         0.943894  0.871171     0.882321      0.881378
+recall        0.954747         0.784995  0.871171     0.869871      0.871171
+f1-score      0.882691         0.857143  0.871171     0.869917      0.870112
+support    1127.000000      1093.000000  0.871171  2220.000000   2220.000000"	"[[1076   51]
+ [ 235  858]]"	4
+370	Virus Detection	11100	Logistic Regression	0 days 00:00:00.839704000	0.9594346978557505	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.892955         0.907720   0.90045     0.900337      0.900537
+recall        0.903704         0.897368   0.90045     0.900536      0.900450
+f1-score      0.898297         0.902514   0.90045     0.900406      0.900463
+support    1080.000000      1140.000000   0.90045  2220.000000   2220.000000"	"[[ 976  104]
+ [ 117 1023]]"	0
+371	Virus Detection	11100	Logistic Regression	0 days 00:00:01.141202000	0.9714022686921937	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.918605         0.909256  0.913964     0.913930      0.914002
+recall        0.911269         0.916743  0.913964     0.914006      0.913964
+f1-score      0.914922         0.912984  0.913964     0.913953      0.913968
+support    1127.000000      1093.000000  0.913964  2220.000000   2220.000000"	"[[1027  100]
+ [  91 1002]]"	1
+372	Virus Detection	11100	Logistic Regression	0 days 00:00:00.796064000	0.9745515288319417	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.923783         0.916004   0.91982     0.919893      0.919862
+recall        0.913715         0.925827   0.91982     0.919771      0.919820
+f1-score      0.918721         0.920889   0.91982     0.919805      0.919814
+support    1101.000000      1119.000000   0.91982  2220.000000   2220.000000"	"[[1006   95]
+ [  83 1036]]"	2
+373	Virus Detection	11100	Logistic Regression	0 days 00:00:00.960771000	0.9662778342812662	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.907789         0.902992  0.905405     0.905390      0.905414
+recall        0.904550         0.906278  0.905405     0.905414      0.905405
+f1-score      0.906166         0.904632  0.905405     0.905399      0.905407
+support    1121.000000      1099.000000  0.905405  2220.000000   2220.000000"	"[[1014  107]
+ [ 103  996]]"	3
+374	Virus Detection	11100	Logistic Regression	0 days 00:00:01.364414000	0.9663901361491333	"           in category  not in category  accuracy    macro avg  weighted avg
+precision     0.900350         0.909851  0.904955     0.905100      0.905028
+recall        0.913931         0.895700  0.904955     0.904815      0.904955
+f1-score      0.907089         0.902720  0.904955     0.904905      0.904938
+support    1127.000000      1093.000000  0.904955  2220.000000   2220.000000"	"[[1030   97]
+ [ 114  979]]"	4
+375	Virus Factors	3684	Random Forest	0 days 00:00:35.759993000	0.9651941690273844	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.888889         0.950464  0.915875    0.919677      0.918382
+recall        0.958333         0.869688  0.915875    0.914011      0.915875
+f1-score      0.922306         0.908284  0.915875    0.915295      0.915590
+support     384.000000       353.000000  0.915875  737.000000    737.000000"	"[[368  16]
+ [ 46 307]]"	0
+376	Virus Factors	3684	Random Forest	0 days 00:00:35.015343000	0.9745878817342113	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.901266         0.947368  0.922659    0.924317      0.923973
+recall        0.951872         0.892562  0.922659    0.922217      0.922659
+f1-score      0.925878         0.919149  0.922659    0.922513      0.922564
+support     374.000000       363.000000  0.922659  737.000000    737.000000"	"[[356  18]
+ [ 39 324]]"	1
+377	Virus Factors	3684	Random Forest	0 days 00:00:36.405678000	0.9733485529125855	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.898990         0.958944   0.92673    0.928967      0.928845
+recall        0.962162         0.891008   0.92673    0.926585      0.926730
+f1-score      0.929504         0.923729   0.92673    0.926616      0.926628
+support     370.000000       367.000000   0.92673  737.000000    737.000000"	"[[356  14]
+ [ 40 327]]"	2
+378	Virus Factors	3684	Random Forest	0 days 00:00:35.502251000	0.97552365088958	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.890863         0.979592  0.932157    0.935227      0.936492
+recall        0.980447         0.886544  0.932157    0.933495      0.932157
+f1-score      0.933511         0.930748  0.932157    0.932129      0.932090
+support     358.000000       379.000000  0.932157  737.000000    737.000000"	"[[351   7]
+ [ 43 336]]"	3
+379	Virus Factors	3684	Random Forest	0 days 00:00:35.557610000	0.9750791663598203	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.891089         0.978979  0.930801    0.935034      0.935213
+recall        0.980926         0.881081  0.930801    0.931004      0.930801
+f1-score      0.933852         0.927454  0.930801    0.930653      0.930640
+support     367.000000       370.000000  0.930801  737.000000    737.000000"	"[[360   7]
+ [ 44 326]]"	4
+380	Virus Factors	3684	MultinomialNB	0 days 00:00:00.040391000	0.962877714825307	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.870588         0.955128  0.906377    0.912858      0.911080
+recall        0.963542         0.844193  0.906377    0.903867      0.906377
+f1-score      0.914710         0.896241  0.906377    0.905475      0.905863
+support     384.000000       353.000000  0.906377  737.000000    737.000000"	"[[370  14]
+ [ 55 298]]"	0
+381	Virus Factors	3684	MultinomialNB	0 days 00:00:00.050592000	0.9701978462309041	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.885572         0.946269  0.913161    0.915920      0.915467
+recall        0.951872         0.873278  0.913161    0.912575      0.913161
+f1-score      0.917526         0.908309  0.913161    0.912918      0.912986
+support     374.000000       363.000000  0.913161  737.000000    737.000000"	"[[356  18]
+ [ 46 317]]"	1
+382	Virus Factors	3684	MultinomialNB	0 days 00:00:00.040451000	0.9701229840194417	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.891688         0.952941  0.919946    0.922314      0.922190
+recall        0.956757         0.882834  0.919946    0.919795      0.919946
+f1-score      0.923077         0.916549  0.919946    0.919813      0.919826
+support     370.000000       367.000000  0.919946  737.000000    737.000000"	"[[354  16]
+ [ 43 324]]"	2
+383	Virus Factors	3684	MultinomialNB	0 days 00:00:00.050595000	0.9702834569065905	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.871859         0.967552  0.915875    0.919705      0.921069
+recall        0.969274         0.865435  0.915875    0.917355      0.915875
+f1-score      0.917989         0.913649  0.915875    0.915819      0.915757
+support     358.000000       379.000000  0.915875  737.000000    737.000000"	"[[347  11]
+ [ 51 328]]"	3
+384	Virus Factors	3684	MultinomialNB	0 days 00:00:00.040462000	0.9696811252669563	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.866828         0.972222  0.913161    0.919525      0.919740
+recall        0.975477         0.851351  0.913161    0.913414      0.913161
+f1-score      0.917949         0.907781  0.913161    0.912865      0.912844
+support     367.000000       370.000000  0.913161  737.000000    737.000000"	"[[358   9]
+ [ 55 315]]"	4
+385	Virus Factors	3684	Logistic Regression	0 days 00:00:00.323933000	0.9648695703493861	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.900510         0.910145   0.90502    0.905328      0.905125
+recall        0.919271         0.889518   0.90502    0.904395      0.905020
+f1-score      0.909794         0.899713   0.90502    0.904754      0.904966
+support     384.000000       353.000000   0.90502  737.000000    737.000000"	"[[353  31]
+ [ 39 314]]"	0
+386	Virus Factors	3684	Logistic Regression	0 days 00:00:00.311607000	0.9727169605633389	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.920981         0.902703  0.911805    0.911842      0.911978
+recall        0.903743         0.920110  0.911805    0.911927      0.911805
+f1-score      0.912281         0.911323  0.911805    0.911802      0.911809
+support     374.000000       363.000000  0.911805  737.000000    737.000000"	"[[338  36]
+ [ 29 334]]"	1
+387	Virus Factors	3684	Logistic Regression	0 days 00:00:00.292587000	0.9711981736504897	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.912000         0.922652  0.917232    0.917326      0.917304
+recall        0.924324         0.910082  0.917232    0.917203      0.917232
+f1-score      0.918121         0.916324  0.917232    0.917222      0.917226
+support     370.000000       367.000000  0.917232  737.000000    737.000000"	"[[342  28]
+ [ 33 334]]"	2
+388	Virus Factors	3684	Logistic Regression	0 days 00:00:00.292392000	0.9731357143910024	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.898123         0.936813  0.917232    0.917468      0.918019
+recall        0.935754         0.899736  0.917232    0.917745      0.917232
+f1-score      0.916553         0.917900  0.917232    0.917227      0.917246
+support     358.000000       379.000000  0.917232  737.000000    737.000000"	"[[335  23]
+ [ 38 341]]"	3
+389	Virus Factors	3684	Logistic Regression	0 days 00:00:00.343558000	0.9725826644082775	"           in category  not in category  accuracy   macro avg  weighted avg
+precision     0.898936         0.919668  0.909091    0.909302      0.909344
+recall        0.920981         0.897297  0.909091    0.909139      0.909091
+f1-score      0.909825         0.908345  0.909091    0.909085      0.909082
+support     367.000000       370.000000  0.909091  737.000000    737.000000"	"[[338  29]
+ [ 38 332]]"	4
