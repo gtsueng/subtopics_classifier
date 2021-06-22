@@ -1,0 +1,3 @@
+	keywords	counts
+8	COVID-19	32
+151	hospital care	17

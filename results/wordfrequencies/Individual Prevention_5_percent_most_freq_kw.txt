@@ -1,0 +1,143 @@
+	keywords	counts
+195	COVID-19	650
+2392	personal protective equipment	306
+1112	Personal protective equipment	168
+1302	SARS-CoV-2	165
+2349	pandemic	61
+318	Coronavirus	58
+1764	coronavirus	57
+1946	face mask	54
+527	Face mask	48
+1954	face masks	45
+1104	Personal Protective Equipment	39
+1038	PPE	37
+533	Face masks	37
+343	Covid-19	36
+1067	Pandemic	33
+1113	Personal protective equipment (PPE)	30
+2393	personal protective equipment (PPE)	26
+672	Healthcare workers	21
+2071	healthcare workers	19
+890	N95	18
+2643	social distancing	17
+1110	Personal protection equipment	17
+2386	personal protection equipment	17
+2583	safety	16
+2123	infection control	15
+1788	covid-19	14
+2492	public health	13
+30	3D printing	13
+201	COVID-19 pandemic	13
+739	Infection control	13
+2210	masks	13
+2044	health care workers	12
+1170	Prevention	12
+1767	coronavirus disease	11
+1611	airway management	11
+2230	mental health	11
+1592	aerosol-generating procedure	10
+1046	PPE, personal protective equipment	10
+1475	Telemedicine	10
+460	Endoscopy	10
+2715	telemedicine	10
+2069	healthcare worker	10
+1069	Pandemics	10
+2128	infection prevention	9
+1596	aerosols	9
+1337	Safety	9
+2129	infection prevention and control	8
+2734	tracheal intubation	8
+2735	tracheostomy	8
+2352	pandemics	8
+2613	severe acute respiratory syndrome coronavirus 2	8
+2153	intubation	8
+1783	counseling	8
+832	Masks	8
+2021	hand hygiene	8
+1391	Social distancing	8
+1999	genetic counseling	8
+221	COVID‐19	8
+1434	Surgery	8
+2680	surgery	8
+898	N95 respirator	8
+1944	face covering	8
+338	Counseling	7
+1804	decontamination	7
+1905	endoscopy	7
+2338	otolaryngology	7
+2620	simulation	7
+1586	aerosol	7
+2782	viruses	7
+2470	protection	7
+1105	Personal Protective Equipment (PPE)	7
+2685	surgical mask	6
+2132	infectious disease	6
+2566	reuse	6
+220	COVID19	6
+2302	occupational health	6
+327	Coronavirus disease 2019	6
+192	COVID	6
+1045	PPE, Personal protective equipment	6
+1955	face shield	6
+1198	Public health	6
+1816	dentistry	6
+1108	Personal protection	6
+2122	infection	6
+2384	personal protection	6
+2713	telehealth	6
+1292	SARS	6
+83	Aerosol-generating procedures	6
+72	Aerosol	6
+1448	Survey	6
+1313	SARS-CoV-2, severe acute respiratory syndrome coronavirus 2	6
+1557	Waste management	6
+1491	Tracheostomy	5
+1717	cloth mask	5
+537	Face shield	5
+1843	disinfection	5
+1853	droplet	5
+394	Disinfection	5
+439	Education	5
+2052	health personnel	5
+2779	virus	5
+214	COVID-19, coronavirus disease 2019	5
+2032	headache	5
+637	Hand hygiene	5
+2019	guidelines	5
+1262	Respirators	5
+2559	respiratory protection	5
+64	Additive manufacturing	5
+194	COVID 19	5
+713	ICU, intensive care unit	5
+2204	mask	5
+1769	coronavirus disease 2019	5
+85	Aerosols	5
+267	China	5
+606	Guidelines	4
+2394	personal protective equipment (ppe)	4
+1496	Transmission	4
+25	2019-nCoV	4
+2551	respirators	4
+1686	cardiopulmonary resuscitation	4
+2443	pregnancy	4
+2806	zoonoses	4
+2445	prehospital	4
+2693	survey	4
+216	COVID-19, coronavirus disease-2019	4
+2558	respiratory infections	4
+1929	exposure	4
+2549	respirator	4
+1939	eye protection	4
+1373	Simulation	4
+1044	PPE, Personal Protective Equipment	4
+92	Airway	4
+952	Nurses	4
+1593	aerosol-generating procedures	4
+1418	Sterilization	4
+1260	Respirator	4
+998	Otolaryngology	4
+1444	Surgical mask	4
+1010	PAPR	4
+655	Health care workers	4
+1770	coronavirus disease 2019 (COVID-19)	4
+1574	additive manufacturing	4

@@ -1,0 +1,40 @@
+	keywords	counts
+67	COVID-19	180
+509	drug repurposing	158
+339	SARS-CoV-2	146
+141	Drug repurposing	95
+778	virtual screening	20
+616	molecular docking	17
+244	Molecular docking	16
+425	antiviral	14
+109	Coronavirus	14
+480	coronavirus	13
+618	molecular dynamics	12
+17	ACE2	8
+220	MD simulation	8
+40	Antiviral	7
+323	RdRp	7
+599	main protease	6
+377	TMPRSS2	6
+133	Drug Repurposing	6
+671	pandemic	5
+498	docking	5
+114	Covid-19	5
+403	Virtual screening	5
+718	remdesivir	5
+394	Vaccines	5
+433	antivirals	5
+348	SARS-CoV-2 infection	4
+140	Drug repositioning	4
+225	MM-GBSA	4
+598	machine learning	4
+130	Docking	4
+267	Network biology	4
+43	Antivirals	4
+770	vaccines	4
+508	drug repositioning	4
+487	cytokine storm	4
+338	SARS-CoV	4
+325	Remdesivir	4
+248	Molecular dynamics simulation	4
+221	MD simulations	4

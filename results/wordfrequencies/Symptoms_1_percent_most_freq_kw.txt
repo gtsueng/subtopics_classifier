@@ -1,0 +1,19 @@
+	keywords	counts
+112	COVID-19	376
+756	SARS-CoV-2	132
+1738	symptoms	80
+851	Symptoms	57
+219	Coronavirus	34
+265	Depressive symptoms	30
+1078	coronavirus	30
+1116	depressive symptoms	24
+1218	gastrointestinal symptoms	22
+348	Gastrointestinal symptoms	22
+1452	neurological symptoms	21
+61	Anxiety	20
+235	Covid-19	20
+569	Neurological symptoms	19
+1182	epidemiology	15
+629	Pandemic	14
+517	Mental health	13
+964	anxiety	13

@@ -1,0 +1,228 @@
+	keywords	counts
+381	COVID-19	1132
+1933	SARS-CoV-2	756
+4361	vaccine	429
+2293	Vaccine	285
+2372	Vaccines	256
+4454	vaccines	208
+2821	coronavirus	124
+597	Coronavirus	107
+441	COVID-19 vaccine	86
+4408	vaccine hesitancy	84
+3753	pandemic	61
+632	Covid-19	54
+2332	Vaccine hesitancy	50
+1586	Pandemic	40
+4349	vaccination	37
+4395	vaccine development	37
+3958	public health	36
+2281	Vaccination	36
+1145	Infection	34
+3457	mRNA vaccine	34
+4201	spike protein	30
+2751	clinical trials	28
+447	COVID-19 vaccines	26
+1108	Immunology	24
+1761	Public health	24
+3333	influenza	24
+4364	vaccine acceptance	23
+4277	therapeutics	22
+3458	mRNA vaccines	22
+547	Clinical trials	21
+2848	covid-19	21
+3447	mRNA	21
+3338	influenza vaccine	20
+3252	immunity	20
+3254	immunization	20
+3908	pregnancy	19
+1907	SARS	19
+1956	SARS-CoV-2 vaccine	19
+3241	immune response	19
+4093	safety	19
+812	Epidemiology	18
+2564	antibody	18
+1966	SARS-CoV2	18
+1929	SARS-CoV	18
+1924	SARS-COV-2	18
+3022	epidemiology	18
+261	BCG	18
+2323	Vaccine development	17
+2563	antibodies	17
+3653	neutralizing antibodies	17
+3291	immunotherapy	17
+1289	MERS-CoV	16
+34	2019-nCoV	16
+2068	Spike protein	16
+3178	herd immunity	16
+433	COVID-19 pandemic	16
+264	BCG vaccine	16
+1992	Safety	15
+1084	Immunity	15
+1163	Influenza	15
+3780	pathogenesis	15
+58	ACE2	15
+4324	treatment	15
+272	BNT162b2	15
+2985	efficacy	15
+3165	healthcare workers	15
+4295	trained immunity	14
+4137	severe acute respiratory syndrome coronavirus 2	14
+2494	adjuvant	14
+1074	Immune response	14
+2750	clinical trial	14
+4198	spike	14
+3318	infection	14
+146	Anaphylaxis	13
+4182	social media	13
+2418	Virology	13
+1686	Policy	13
+729	Diseases	13
+3272	immunoinformatics	13
+1086	Immunization	12
+1714	Pregnancy	12
+4440	vaccine safety	12
+1786	RBD	12
+3270	immunogenicity	12
+2125	T cells	12
+2530	anaphylaxis	12
+824	Ethics	12
+910	Government	12
+1103	Immunoinformatics	11
+3322	infectious disease	11
+1285	MERS	11
+3627	nanoparticles	11
+2902	diagnosis	11
+3179	hesitancy	11
+2593	antiviral	11
+2304	Vaccine acceptance	11
+4333	tuberculosis	10
+2353	Vaccine safety	10
+3038	ethics	10
+955	Health care	10
+3324	infectious diseases	10
+2959	drug repurposing	10
+1167	Influenza vaccine	10
+3913	prevention	10
+3154	health policy	10
+672	DNA vaccine	10
+4502	virus	10
+814	Epitope	9
+4394	vaccine design	9
+1347	Medical research	9
+2826	coronavirus disease 2019	9
+168	Antibodies	9
+3026	epitope	9
+608	Coronavirus disease 2019	9
+4522	willingness	9
+523	China	9
+3326	inflammation	9
+2571	antibody-dependent enhancement	9
+1910	SARS CoV-2	9
+2722	children	9
+169	Antibody	8
+4402	vaccine effectiveness	8
+2538	animal models	8
+4002	receptor-binding domain	8
+2321	Vaccine design	8
+372	COVID	8
+2605	antivirals	8
+2476	acceptance	8
+97	Adjuvant	8
+82	Acceptance	8
+2364	Vaccine uptake	8
+363	CEPI	8
+750	Drug repurposing	8
+3762	pandemics	8
+1121	Immunotherapy	8
+1451	Nanotechnology	8
+1595	Pandemics	8
+2685	cancer	7
+224	Attitudes	7
+196	Antivirals	7
+3351	innate immunity	7
+618	Coronaviruses	7
+4314	transmission	7
+1390	Monoclonal antibodies	7
+1846	Remdesivir	7
+455	COVID19	7
+3654	neutralizing antibody	7
+2093	Subunit vaccine	7
+3628	nanotechnology	7
+2188	Therapeutics	7
+755	Drugs	7
+2969	drugs	7
+4463	variant	7
+969	Health policy	7
+2193	Thrombosis	7
+818	Epitopes	7
+2809	convalescent plasma	7
+4279	therapy	7
+3742	outbreak	7
+2421	Virus	6
+1182	Innate immunity	6
+2621	attitudes	6
+1719	Prevention	6
+3340	influenza vaccines	6
+3146	health disparities	6
+4025	remdesivir	6
+2656	bioinformatics	6
+343	Brighton Collaboration	6
+2849	covid-19 vaccine	6
+2098	Surveillance	6
+1689	Politics	6
+3224	hydroxychloroquine	6
+1000	Hesitancy	6
+4099	sars-cov-2	6
+2834	coronaviruses	6
+3251	immunisation	6
+2504	adverse effects	6
+3275	immunology	6
+474	Cancer	6
+2824	coronavirus disease	6
+1798	RNA vaccine	6
+931	HIV	6
+125	Africa	6
+2231	Treatment	6
+400	COVID-19 Vaccine	6
+1374	Moderna	6
+3621	nanomedicine	6
+2990	elderly	6
+2316	Vaccine confidence	6
+3032	epitopes	6
+303	Benefit-risk	6
+3576	mortality	6
+2905	diagnostics	6
+1957	SARS-CoV-2 vaccines	6
+4225	subunit vaccine	6
+244	B cells	5
+1117	Immunosuppression	5
+3320	infections	5
+3550	misinformation	5
+312	Bioinformatics	5
+984	Healthcare workers	5
+1566	PEG	5
+3803	peptide vaccine	5
+545	Clinical trial	5
+3935	protection	5
+3282	immunopathology	5
+1215	Italy	5
+457	COVID‐19	5
+3588	mucosal immunity	5
+747	Drug discovery	5
+3951	protocol	5
+487	Careers	5
+1037	Hydroxychloroquine	5
+3695	nucleocapsid	5
+316	Biologics	5
+1099	Immunogenicity	5
+3650	neutralization	5
+1407	Multiple sclerosis	5
+3415	liposomes	5
+3273	immunological products and vaccines	5
+3410	lipid nanoparticles	5
+3398	lactation	5
+402	COVID-19 Vaccines	5
+654	Cytokine storm	5
+262	BCG Vaccine	5
+4001	receptor binding domain	5
+3713	older adults	5

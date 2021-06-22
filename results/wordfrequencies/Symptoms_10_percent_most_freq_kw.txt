@@ -1,0 +1,182 @@
+	keywords	counts
+112	COVID-19	376
+756	SARS-CoV-2	132
+1738	symptoms	80
+851	Symptoms	57
+219	Coronavirus	34
+265	Depressive symptoms	30
+1078	coronavirus	30
+1116	depressive symptoms	24
+1218	gastrointestinal symptoms	22
+348	Gastrointestinal symptoms	22
+1452	neurological symptoms	21
+61	Anxiety	20
+235	Covid-19	20
+569	Neurological symptoms	19
+1182	epidemiology	15
+629	Pandemic	14
+517	Mental health	13
+964	anxiety	13
+188	Clinical symptoms	13
+260	Depression	12
+125	COVID-19 pandemic	12
+311	Etiology	11
+63	Anxiety symptoms	11
+1394	mental health	11
+1652	sars-cov-2	10
+225	Coronavirus disease 2019	9
+1112	dementia	9
+135	COVID-19 symptoms	9
+1096	covid-19	8
+968	anxiety symptoms	8
+1114	depression	8
+306	Epidemiology	8
+1400	meta-analysis	8
+1675	severe acute respiratory syndrome coronavirus 2	8
+1119	diagnosis	8
+1508	pandemic	8
+1079	coronavirus disease	8
+1613	quarantine	7
+1454	neuropsychiatric symptoms	7
+1645	risk factors	7
+1594	psychological symptoms	7
+202	Comorbidities	7
+1684	signs and symptoms	7
+1716	stress	7
+1035	children	7
+808	Signs and symptoms	6
+174	China	6
+813	Sleep	6
+1186	etiology	6
+886	Treatment	6
+1081	coronavirus disease 2019	6
+1635	respiratory symptoms	6
+1052	clinical symptoms	6
+1242	headache	6
+1419	mortality	6
+269	Diarrhea	6
+164	Central nervous system	6
+1259	healthcare workers	6
+623	PTSD symptoms	6
+143	COVID‐19	6
+1704	somatic symptoms	6
+1791	viruses	5
+583	Novel coronavirus	5
+1016	caregiver	5
+1610	quality of life	5
+1122	diarrhea	5
+226	Coronavirus disease 2019 (COVID-19)	5
+233	Coronaviruses	5
+1051	clinical signs	5
+1633	respiratory infections	5
+1698	social isolation	5
+1046	clinical features	5
+267	Diagnosis	5
+1657	screening	5
+596	Older adults	5
+1497	outbreak	5
+717	RT-PCR	5
+621	PTSD	5
+1355	loneliness	5
+692	Protocol	5
+991	behavioral symptoms	5
+1536	persistent symptoms	4
+1630	resilience	4
+575	Neuropsychiatric symptoms	4
+777	Saudi Arabia	4
+1703	social support	4
+1022	case report	4
+566	Neurological manifestations	4
+765	SARS-CoV2	4
+538	Multiple sclerosis	4
+1683	signs	4
+533	Mortality	4
+1554	post-traumatic stress symptoms	4
+492	Loneliness	4
+184	Clinical characteristics	4
+695	Psychiatric symptoms	4
+1486	older adults	4
+262	Depression symptoms	4
+910	Voice	4
+1069	confinement	4
+714	Quarantine	4
+383	Healthcare workers	4
+1544	pneumonia	4
+722	Randomized controlled trial	4
+883	Transmission	4
+741	Respiratory symptoms	4
+1599	psychosomatic symptoms	4
+904	Viral encephalitis	4
+1766	transmission	4
+1805	zoonoses	4
+1798	well-being	4
+1672	serology	3
+1770	treatment	3
+355	Germany	3
+1527	pediatrics	3
+943	age	3
+491	Lockdown	3
+304	Epidemic	3
+489	Liver injury	3
+1110	delirium	3
+1064	comorbidities	3
+521	Meta-analysis	3
+806	Signs	3
+1066	complications	3
+1580	prolonged symptoms	3
+380	Health-related quality of life	3
+1353	lockdown	3
+686	Prognosis	3
+68	Asthma	3
+35	Adolescents	3
+1220	gender	3
+956	anosmia	3
+1739	symptoms and symptom management	3
+9	2019-nCoV	3
+203	Comorbidity	3
+704	Psychological symptoms	3
+329	Fecal-oral transmission	3
+1124	diet	3
+1790	virus	3
+52	Alzheimer’s disease	3
+1563	pregnancy	3
+341	GI symptoms	3
+214	Coping	3
+1406	migraine	3
+345	Gastrointestinal Symptoms	3
+1041	clinical	3
+1243	health anxiety	3
+1056	cognitive impairment	3
+1115	depression symptoms	3
+187	Clinical signs	3
+939	adolescents	3
+326	Fatigue	3
+1474	nursing home	3
+78	Bangladesh	3
+768	SARS-Cov-2	3
+766	SARS-CoV2 infection	3
+434	Infection	3
+123	COVID-19 lockdown	3
+610	Outcomes	3
+420	Imaging	3
+121	COVID-19 infection	3
+109	COVID	3
+415	IgG	3
+1203	fever	3
+1775	university students	3
+74	Atypical symptoms	3
+998	blood-brain barrier	3
+1321	internalizing symptoms	3
+1176	epidemic	3
+884	Trauma exposure	3
+110	COVID 19	3
+897	University students	3
+57	Anosmia	3
+670	Post-traumatic stress symptoms	3
+960	antibodies	3
+1307	infectious disease	3
+1018	caregivers	3
+1488	older people	3
+1720	stroke	3
+1590	psychological distress	3
+877	Therapeutics	2

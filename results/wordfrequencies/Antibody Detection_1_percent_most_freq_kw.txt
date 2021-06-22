@@ -1,0 +1,26 @@
+	keywords	counts
+228	COVID-19	595
+1038	SARS-CoV-2	574
+1336	antibody	165
+2297	seroprevalence	110
+93	Antibody	100
+1137	Seroprevalence	61
+1560	coronavirus	55
+2030	neutralizing antibody	53
+2290	serology	51
+585	IgG	38
+419	ELISA	37
+1548	convalescent plasma	31
+2425	vaccine	30
+1976	monoclonal antibody	30
+341	Coronavirus	28
+1368	antibody response	24
+1135	Serology	24
+1812	immunity	23
+1755	healthcare workers	23
+1335	antibodies	20
+2024	neutralization	20
+2341	spike protein	19
+1390	antibody-dependent enhancement	18
+2308	severe acute respiratory syndrome coronavirus 2	17
+534	Healthcare workers	16

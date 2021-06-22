@@ -1,0 +1,558 @@
+	keywords	counts
+362	COVID-19	1331
+2504	SARS-CoV-2	360
+5041	risk factors	259
+2419	Risk factors	173
+714	Coronavirus	99
+5076	risk perception	98
+5039	risk factor	85
+4432	mortality	81
+3473	coronavirus	80
+5011	risk	76
+2377	Risk	73
+4606	pandemic	70
+3401	comorbidity	66
+744	Covid-19	64
+1768	Mortality	58
+659	Comorbidity	58
+2000	Pandemic	56
+5019	risk assessment	48
+2416	Risk factor	46
+2444	Risk perception	44
+2396	Risk assessment	42
+4890	public health	41
+5057	risk management	40
+3757	epidemiology	38
+411	COVID-19 pandemic	31
+2406	Risk communication	28
+5031	risk communication	27
+4383	mental health	26
+3146	anxiety	24
+5095	risk stratification	24
+2232	Public health	22
+4825	prognosis	22
+3997	healthcare workers	21
+1026	Epidemiology	21
+468	COVID‐19	20
+5200	severity	19
+3584	depression	19
+722	Coronavirus disease 2019	19
+2184	Prognosis	19
+4667	perceived risk	18
+3478	coronavirus disease 2019	18
+569	China	18
+841	Diabetes	18
+4390	meta-analysis	17
+2425	Risk management	17
+4685	personal protective equipment	16
+3589	diabetes	16
+4538	obesity	16
+1476	Infection risk	16
+3477	coronavirus disease	16
+5189	severe acute respiratory syndrome coronavirus 2	15
+4157	inflammation	15
+5240	social distancing	15
+4243	knowledge	15
+1907	Obesity	15
+4795	prevalence	15
+4130	infection	15
+5245	social media	15
+1713	Mental health	14
+179	Anxiety	14
+2458	Risk stratification	14
+4586	outbreak	14
+3339	clinical characteristics	14
+4084	hypertension	14
+2385	Risk Factors	13
+521	Cardiovascular risk	13
+4720	pneumonia	13
+2614	Severity	13
+2009	Pandemics	13
+3506	covid-19	12
+2914	Vaccine	12
+5558	zoonoses	12
+4624	pandemics	12
+1622	Lockdown	12
+2084	Pneumonia	12
+4797	prevention	12
+2344	Resilience	12
+2049	Perceived risk	12
+5081	risk perceptions	11
+1544	Italy	11
+4590	outcome	11
+2150	Prevalence	11
+4787	pregnancy	11
+3086	age	11
+598	Clinical characteristics	11
+5296	stress	11
+4506	nomogram	10
+4290	lockdown	10
+1657	Machine learning	10
+1719	Meta-analysis	10
+723	Coronavirus disease 2019 (COVID-19)	10
+355	COVID	10
+1390	Hypertension	10
+465	COVID19	10
+2521	SARS-CoV2	10
+1884	Novel coronavirus	10
+2681	Spain	10
+1563	Knowledge	10
+3400	comorbidities	10
+2379	Risk Assessment	10
+3282	cardiovascular disease	9
+4053	hospitalization	9
+2501	SARS-COV-2	9
+26	2019-nCoV	9
+5327	survey	9
+4134	infection control	9
+3632	disease severity	9
+5505	viruses	9
+4924	quarantine	9
+3546	death	9
+492	Cancer	9
+5410	transmission	8
+3809	fear	8
+3583	dentistry	8
+1865	Nigeria	8
+2550	Safety	8
+5413	transmission risk	8
+2446	Risk prediction	8
+1489	Inflammation	8
+658	Comorbidities	8
+2154	Prevention	8
+2492	SARS	8
+3688	elderly	8
+4148	infectious disease	8
+3540	cytokine storm	8
+3285	cardiovascular risk factors	8
+4990	respiratory infections	8
+3252	cancer	8
+1469	Infection	8
+39	ACE2	8
+1313	Healthcare workers	8
+69	ARDS	8
+4592	outcomes	8
+4437	mortality risk	8
+3480	coronavirus disease 2019 (COVID-19)	8
+4430	morbidity	8
+197	Asthma	8
+3193	behavior	7
+4145	infection risk	7
+1287	Health policy	7
+3943	health disparities	7
+1482	Infectious disease	7
+564	Children	7
+4865	psychological distress	7
+5427	treatment	7
+4320	machine learning	7
+3269	cardiac risk factors and prevention	7
+3850	gender	7
+4199	intensive care unit	7
+2455	Risk score	7
+3165	asthma	7
+1448	Incidence	7
+2912	Vaccination	7
+1804	Myocardial injury	7
+5435	trust	7
+3590	diabetes mellitus	7
+3747	epidemic	7
+4544	occupational risk	7
+5113	risks	7
+3953	health policy	7
+1037	Ethiopia	7
+123	Air pollution	7
+107	Africa	7
+4521	novel coronavirus	7
+5130	safety	7
+3628	disease progression	6
+318	Brighton Collaboration	6
+4802	preventive behavior	6
+5073	risk of infection	6
+4120	incidence	6
+1955	Outcome	6
+111	Age	6
+4782	predictive model	6
+3761	ethics	6
+2432	Risk mitigation	6
+4153	infectious diseases	6
+5508	vitamin D	6
+719	Coronavirus disease	6
+2527	SARS-Cov-2	6
+5014	risk analysis	6
+3921	health	6
+5061	risk mitigation	6
+4918	quality of life	6
+2676	South Korea	6
+1493	Influenza	6
+4075	hydroxychloroquine	6
+885	Disease severity	6
+2524	SARS-CoV‑2	6
+760	Critical care	6
+1538	Iran	6
+189	Artificial intelligence	6
+3046	acute kidney injury	6
+4097	immune response	6
+426	COVID-19 risk	6
+3057	adolescents	6
+3567	dementia	6
+3939	health communication	6
+3016	Wuhan	6
+5243	social isolation	6
+270	Benefit-risk	6
+2560	Saudi Arabia	6
+5491	viral shedding	6
+831	Depression	6
+4552	older adults	6
+3937	health care workers	6
+340	CEPI	6
+798	Death	5
+2639	Smoking	5
+289	Biomarkers	5
+2745	Survey	5
+3515	critical care	5
+5342	symptoms	5
+1775	Mortality risk	5
+5500	virus	5
+5516	vulnerability	5
+5361	telemedicine	5
+4276	lifestyle	5
+2841	Transmission risk	5
+2871	Twitter	5
+2500	SARS virus	5
+1273	Health disparities	5
+245	Bangladesh	5
+3279	cardiovascular	5
+3314	children	5
+5345	systematic review	5
+430	COVID-19 risk factors	5
+2734	Supply chain	5
+4549	odds ratio	5
+4198	intensive care	5
+1188	Germany	5
+1687	Mechanical ventilation	5
+2661	Social media	5
+1294	Health risks	5
+4928	race	5
+4697	physical activity	5
+2897	United States	5
+1365	Hospitalization	5
+4350	mechanical ventilation	5
+1039	Ethnicity	5
+1521	Intensive care unit	5
+5228	smoking	5
+3101	airborne transmission	5
+5464	vaccine	5
+4777	prediction	5
+726	Coronavirus infections	5
+1386	Hydroxychloroquine	5
+4110	immunosuppression	5
+958	Elderly	5
+5478	vertical transmission	5
+1764	Morbidity	5
+2653	Social distancing	5
+357	COVID 19	5
+1406	IL-6	5
+603	Clinical features	5
+2368	Review	5
+5184	severe	5
+4004	heart failure	5
+2395	Risk analysis	5
+1667	Management	5
+3876	global health	5
+2384	Risk Factor	5
+2790	Template	5
+3349	clinical features	5
+3954	health promotion	4
+3372	co-morbidities	4
+1484	Infectious diseases	4
+671	Compliance	4
+5003	retrospective cohort study	4
+404	COVID-19 mortality	4
+2598	Seroprevalence	4
+1913	Occupational risk	4
+1642	Lung cancer	4
+3471	corona	4
+746	Covid-19 pandemic	4
+2744	Surveillance	4
+4913	qualitative	4
+4917	quality of health care	4
+2787	Telehealth	4
+2582	Self-efficacy	4
+4286	liver injury	4
+1495	Infodemic	4
+705	Corona	4
+3422	complications	4
+2803	Therapy	4
+1998	Pakistan	4
+2528	SARS‐CoV‐2	4
+5254	social support	4
+5027	risk behavior	4
+3387	communication	4
+4981	resilience	4
+417	COVID-19 pneumonia	4
+2601	Severe	4
+5151	scoping review	4
+2838	Transmission	4
+2141	Pregnancy	4
+1337	High risk	4
+3090	aging	4
+1146	Frailty	4
+85	Acute kidney injury	4
+87	Acute respiratory distress syndrome	4
+2973	Vulnerability	4
+4616	pandemic preparedness	4
+3645	distress	4
+3780	exposure	4
+5473	venous thromboembolism	4
+4410	misinformation	4
+1085	Factores de riesgo	4
+5468	vaccines	4
+2320	Relative risk	4
+1083	Facteurs de risque	4
+5329	survival	4
+5465	vaccine hesitancy	4
+1618	Liver injury	4
+5461	vaccination	4
+4585	otolaryngology	4
+3763	ethnicity	4
+2952	Virus	4
+2238	Public health preparedness/response	4
+1272	Health communication	4
+1271	Health care workers	4
+1291	Health risk assessment	4
+5155	screening	4
+5551	worry	4
+3052	adherence	4
+3319	chronic disease	4
+24	2019 novel coronavirus disease	4
+1798	Multiple sclerosis	4
+3932	health care	4
+1597	Latin America	4
+1226	HIV	4
+4541	occupational health	4
+3698	emergency	4
+4029	high-risk	4
+3755	epidemics	4
+1203	Google Trends	4
+5166	self-efficacy	4
+523	Cardiovascular risk factors	4
+1064	Exposure risk	4
+3614	disaster	4
+3602	dialysis	4
+3174	atrial fibrillation	4
+5089	risk reduction	4
+4803	preventive behaviors	4
+2891	Uncertainty	4
+2445	Risk perceptions	4
+2449	Risk reduction	4
+1454	India	4
+1625	Loneliness	4
+5082	risk prediction	4
+3177	attitude	4
+646	Community	4
+4847	protective behaviors	4
+4850	protective factors	4
+3178	attitudes	4
+2864	Trust	4
+3186	awareness	4
+3488	coronavirus infections	4
+2854	Treatment	4
+4882	psychosocial risks	4
+3156	artificial intelligence	4
+5190	severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	4
+4792	preparedness	4
+3996	healthcare worker	4
+5108	risk-stratification	4
+5105	risk-factors	4
+4786	predictors	4
+3552	decision making	4
+2659	Social isolation	4
+2066	Personal protective equipment	4
+2414	Risk estimation	4
+2945	Viral infection	4
+3593	diagnosis	4
+940	Echocardiography	4
+5109	risk-taking	4
+3316	chloroquine	3
+1982	PPE	3
+3321	chronic diseases	3
+590	Climate change	3
+627	Cohort	3
+5069	risk of death	3
+3929	health behaviours	3
+1991	PTSD symptoms	3
+2606	Severe acute respiratory syndrome coronavirus 2	3
+3901	guidelines	3
+535	Case report	3
+3928	health behaviors	3
+5138	sars-cov-2	3
+516	Cardiovascular disease	3
+5097	risk taking	3
+577	Chronic kidney disease	3
+2652	Social determinants of health	3
+607	Clinical outcomes	3
+4233	isolation	3
+2674	South Africa	3
+525	Care homes	3
+3370	co-infection	3
+4231	ischemic stroke	3
+3926	health behavior	3
+2440	Risk of infection	3
+4270	length of stay	3
+1547	Japan	3
+3641	disparities	3
+3782	exposure risk	3
+1074	FDA	3
+4674	perception	3
+4686	personal protective equipment (PPE)	3
+4394	metabolic syndrome	3
+1396	ICU	3
+1398	ICU admission	3
+1040	Europe	3
+1036	Ethics	3
+3586	depressive symptoms	3
+4386	mental well-being	3
+1017	Epidemic management/response	3
+4382	mental disorders	3
+1014	Epidemic	3
+4722	policy	3
+2387	Risk Perception	3
+963	Electronic health records	3
+4778	prediction model	3
+1444	In-hospital mortality	3
+3837	forensic mental health services	3
+1143	Forecasting	3
+3775	exercise	3
+1156	GIS	3
+3703	emergency management	3
+1259	Health behavior	3
+4480	neighborhood	3
+1249	Health	3
+2205	Protective measures	3
+3711	emotion	3
+4523	novel coronavirus pneumonia	3
+4528	nurses	3
+2161	Preventive behaviors	3
+4532	nutrition	3
+1306	Healthcare	3
+1173	General population	3
+2217	Psychological stress	3
+4546	occupational risks	3
+4558	one health	3
+4562	online survey	3
+1321	Heart failure	3
+2243	Pulmonary embolism	3
+2248	QMRA	3
+4449	multiple sclerosis	3
+3767	evidence	3
+4808	preventive measures	3
+3838	frailty	3
+4813	primary care	3
+2558	Sars-Cov-2	3
+781	D-dimer	3
+3450	containment measures	3
+2020	Particulate matter	3
+749	Covid19	3
+2017	Parkinson's disease	3
+3434	congenital	3
+735	Corticosteroids	3
+734	Corticosteroid	3
+3433	confinement	3
+3431	confidence	3
+4318	mHealth	3
+3878	global pandemic	3
+1520	Intensive care	3
+4985	respiratory diseases	3
+1536	Invasive mechanical ventilation	3
+5006	review	3
+667	Competing risks	3
+4271	lessons learned	3
+5015	risk and crisis communication	3
+5016	risk and protective factors	3
+4914	qualitative research	3
+3466	coping	3
+3522	critically ill	3
+4328	management	3
+892	Disparities	3
+882	Disease progression	3
+3514	critical	3
+871	Disasters	3
+869	Disaster risk reduction	3
+4843	protection	3
+2474	Risks	3
+1471	Infection control	3
+844	Diabetes mellitus	3
+3492	coronaviruses	3
+2509	SARS-CoV-2 infection	3
+3490	coronavirus pandemic	3
+1475	Infection rate	3
+4874	psychological stress	3
+4877	psychology	3
+4325	malnutrition	3
+816	Dementia	3
+2502	SARS-CoV	3
+810	Decision-making	3
+3472	coronary artery disease	3
+3499	corticosteroid	3
+3392	community engagement	3
+193	Aspergillus	3
+2981	Wastewater	3
+4170	information	3
+3283	cardiovascular diseases	3
+3131	anosmia	3
+5367	testing	3
+342	CFR	3
+2731	Suicide risk	3
+444	COVID-19 vaccine	3
+4163	infodemic	3
+331	C-reactive protein	3
+2858	Triage	3
+148	Alzheimer's disease	3
+4025	high risk	3
+2727	Suicide	3
+4067	human challenge studies	3
+2862	Troponin	3
+5449	university students	3
+2999	Wildlife	3
+469	COVID–19	3
+420	COVID-19 prevention	3
+1875	Non-pharmaceutical interventions	3
+2788	Telemedicine	3
+2748	Survival	3
+3951	health literacy	3
+3949	health information	3
+2767	Systemic risk	3
+3151	app	3
+3014	Worry	3
+5237	social determinants of health	3
+1727	Mexico	3
+188	Arrhythmia	3
+5385	thromboembolism	3
+5251	social norms	3
+213	Attitude	3
+1926	Oman	3
+409	COVID-19 outbreak	3
+3960	health risk assessment	3
+3989	healthcare personnel	3
+359	COVID risk factors	3
+3168	asymptomatic	3
+2947	Viral shedding	3
+5360	telehealth	3
+3223	biomarkers	3
+3307	chemotherapy	3
+122	Air pollutants	3
+4142	infection prevention	3
+3077	aerosol transmission	3
+5475	ventilation	3
+1755	Modelling	3
+5306	students	3
+5302	stroke	3
+1680	Mathematical model	3
+4155	infectious risk	3
+3216	biological hazard	3
+5325	surveillance	3
+2948	Viral transmission	3
+813	Deep learning	2
+5380	therapeutics	2
+3527	cross-sectional studies	2
+3163	association	2

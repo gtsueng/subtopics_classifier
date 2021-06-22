@@ -1,0 +1,14 @@
+	keywords	counts
+24	COVID-19	28
+102	SARS-CoV-2	25
+139	bats	22
+20	Bats	16
+206	pets	11
+153	coronavirus	10
+257	zoonosis	5
+75	One health	5
+101	SARS-CoV	5
+82	Pets	4
+161	dogs	4
+34	Coronavirus	4
+67	MERS-CoV	4

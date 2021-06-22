@@ -1,0 +1,591 @@
+	keywords	counts
+546	COVID-19	1064
+2831	SARS-CoV-2	661
+4111	drug repurposing	158
+3897	coronavirus	107
+1083	Drug repurposing	95
+827	Coronavirus	90
+3609	antivirals	71
+3601	antiviral drugs	51
+4061	drug discovery	49
+2016	Molecular docking	48
+357	Antivirals	47
+4829	molecular docking	44
+1043	Drug discovery	43
+864	Covid-19	41
+346	Antiviral drugs	39
+107	ACE2	38
+5415	remdesivir	35
+1142	Drugs	34
+4483	hydroxychloroquine	33
+4177	drugs	33
+1579	Hydroxychloroquine	32
+5847	virtual screening	32
+4836	molecular dynamics	30
+5801	vaccines	29
+3271	Vaccines	28
+5753	treatment	28
+4054	drug design	27
+5096	pandemic	27
+3592	antiviral	26
+5791	vaccine	26
+2823	SARS-CoV	25
+1079	Drug repositioning	25
+2716	Remdesivir	25
+2374	Pandemic	25
+3842	clinical trials	25
+4058	drug development	24
+4051	drug delivery	24
+4032	drug	24
+5526	severe acute respiratory syndrome coronavirus 2	22
+4108	drug repositioning	22
+55	2019-nCoV	20
+4020	docking	20
+741	Clinical trials	19
+712	Chloroquine	19
+1032	Drug delivery	19
+331	Antiviral	19
+3322	Virtual screening	18
+3904	coronavirus disease 2019	17
+4571	infectious disease	16
+3943	cytokine storm	16
+3268	Vaccine	16
+540	COVID 19	15
+1041	Drug development	15
+999	Drug	15
+4741	main protease	15
+2695	RdRp	15
+2820	SARS-COV-2	14
+1879	MERS-CoV	14
+3123	TMPRSS2	14
+3597	antiviral drug	14
+2798	SARS	14
+1456	HIV	13
+3804	chloroquine	13
+3021	Spike protein	13
+1858	MD simulation	13
+3313	Virology	13
+597	COVID19	12
+5712	therapeutics	12
+2022	Molecular dynamics	12
+2881	SARS-CoV2	12
+5436	repurposed drugs	12
+1037	Drug design	12
+5594	spike protein	11
+75	3CLpro	11
+4293	favipiravir	11
+4575	inflammation	11
+5223	pneumonia	11
+1295	FDA, Food and Drug Administration	11
+2159	Natural products	11
+840	Coronavirus disease 2019	11
+4920	natural products	11
+1318	Favipiravir	11
+855	Coronaviruses	11
+1676	Infection	10
+4165	drug-related side effects and adverse reactions	10
+560	COVID-19 drug treatment	10
+4573	infectious diseases	10
+5483	safety	10
+4858	mortality	10
+4080	drug interactions	10
+2857	SARS-CoV-2 main protease	10
+4120	drug screening	10
+1294	FDA approved drugs	10
+442	Bioinformatics	10
+3166	Therapeutics	10
+4148	drug-drug interaction	9
+377	Artificial intelligence	9
+1099	Drug targets	9
+991	Docking	9
+2375	Pandemics	9
+4730	machine learning	9
+3920	covid-19	9
+4090	drug monitoring	9
+2050	Mpro	9
+5438	repurposing	9
+2887	SARS-Cov-2	9
+2023	Molecular dynamics simulation	9
+3838	clinical trial	9
+5852	virus	9
+1302	FDA-approved drugs	9
+3634	artificial intelligence	9
+4563	infection	9
+3423	adverse drug reactions	9
+1910	Machine learning	9
+3963	deep learning	9
+5181	pharmacovigilance	9
+5102	pandemics	9
+599	COVID‐19	9
+1484	Harm reduction	9
+224	Adverse drug reactions	9
+2468	Pneumonia	9
+1057	Drug interaction	8
+1101	Drug therapy	8
+3694	bioinformatics	8
+3749	cancer	8
+2404	People who use drugs	8
+5171	pharmacokinetics	8
+2151	Nanotechnology	8
+4544	in silico	8
+2730	Repurposed drugs	8
+3420	adverse drug events	8
+4132	drug targets	8
+2447	Phytochemicals	8
+2875	SARS-CoV-2, severe acute respiratory syndrome coronavirus 2	8
+1085	Drug resistance	8
+340	Antiviral drug	8
+4135	drug therapy	7
+164	ARDS	7
+4117	drug resistance	7
+5628	structure-based drug design	7
+3210	Treatment	7
+1087	Drug safety	7
+240	Alcohol	7
+4119	drug safety	7
+5176	pharmacology	7
+4208	efficacy	7
+644	Cancer	7
+2433	Pharmacovigilance	7
+5861	viruses	7
+2349	PLpro	7
+4842	molecular modeling	7
+4523	immunomodulation	7
+589	COVID-19, coronavirus disease 2019	7
+4128	drug target	7
+3425	adverse effects	7
+3908	coronaviruses	7
+4699	lopinavir/ritonavir	7
+1254	Epidemiology	7
+3902	coronavirus disease	7
+4837	molecular dynamics simulation	7
+125	ADMET	7
+4136	drug toxicity	7
+5270	pregnancy	7
+4390	haematology (drugs and medicines)	7
+5353	public health	7
+2801	SARS CoV-2	7
+702	China	7
+4542	immunotherapy	6
+3704	biologics	6
+5124	pathophysiology	6
+5706	therapeutic drug monitoring	6
+567	COVID-19 pandemic	6
+337	Antiviral agents	6
+3345	WHO, World Health Organization	6
+5119	pathogenesis	6
+5328	proteomics	6
+4123	drug shortage	6
+3660	azithromycin	6
+894	Cytokine storm	6
+3147	Telemedicine	6
+4698	lopinavir	6
+3910	corticosteroids	6
+4079	drug interaction	6
+4158	drug-likeness	6
+5300	protease inhibitors	6
+5299	protease inhibitor	6
+4490	hypertension	6
+905	DFT	6
+1290	FDA	6
+4593	inhibitors	6
+1098	Drug target	6
+4026	dosage	6
+2157	Natural compounds	6
+1095	Drug shortage	6
+1918	Main protease	6
+5077	outbreak	6
+4581	influenza	6
+1011	Drug Repurposing	6
+4528	immunomodulatory drugs	6
+5523	severe acute respiratory syndrome	6
+5186	pharmacy service	6
+3834	clinical research/practice	6
+4454	hospital	6
+4564	infection and infectious agents - viral	6
+4642	ivermectin	6
+4105	drug reaction	6
+222	Adverse drug reaction	6
+5335	psoriasis	6
+1860	MD simulations	6
+1684	Inflammation	6
+3894	corona virus	6
+1655	Immunotherapy	5
+538	COVID	5
+5441	repurposing drugs	5
+2578	Public health	5
+3015	Solution NMR-spectroscopy	5
+575	COVID-19 treatment	5
+4536	immunosuppressive drugs	5
+1656	In silico	5
+2830	SARS-CoV-1	5
+298	Antibiotics	5
+1132	Drug-related side effects and adverse reactions	5
+4980	non-steroidal anti-inflammatory drugs	5
+4907	nanoparticles	5
+1090	Drug screening	5
+400	Azithromycin	5
+963	Diagnosis	5
+4904	nanomedicine	5
+1890	MM-GBSA	5
+2146	Nanomedicine	5
+4839	molecular dynamics simulations	5
+1961	Medicinal plants	5
+4570	infections	5
+1681	Infectious disease	5
+1495	Health care	5
+1683	Infectious diseases	5
+2538	Protease inhibitors	5
+3596	antiviral agents	5
+2648	RNA polymerase	5
+3267	Vaccination	5
+3162	Therapeutic drug monitoring	5
+812	Convalescent plasma	5
+2957	Sars-CoV-2	5
+960	Diabetes	5
+2658	RNA-dependent RNA polymerase	5
+1870	MERS	5
+5301	proteases	5
+3177	Tocilizumab	5
+2403	People who inject drugs	5
+1502	Health policy	5
+3335	Viruses	5
+3545	antibodies	5
+2983	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	5
+201	Acute respiratory distress syndrome	5
+3402	addiction	5
+5559	skin	5
+2039	Monoclonal antibodies	5
+5275	prevention	5
+65	3C-like protease	5
+5744	traditional Chinese medicine	5
+3975	dermatology	5
+4507	immune response	5
+2293	Opioids	5
+4149	drug-drug interactions	5
+2221	Novel coronavirus	5
+2044	Mortality	5
+2854	SARS-CoV-2 infection	4
+4525	immunomodulators	4
+4139	drug treatment	4
+4166	drug-repurposing	4
+2532	Prophylaxis	4
+5137	peptides	4
+416	Baricitinib	4
+4013	disease-modifying antirheumatic drugs	4
+2529	Prognosis	4
+2894	SARS‐CoV‐2	4
+3496	angiotensin-converting enzyme 2	4
+2982	Severe acute respiratory syndrome coronavirus 2	4
+1745	Ivermectin	4
+4037	drug administration	4
+1670	India	4
+2518	Prevention	4
+2249	Nutraceuticals	4
+2565	Psychiatry	4
+5056	opioid	4
+4143	drug use	4
+4457	hospitalization	4
+5634	substance use disorder	4
+949	Deep learning	4
+5474	ritonavir	4
+2210	Non-structural protein	4
+3421	adverse drug reaction	4
+5593	spike glycoprotein	4
+2817	SARS-2	4
+5178	pharmacophore	4
+3862	comorbidity	4
+5786	urticaria	4
+1511	Helicase	4
+1605	IL-6	4
+841	Coronavirus disease 2019 (COVID-19)	4
+1510	Heart failure	4
+4777	medicinal plants	4
+1971	Meta-analysis	4
+5391	rare diseases	4
+104	ACE-2	4
+1822	Liver injury	4
+2427	Pharmacokinetics	4
+3978	dexamethasone	4
+870	Covid19-NMR	4
+590	COVID-19, coronavirus disease-2019	4
+4755	mass drug administration	4
+208	Addiction	4
+820	Corona virus	4
+2307	Overdose	4
+1629	Immune response	4
+3167	Therapies	4
+3195	Transcriptome	4
+3945	cytokines	4
+3189	Toxicology	4
+3224	Tuberculosis	4
+2149	Nanoparticles	4
+1548	Homology modeling	4
+5866	vitamin D	4
+5294	prophylaxis	4
+2655	RNA viruses	4
+5297	protease	4
+5837	viral replication	4
+2171	Network biology	4
+1340	Food and Drug Administration	4
+1256	Epilepsy	4
+1875	MERS, Middle East respiratory syndrome	4
+4876	multidrug-resistant bacteria	4
+3981	diagnosis	4
+5086	oxidative stress	4
+3523	anti-inflammatory	4
+1644	Immunomodulators	4
+5684	targeted therapeutics	4
+3532	anti-viral drugs	4
+1103	Drug toxicity	4
+2013	Molecular biology	4
+4997	novel coronavirus	4
+1127	Drug-likeness	4
+1105	Drug use	4
+5688	telemedicine	4
+2604	QTc prolongation	4
+2592	QSAR	4
+4045	drug combination	4
+1096	Drug shortages	4
+1116	Drug-drug interactions	4
+4391	haematology (incl blood transfusion)	4
+5233	polyethylene glycol	3
+959	Dexamethasone	3
+5464	rheumatoid arthritis	3
+2856	SARS-CoV-2 inhibitors	3
+5527	severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	3
+2173	Network pharmacology	3
+451	Biological sciences	3
+2732	Repurposing	3
+519	CI, confidence interval	3
+5242	polypharmacy	3
+2660	RNA-dependent RNA polymerase (RdRp)	3
+3540	antibiotic	3
+5284	principal component analysis	3
+5461	review	3
+1543	Homelessness	3
+4088	drug misuse	3
+754	CoV, coronavirus	3
+4599	innate immunity	3
+5274	prescription drugs	3
+430	Binding energy	3
+2209	Non-steroidal anti-inflammatory drugs	3
+3455	allergy	3
+2068	Mutation	3
+4524	immunomodulator	3
+5092	paediatrics (drugs and medicines)	3
+4087	drug metabolism	3
+1549	Homology modelling	3
+2595	QT interval	3
+5289	product approvals	3
+2684	Randomised controlled trial	3
+906	DFT calculations	3
+2749	Respiratory tract infections	3
+3605	antiviral therapy	3
+4039	drug allergy	3
+2834	SARS-CoV-2 3CL protease	3
+4508	immune system	3
+895	Cytokines	3
+3553	anticoagulation	3
+2869	SARS-CoV-2 virus	3
+5170	pharmacogenomics	3
+5167	pharmacodynamics	3
+3548	antibody–drug conjugate	3
+1646	Immunomodulatory drugs	3
+3707	biomarker	3
+3709	biomaterials	3
+4661	lactation	3
+2828	SARS-CoV, severe acute respiratory syndrome coronavirus	3
+577	COVID-19 vaccine	3
+2548	Protein druggability	3
+4514	immunity	3
+4057	drug designing	3
+5182	pharmacy	3
+4522	immunology	3
+2597	QT prolongation	3
+2876	SARS-CoV-2, severe acute respiratory syndrome-coronavirus-2	3
+5135	people who use drugs	3
+5339	psychiatry	3
+3683	binding free energy	3
+2646	RNA dependent RNA polymerase	3
+2757	Rheumatic diseases	3
+2211	Non-structural proteins	3
+5518	serology	3
+3488	anaphylaxis	3
+1604	IL, interleukin	3
+3529	anti-viral	3
+3733	broad-spectrum antivirals	3
+3695	biologic	3
+3570	antimicrobial resistance	3
+1613	IQR, interquartile range	3
+4041	drug approval	3
+5456	respiratory infections	3
+4298	fentanyl	3
+4756	mass spectrometry	3
+5790	vaccination	3
+3124	TMPRSS2, transmembrane protease serine 2	3
+5796	vaccine development	3
+3010	Social distancing	3
+286	Anti-inflammatory	3
+2389	Pathophysiology	3
+123	ADME	3
+270	Angiotensin-converting enzyme 2	3
+4787	mergers and acquisitions	3
+2010	Molecular Docking	3
+4346	gene therapy	3
+3827	clinical medicine	3
+133	AI	3
+260	Anaphylaxis	3
+4257	epilepsy	3
+295	Anti-viral drugs	3
+3890	convalescent plasma	3
+113	ACE2, angiotensin-converting enzyme 2	3
+4003	direct-acting antivirals	3
+3891	convalescent plasma therapy	3
+3270	Vaccine development	3
+315	Antihypertensive drugs	3
+4789	meta-analysis	3
+2379	Papain-like protease (PLpro)	3
+317	Antimalarial drugs	3
+5633	substance use	3
+2378	Papain-like protease	3
+3797	cheminformatics	3
+4338	gender	3
+5630	structure-guided drug discovery	3
+1054	Drug induced liver injury	3
+4873	multidrug resistant	3
+3830	clinical pharmacy	3
+253	Alzheimer’s disease	3
+3899	coronavirus (CoV)	3
+2430	Pharmacophore	3
+4381	guidelines	3
+3326	Virus	3
+3068	Substance use	3
+2432	Pharmacotherapy	3
+5731	tocilizumab	3
+3856	combination therapy	3
+1836	Lopinavir/ritonavir	3
+3832	clinical research	3
+4363	global health	3
+2292	Opioid use disorder	3
+167	ARDS, acute respiratory distress syndrome	3
+2423	Pharmaceuticals	3
+4244	entry inhibitors	3
+1827	Lockdown	3
+5765	tuberculosis	3
+5080	outcome	3
+4385	hERG	3
+1207	Eculizumab	3
+5715	therapy	3
+3982	diagnostics	3
+5707	therapeutic drugs	3
+1150	Drug–drug interactions	3
+4358	genomics	3
+5704	therapeutic agents	3
+228	Adverse events	3
+3050	Structural biology	3
+4748	malaria	3
+1137	DrugBank	3
+3283	Veklury	3
+3987	dietary supplements	3
+5691	terminal care	3
+4268	evidence-based medicine	3
+5750	transmission	3
+1270	European Medicines Agency	3
+4805	miRNA	3
+1020	Drug allergy	3
+69	3CL main protease	3
+3944	cytokine storm syndrome	3
+398	Ayurveda	3
+3192	Traditional Chinese medicine	3
+4322	free energy	3
+5070	organoids	3
+4453	homology modeling	3
+4282	extracellular vesicles	3
+3156	Therapeutic	3
+3780	cell therapies	3
+1924	Malaria	3
+4848	monoclonal antibodies	3
+998	Doxycycline	3
+3185	Torsades de pointes	3
+5049	oligonucleotides	3
+2536	Protease	3
+3909	corticosteroid	3
+3924	critical care	3
+2512	Prescription drug costs	3
+4463	host response	3
+5062	opioid use disorder	3
+5859	virus-host interactions	3
+5827	viral infection	3
+1909	Machine Learning	3
+5828	viral infections	3
+3399	acute renal failure	3
+1035	Drug delivery systems	3
+1299	FDA, U.S. Food and Drug Administration	3
+3941	cytokine	3
+1040	Drug designing	3
+3905	coronavirus disease 2019 (COVID-19)	3
+385	Atrial fibrillation	3
+5038	off-label drug use	3
+1210	Elderly	2
+4834	molecular dynamic simulation	2
+5193	phosphoproteomics	2
+837	Coronavirus SARS-CoV-2	2
+838	Coronavirus disease	2
+2302	Outbreak	2
+2301	Orphan drugs	2
+1293	FDA approved drug	2
+5194	phosphoramidates	2
+2402	Pentagastrin	2
+5257	potential drugs	2
+4806	miRNAs	2
+4627	interstitial pneumonia	2
+4910	nanotechnology	2
+3942	cytokine release syndrome	2
+2624	RBD, Receptor-binding domain	2
+3866	complication: infectious	2
+1313	FRET	2
+2329	PDB, protein data bank	2
+4925	nebulizers	2
+858	Costs and spending	2
+4924	nebulizer	2
+856	Corticosteroids	2
+2327	PDB	2
+4606	intensive care	2
+1505	Healthcare	2
+845	Coronavirus disease-19	2
+852	Coronavirus pandemic	2
+3930	cutaneous	2
+4773	medication safety	2
+1199	Ebola virus	2
+1324	Fentanyl	2
+5189	phases	2
+2158	Natural product	2
+1201	Ebselen	2
+1301	FDA-approved drug	2
+2298	Organosulfur compounds	2
+4902	nanoemulsion	2
+4786	mental health	2
+2637	RMSD, Root mean square deviation	2
+3893	corona	2
+4636	investigational drugs	2
+3664	bacterial infections	2
+4067	drug effects	2
+5213	plasma therapy	2
+1339	Food allergy	2
+3973	depression	2
+4633	intravenous	2
+2653	RNA virus	2
+2385	Pathogenesis	2
+4859	mortality rate	2
+4069	drug eruptions	2
+3956	data mining	2
+4879	multiple sclerosis	2
+808	Contact tracing	2
+5220	plus-stranded RNA virus	2
+2657	RNA, ribonucleic acid	2
+796	Computer science	2
+3898	coronavirus (COVID-19)	2
+4071	drug fever	2
+802	Connectivity map	2
+4792	metabolites	2

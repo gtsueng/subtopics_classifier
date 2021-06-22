@@ -1,0 +1,25 @@
+	keywords	counts
+15	COVID-19	36
+91	SARS-CoV-2	34
+167	genetic variants	8
+140	coronavirus	6
+180	host factors	6
+38	Genetic susceptibility	6
+5	ACE2	5
+47	HLA	4
+165	genetic susceptibility	4
+166	genetic variant	4
+114	TMPRSS2	4
+124	allele frequency	3
+74	Polymorphism	3
+51	Host factor	3
+40	Genetic variants	3
+19	Coronavirus	3
+94	SARS-CoV-2 genome	2
+170	genomic epidemiology	2
+39	Genetic variant	2
+219	polymorphisms	2
+195	influenza virus	2
+208	mutations	2
+69	Novel coronavirus	2
+126	alleles	2

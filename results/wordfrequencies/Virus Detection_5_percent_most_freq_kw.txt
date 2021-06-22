@@ -1,0 +1,91 @@
+	keywords	counts
+220	COVID-19	149
+1173	SARS-CoV-2	90
+1643	polymerase chain reaction	35
+995	Polymerase chain reaction	30
+347	Coronavirus	28
+246	COVID-19, coronavirus disease 2019	21
+1187	SARS-CoV-2, severe acute respiratory syndrome coronavirus 2	19
+909	PCR, polymerase chain reaction	14
+984	Pneumonia	12
+1688	real-time polymerase chain reaction	11
+429	Diagnosis	11
+1090	RT-PCR, reverse transcription polymerase chain reaction	11
+1737	severe acute respiratory syndrome coronavirus 2	11
+282	CT, computed tomography	11
+635	ICU, intensive care unit	10
+266	CRP, C-reactive protein	10
+334	Computed tomography	10
+1122	Real-time polymerase chain reaction	9
+1465	diagnosis	9
+357	Coronavirus disease 2019	8
+1436	coronavirus	8
+73	ARDS, acute respiratory distress syndrome	8
+1070	RT-PCR	7
+1185	SARS-CoV-2, Severe acute respiratory syndrome coronavirus 2	7
+1441	coronavirus disease 2019	7
+1707	reverse transcriptase polymerase chain reaction	7
+358	Coronavirus disease 2019 (COVID-19)	7
+1012	Prognosis	6
+239	COVID-19, Coronavirus disease 2019	6
+1181	SARS-CoV-2, Severe Acute Respiratory Syndrome Coronavirus 2	6
+366	Covid-19	6
+1369	WHO, World Health Organization	6
+993	Polymerase Chain Reaction	6
+652	IQR, interquartile range	6
+1711	reverse transcription polymerase chain reaction	6
+1137	Reverse transcriptase polymerase chain reaction	6
+82	AST, aspartate aminotransferase	5
+60	ALT, alanine aminotransferase	5
+1712	reverse transcription polymerase chain reaction (RT-PCR)	5
+751	MERS, Middle East respiratory syndrome	5
+996	Polymerase chain reaction (PCR)	5
+235	COVID-19, Coronavirus Disease 2019	5
+28	ACE2, Angiotensin-converting enzyme 2	5
+1243	Severe acute respiratory syndrome coronavirus 2	5
+1081	RT-PCR, Reverse transcription polymerase chain reaction	5
+1135	Reverse Transcriptase Polymerase Chain Reaction	4
+1740	severe acute respiratory syndrome coronavirus-2	4
+1091	RT-PCR, reverse transcription-polymerase chain reaction	4
+1165	SARS, severe acute respiratory syndrome	4
+362	Coronavirus infections	4
+455	ED, emergency department	4
+30	ACE2, angiotensin-converting enzyme 2	4
+1164	SARS, Severe acute respiratory syndrome	4
+272	CT	4
+248	COVID-19, coronavirus disease-2019	4
+940	PPE, personal protective equipment	4
+907	PCR, Polymerase Chain Reaction	4
+1030	RBD, Receptor-binding domain	3
+95	Acute respiratory distress syndrome	3
+502	Epidemiology	3
+1644	polymerase chain reaction (PCR)	3
+1241	Severe Acute Respiratory Syndrome Coronavirus 2	3
+117	Artificial intelligence	3
+1157	S, Spike protein	3
+811	N, Nucleocapsid protein	3
+280	CT, Computed tomography	3
+1146	Reverse transcription-polymerase chain reaction	3
+731	LVEF, left ventricular ejection fraction	3
+1716	reverse transcription–polymerase chain reaction	3
+1144	Reverse transcription polymerase chain reaction	3
+1140	Reverse transcriptase-polymerase chain reaction	3
+1357	Viral load	3
+1655	pregnancy	3
+511	FDA, Food and Drug Administration	3
+535	FiO2, fraction of inspired oxygen	3
+1310	Testing	3
+1188	SARS-CoV-2, severe acute respiratory syndrome-coronavirus-2	3
+1376	Wuhan	3
+464	ELISA	3
+1244	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	3
+1443	coronavirus disease 2019 (covid-19)	3
+1442	coronavirus disease 2019 (COVID-19)	3
+908	PCR, Polymerase chain reaction	3
+906	PCR	3
+1440	coronavirus disease	3
+1620	pandemic	3
+1265	Spike protein	3
+1085	RT-PCR, real-time polymerase chain reaction	3
+864	Nucleocapsid protein	3
+800	Mortality	3

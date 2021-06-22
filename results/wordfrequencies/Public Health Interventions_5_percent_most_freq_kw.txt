@@ -1,0 +1,349 @@
+	keywords	counts
+487	COVID-19	1645
+2053	Lockdown	475
+5399	lockdown	437
+3198	SARS-CoV-2	295
+6200	quarantine	292
+5012	health policy	257
+2977	Quarantine	187
+833	Coronavirus	181
+6148	public health	167
+2567	Pandemic	156
+5790	pandemic	149
+2706	Policy	147
+1633	Health policy	134
+4385	coronavirus	126
+876	Covid-19	115
+5922	policy	88
+5513	mental health	79
+528	COVID-19 pandemic	75
+2923	Public health	66
+518	COVID-19 lockdown	61
+4053	anxiety	60
+4498	depression	57
+2586	Pandemics	50
+1818	India	47
+2212	Mental health	44
+4729	epidemiology	41
+6506	social distancing	41
+6170	public policy	41
+223	Air pollution	38
+5895	physical activity	38
+986	Depression	37
+5329	isolation	36
+226	Air quality	36
+283	Anxiety	36
+5045	health systems	36
+6613	stress	35
+1269	Epidemiology	34
+2942	Public policy	33
+556	COVID‐19	32
+3387	Social distancing	30
+1581	Health Policy	30
+4411	covid-19	27
+1515	Government	27
+3620	Telemedicine	26
+6698	telemedicine	26
+703	Climate change	26
+1842	Infection	25
+675	China	25
+2749	Politics	24
+479	COVID 19	24
+4390	coronavirus disease	21
+6307	respiratory infections	21
+3510	Stress	21
+1859	Infectious diseases	20
+5374	lifestyle	19
+4741	ethics	19
+6937	zoonoses	19
+5805	pandemics	19
+4239	children	19
+780	Confinement	19
+661	Children	18
+1940	Isolation	18
+6875	viruses	18
+6444	severe acute respiratory syndrome coronavirus 2	18
+6692	telehealth	17
+1057	Diseases	17
+5233	infectious disease	17
+6161	public health policy	17
+4990	health disparities	16
+3412	Society	16
+6111	psychological distress	16
+6047	prevention	16
+4713	epidemic	16
+1003	Diabetes	16
+4356	contact tracing	16
+1949	Italy	15
+6851	vaccines	15
+1252	Epidemic	15
+1149	Economics	15
+3185	SARS	15
+2297	Mortality	15
+5242	infectious diseases	15
+3698	Trauma	14
+3812	Vaccines	14
+5219	infection control	14
+476	COVID	14
+5415	loneliness	14
+4996	health equity	14
+6300	resilience	14
+2517	Outbreak	13
+5771	outbreak	13
+3128	Respiratory tract infections	13
+3444	Spain	13
+2546	PM2.5	13
+2931	Public health policy	13
+3922	Wuhan	13
+6469	sleep	13
+4963	health	13
+4991	health economics	13
+4528	diet	13
+6903	well-being	13
+1600	Health care	13
+6654	surveillance	12
+5669	novel coronavirus	12
+6520	social isolation	12
+4373	control strategies	12
+6195	quality of life	12
+1284	Ethics	12
+4772	exercise	12
+2914	Public Health	11
+242	Alcohol	11
+6656	survey	11
+3593	Systems of care	11
+3619	Telehealth	11
+6780	travel restrictions	11
+2398	Non-pharmaceutical interventions	11
+1611	Health disparities	11
+2682	Physical activity	11
+5759	organisation of health services	11
+192	Africa	11
+5956	policy making	11
+1488	Global health	11
+4484	dementia	10
+5414	lockdowns	10
+793	Contact tracing	10
+4013	alcohol	10
+1934	Iran	10
+5694	obesity	10
+3535	Suicide	10
+1573	Health	10
+6153	public health ethics	10
+6526	social media	10
+6116	psychological impact	10
+3385	Social determinants of health	9
+3729	Type 1 diabetes	9
+3193	SARS-COV-2	9
+3704	Travel restrictions	9
+3970	adolescents	9
+4964	health & safety	9
+5055	healthcare policy	9
+3614	Technology	9
+2000	Latin America	9
+6050	prevention strategies	9
+770	Compliance	9
+132	Access to care	9
+2903	Psychology	9
+828	Corona virus	9
+6155	public health interventions	9
+3094	Reproduction number	8
+5660	non-pharmaceutical interventions	8
+1213	Employment	8
+1853	Infectious disease	8
+6718	testing	8
+2160	Mathematical model	8
+2081	Lockdowns	8
+1896	Intensive care units	8
+5345	knowledge	8
+2336	NO(2)	8
+4328	compliance	8
+5586	mortality	8
+1953	Japan	8
+6844	vaccine	8
+6762	transmission	8
+2892	Psychological distress	8
+3772	University students	8
+1157	Education	8
+3267	Saudi Arabia	8
+2420	Novel coronavirus	8
+5416	long-term care	8
+3356	Sleep	8
+2383	Nigeria	7
+4743	ethics and public policy	7
+2432	Nurses	7
+6343	risk factors	7
+5469	mathematical model	7
+2530	Ozone	7
+4533	dietary habits	7
+4394	coronavirus disease 2019	7
+2370	Nepal	7
+4340	confinement	7
+3693	Transmission	7
+3516	Stroke	7
+4380	corona	7
+5040	health services research	7
+4009	air quality	7
+5100	home quarantine	7
+2289	Monetary policy	7
+6504	social determinants of health	7
+5563	mobility	7
+5684	nursing homes	7
+1457	Gender	7
+78	2019-nCoV	7
+2552	PTSD	7
+2760	Population health	7
+75	2019 novel coronavirus disease	7
+5690	nutrition	7
+705	Climate policy	7
+6836	vaccination	7
+5407	lockdown measures	7
+534	COVID-19 quarantine	7
+3438	South Korea	7
+5022	health promotion	7
+336	Australia	6
+3703	Travel restriction	6
+2152	Masks	6
+3119	Resilience	6
+6531	social policy	6
+3608	Taiwan	6
+2216	Mental health policy	6
+2469	Older adults	6
+4863	food insecurity	6
+1305	Evidence-based policy	6
+817	Coping	6
+2438	Nursing Policy	6
+4189	cancer	6
+2458	Obesity	6
+3255	Safety net hospitals	6
+1290	Europe	6
+6303	resource allocation	6
+990	Depressive symptoms	6
+1234	Environment	6
+4870	food security	6
+4306	community	6
+5973	policymaking	6
+1262	Epidemics	6
+3214	SARS-Cov-2	6
+2622	Patient care	6
+5217	infection and infectious agents - viral	6
+3240	SIR model	6
+3211	SARS-CoV2	6
+4538	digital health	6
+1978	Korea	6
+3228	SEIR model	6
+1124	Eating disorders	6
+4301	communicable diseases	6
+5578	mood	6
+4665	emergency	6
+5743	ophthalmology	6
+5139	human resource management	6
+3831	Vietnam	6
+1480	Global Health	6
+1649	Health systems	6
+4722	epidemics	6
+1414	Forecasting	6
+2830	Prevention, policy, and public health	6
+6398	screening	6
+1605	Health care providers	6
+5038	health services administration & management	6
+4640	economics	6
+2751	Pollution	6
+3806	Vaccine	6
+611	Careers	6
+6817	university students	6
+228	Air quality index	6
+3838	Virology	6
+1552	HIV	6
+4580	distress	6
+6363	sars-cov-2	6
+1150	Economy	5
+6901	weight gain	5
+3632	Testing	5
+6904	wellbeing	5
+2338	NO2	5
+5757	organ procurement and allocation	5
+4987	health communication	5
+2928	Public health intervention	5
+6151	public health emergency	5
+6287	research	5
+3557	Survey	5
+3833	Violence	5
+5663	nonpharmaceutical interventions	5
+1477	Germany	5
+4693	emotions	5
+3764	United States	5
+5214	inequality	5
+6154	public health intervention	5
+3494	Stigma	5
+4643	education	5
+855	Coronavirus pandemic	5
+6424	self-quarantine	5
+3582	Sweden	5
+6872	virus	5
+3942	access to care	5
+6619	stroke	5
+4896	gender	5
+4981	health care policy	5
+5708	older adults	5
+5279	insomnia	5
+2021	Lifestyle	5
+684	Chronic diseases	5
+2071	Lockdown measures	5
+3931	abortion	5
+6890	vulnerable populations	5
+2206	Mental Health	5
+110	AQI	5
+4436	cruise ship	5
+1961	Jordan	5
+6067	privacy	5
+6376	school closure	5
+3325	Severe acute respiratory syndrome coronavirus 2	5
+5096	home confinement	5
+6642	suicide	5
+6130	psychology	5
+2211	Mental disorders	5
+5250	influenza	5
+6059	primary care	5
+825	Corona	5
+3152	Risk factors	5
+4654	elderly	5
+2674	Pharmaceuticals	5
+363	Bangladesh	5
+1047	Disease control	5
+1270	Epilepsy	5
+1246	Environmental policy	5
+222	Air pollutants	5
+2244	Mexico	5
+1658	Healthcare policy	5
+2008	Lebanon	5
+578	Cancer	5
+2275	Mobility	5
+4376	coping	5
+6188	qualitative research	5
+6189	qualitative study	5
+3350	Simulation	5
+6549	socio-economic	5
+2612	Particulate matter	5
+5926	policy analysis	5
+4587	domestic violence	5
+1794	Impact	5
+2826	Prevention and control	5
+2970	Quality of care	5
+5360	leadership	5
+4360	containment	5
+6340	risk assessment	5
+3731	Type 2 diabetes	5
+2726	Policy making	5
+2380	New Zealand	5
+2163	Mathematical modelling	5
+4054	anxiety disorders	5
+1224	Energy policy	5
+6328	review	5
+5489	medical education	5
+2944	Public policy issues	5
+779	Confinamiento	5
+1434	Funding	5
+2267	Mitigation	5
+5065	healthcare workers	5
+3749	Uganda	5

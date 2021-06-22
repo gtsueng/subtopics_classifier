@@ -1,0 +1,78 @@
+	keywords	counts
+89	COVID-19	308
+639	SARS-CoV-2	162
+1455	surveillance	145
+735	Surveillance	80
+1282	pandemic	32
+943	coronavirus	29
+1339	public health	28
+174	Coronavirus	26
+1041	epidemiology	22
+539	Pandemic	19
+1343	public health surveillance	17
+588	Public health	15
+182	Covid-19	14
+590	Public health surveillance	14
+1149	influenza	12
+1075	genomic surveillance	11
+935	contact tracing	11
+1143	infectious disease	11
+1234	mortality	11
+1417	severe acute respiratory syndrome coronavirus 2	10
+1157	infoveillance	10
+265	Epidemiology	10
+944	coronavirus disease	10
+826	Wastewater-based epidemiology	10
+1372	respiratory infections	9
+820	Wastewater	9
+1156	infodemiology	9
+1279	outbreak	9
+1414	serology	9
+998	disease surveillance	8
+688	Sewage	8
+604	RT-PCR	8
+1426	social media	7
+257	Environmental surveillance	7
+225	Disease surveillance	7
+984	digital health	7
+1546	zoonoses	7
+1533	viruses	7
+1483	testing	6
+866	app	6
+1185	lockdown	6
+822	Wastewater surveillance	6
+1471	syndromic surveillance	6
+312	Google Trends	6
+99	COVID-19 pandemic	6
+1461	surveillance system	6
+783	Twitter	5
+115	COVID‐19	5
+1325	prevention	5
+1350	quarantine	5
+1424	social distancing	5
+275	Europe	5
+384	Infectious disease	5
+1233	monitoring	5
+301	Genomic surveillance	5
+370	India	5
+545	Pandemics	5
+1406	sentinel surveillance	5
+1286	pandemics	5
+718	Spain	5
+580	Prevention	5
+80	Brazil	4
+264	Epidemiological surveillance	4
+1329	privacy	4
+1155	infodemic	4
+386	Infectious diseases	4
+120	Canada	4
+651	SARS-Cov-2	4
+1536	wastewater surveillance	4
+1398	screening	4
+1034	epidemic	4
+177	Coronavirus disease 2019	4
+794	Vaccines	4
+1416	serosurveillance	4
+1493	transmission	4
+1415	seroprevalence	4
+1516	variants of concern	4

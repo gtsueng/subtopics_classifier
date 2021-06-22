@@ -1,0 +1,200 @@
+	keywords	counts
+133	COVID-19	404
+867	SARS-CoV-2	149
+799	Radiology	73
+1650	pathology	68
+241	Coronavirus	65
+1750	radiology	55
+706	Pathology	41
+1416	immunopathology	34
+1215	coronavirus	32
+698	Pandemic	21
+1382	histopathology	20
+1110	autopsy	20
+1692	pneumonia	17
+419	Histopathology	17
+1730	psychopathology	16
+1640	pandemic	16
+460	Immunopathology	15
+95	Autopsy	15
+260	Covid-19	14
+1461	interventional radiology	12
+498	Interventional radiology	12
+777	Psychopathology	11
+742	Pneumonia	11
+304	Diffuse alveolar damage	9
+1218	coronavirus disease 2019	9
+1593	neuropathology	8
+1240	cytokine storm	8
+1957	virology	8
+1689	placental pathology	8
+1411	immunohistochemistry	8
+1388	hospital	8
+1103	artificial intelligence	8
+79	Anxiety	7
+1431	infections	7
+1435	infectious diseases	7
+1916	treatment	7
+1438	inflammation	7
+1824	severe acute respiratory syndrome coronavirus 2	7
+926	Stress	7
+1257	diagnostic radiology	7
+1242	cytopathology	7
+470	Infection control	7
+1653	pathology department	7
+1706	pregnancy	7
+307	Digital pathology	7
+293	Diagnosis	7
+1334	forensic pathology	7
+642	Neuropathology	6
+1595	neuroradiology	6
+161	CT	6
+268	Cytokine storm	6
+737	Placental pathology	6
+1779	renal pathology	6
+205	Children	6
+604	Molecular pathology	6
+1265	diffuse alveolar damage	6
+876	SARS-CoV2	6
+1198	computed tomography	6
+855	SARS	6
+1217	coronavirus disease	6
+1292	education	6
+1502	lung pathology	5
+1441	influenza	5
+1872	surgical	5
+1255	diagnosis	5
+357	Epidemiology	5
+1427	infection control	5
+1495	lung	5
+45	Acute respiratory distress syndrome	5
+700	Pandemics	5
+959	Teleradiology	5
+584	Mental health	5
+457	Immunohistochemistry	5
+1525	medical education	5
+1752	radiology (diagnostics)	5
+1934	vaccine	5
+1219	coronavirus disease 2019 (COVID-19)	5
+474	Infectious disease	5
+248	Coronavirus disease 2019	5
+1898	therapy	5
+1231	covid-19	5
+422	Hospital	4
+1968	viruses	4
+442	Imaging	4
+475	Infectious diseases	4
+1647	pathogenesis	4
+458	Immunology	4
+1693	pneumonia (infectious disease)	4
+973	Thrombosis	4
+1662	pathology, molecular	4
+198	Chest X-ray	4
+1100	anxiety	4
+232	Computed tomography	4
+282	Deep learning	4
+162	CT scan	4
+1144	cardiovascular pathology	4
+288	Depression	4
+155	COVID19	4
+14	2019-nCoV	4
+335	Education	4
+1707	preparedness	4
+145	COVID-19 pneumonia	4
+343	Emergency radiology	4
+143	COVID-19 pandemic	4
+979	Tomography	4
+1894	telepathology	4
+1542	mental health	4
+1896	teleradiology	4
+565	Management	4
+834	Residency	4
+827	Remote learning	4
+1947	venous thromboembolism	4
+1268	digital pathology	4
+1314	epidemiology	4
+780	Pulmonary pathology	4
+1466	kidney biopsy	4
+554	MERS-CoV	4
+791	RT-PCR	4
+532	Liver	4
+1054	acute kidney injury	3
+803	Radiology education	3
+718	Pediatric radiology	3
+316	Diversity	3
+193	Chest CT	3
+1734	public health	3
+1010	Vertical transmission	3
+1016	Virology	3
+299	Diagnostic imaging	3
+795	Radiographer	3
+1742	quality assurance	3
+1147	case series	3
+732	Physiopathology	3
+1813	safety	3
+244	Coronavirus Disease 2019	3
+1792	respiratory medicine	3
+1138	cancer	3
+805	Radiology images	3
+778	Public health	3
+1756	radiology department	3
+1399	image processing, computer-assisted	3
+1761	radiology practice	3
+1033	Wellness	3
+1136	burnout	3
+1123	biopsy	3
+216	Clinical pathology	3
+1709	prevention	3
+1425	infection	3
+1298	electron microscopy	3
+892	Safety	3
+1589	neurology	3
+1246	deep learning	3
+527	Leadership	3
+478	Inflammation	3
+539	Lung	3
+1328	fibrosis	3
+575	Medical education	3
+448	Immnopathology	3
+581	Medical student education	3
+430	ICU, intensive care unit	3
+1634	outbreak	3
+893	Sars-CoV-2	3
+1501	lung neoplasms	3
+184	Case report	3
+644	Neuroradiology	3
+842	Resilience	3
+1654	pathology education	3
+396	HIV	3
+1454	internal medicine	3
+860	SARS coronavirus	3
+1678	personal protective equipment	3
+372	Forensic pathology	3
+1687	placenta	3
+1166	chest radiography	3
+1165	chest imaging	3
+1434	infectious disease	3
+1694	pneumonia (respiratory medicine)	3
+848	Respiratory tract infections	3
+1003	Vaccination	3
+489	Internal medicine	3
+802	Radiology department	3
+1091	animal models	3
+1951	viral	3
+17	ACE2	3
+30	AKI	3
+121	Burnout	3
+129	COVID 19	3
+33	ARDS	3
+173	Cancer	3
+156	COVID‐19	3
+1904	thrombosis	3
+1863	stroke	3
+1948	vertical transmission	3
+1282	distance learning	2
+858	SARS CoV-2	2
+493	Interventional Radiology	2
+1251	dermatopathology	2
+490	Internship and residency	2
+1960	virtual learning	2
+1893	telemedicine	2

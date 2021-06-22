@@ -1,0 +1,49 @@
+	keywords	counts
+30	COVID-19	97
+193	SARS-CoV-2	72
+459	viral shedding	47
+252	Viral shedding	30
+467	virus shedding	12
+426	shedding	11
+290	coronavirus	11
+173	RT-PCR	10
+55	Coronavirus disease 2019	8
+56	Coronavirus disease 2019 (COVID-19)	8
+256	Virus shedding	8
+417	risk factors	5
+249	Viral load	5
+52	Coronavirus	5
+440	transmission	5
+423	severe acute respiratory syndrome coronavirus 2	5
+215	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	4
+452	viral RNA shedding	4
+234	Transmission	4
+293	coronavirus disease 2019	3
+58	Corticosteroid	3
+78	Epidemiology	3
+103	IL-6	3
+284	children	3
+339	infectivity	3
+41	Children	3
+292	coronavirus disease	3
+474	zoonoses	3
+470	viruses	3
+247	Viral Shedding	3
+209	Saliva	2
+420	sensitivity	2
+113	Infectivity	2
+15	Antibody response	2
+396	prolonged shedding	2
+262	Wastewater-based epidemiology (WBE)	2
+397	prolonged viral shedding	2
+424	severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	2
+13	Antibodies	2
+64	D614G mutation	2
+219	Shedding	2
+385	pneumonia	2
+182	Risk factor	2
+454	viral clearance	2
+16	Asymptomatic	2
+465	virus classification	2
+70	Disease severity	2
+366	negative conversion	2

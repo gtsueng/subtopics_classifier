@@ -1,0 +1,9 @@
+	keywords	counts
+67	COVID-19	180
+509	drug repurposing	158
+339	SARS-CoV-2	146
+141	Drug repurposing	95
+778	virtual screening	20
+616	molecular docking	17
+244	Molecular docking	16
+425	antiviral	14

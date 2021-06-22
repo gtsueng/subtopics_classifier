@@ -1,0 +1,57 @@
+	keywords	counts
+362	COVID-19	1331
+2504	SARS-CoV-2	360
+5041	risk factors	259
+2419	Risk factors	173
+714	Coronavirus	99
+5076	risk perception	98
+5039	risk factor	85
+4432	mortality	81
+3473	coronavirus	80
+5011	risk	76
+2377	Risk	73
+4606	pandemic	70
+3401	comorbidity	66
+744	Covid-19	64
+1768	Mortality	58
+659	Comorbidity	58
+2000	Pandemic	56
+5019	risk assessment	48
+2416	Risk factor	46
+2444	Risk perception	44
+2396	Risk assessment	42
+4890	public health	41
+5057	risk management	40
+3757	epidemiology	38
+411	COVID-19 pandemic	31
+2406	Risk communication	28
+5031	risk communication	27
+4383	mental health	26
+3146	anxiety	24
+5095	risk stratification	24
+2232	Public health	22
+4825	prognosis	22
+3997	healthcare workers	21
+1026	Epidemiology	21
+468	COVID‐19	20
+5200	severity	19
+3584	depression	19
+722	Coronavirus disease 2019	19
+2184	Prognosis	19
+4667	perceived risk	18
+3478	coronavirus disease 2019	18
+569	China	18
+841	Diabetes	18
+4390	meta-analysis	17
+2425	Risk management	17
+4685	personal protective equipment	16
+3589	diabetes	16
+4538	obesity	16
+1476	Infection risk	16
+3477	coronavirus disease	16
+5189	severe acute respiratory syndrome coronavirus 2	15
+4157	inflammation	15
+5240	social distancing	15
+4243	knowledge	15
+1907	Obesity	15
+4795	prevalence	15

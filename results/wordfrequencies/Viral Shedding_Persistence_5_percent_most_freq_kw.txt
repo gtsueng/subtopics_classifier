@@ -1,0 +1,25 @@
+	keywords	counts
+30	COVID-19	97
+193	SARS-CoV-2	72
+459	viral shedding	47
+252	Viral shedding	30
+467	virus shedding	12
+426	shedding	11
+290	coronavirus	11
+173	RT-PCR	10
+55	Coronavirus disease 2019	8
+56	Coronavirus disease 2019 (COVID-19)	8
+256	Virus shedding	8
+417	risk factors	5
+249	Viral load	5
+52	Coronavirus	5
+440	transmission	5
+423	severe acute respiratory syndrome coronavirus 2	5
+215	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	4
+452	viral RNA shedding	4
+234	Transmission	4
+293	coronavirus disease 2019	3
+58	Corticosteroid	3
+78	Epidemiology	3
+103	IL-6	3
+284	children	3

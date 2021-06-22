@@ -1,0 +1,17 @@
+	keywords	counts
+70	case study	21
+6	COVID-19	16
+92	epidemiology	6
+78	coronavirus	4
+48	SARS-CoV-2	3
+126	pandemic	3
+101	health systems	3
+10	Case study	3
+96	global health	3
+118	non pharmaceutical intervention	2
+18	Coronavirus	2
+116	media coverage	2
+119	non-pharmaceutical interventions	2
+61	acute respiratory disease	2
+23	Education	2
+67	breastfeeding	2

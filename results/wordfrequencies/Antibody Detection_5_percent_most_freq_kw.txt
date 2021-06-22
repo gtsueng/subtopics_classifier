@@ -1,0 +1,125 @@
+	keywords	counts
+228	COVID-19	595
+1038	SARS-CoV-2	574
+1336	antibody	165
+2297	seroprevalence	110
+93	Antibody	100
+1137	Seroprevalence	61
+1560	coronavirus	55
+2030	neutralizing antibody	53
+2290	serology	51
+585	IgG	38
+419	ELISA	37
+1548	convalescent plasma	31
+2425	vaccine	30
+1976	monoclonal antibody	30
+341	Coronavirus	28
+1368	antibody response	24
+1135	Serology	24
+1812	immunity	23
+1755	healthcare workers	23
+1335	antibodies	20
+2024	neutralization	20
+2341	spike protein	19
+1390	antibody-dependent enhancement	18
+2308	severe acute respiratory syndrome coronavirus 2	17
+534	Healthcare workers	16
+2029	neutralizing antibodies	16
+808	Neutralizing antibody	15
+955	RBD	15
+2469	viruses	15
+122	Antibody testing	14
+748	Monoclonal antibody	14
+2336	spike	14
+21	ACE2	14
+973	RT-PCR	13
+1563	coronavirus disease	13
+1373	antibody test	13
+1376	antibody testing	13
+2238	respiratory infections	13
+2480	zoonoses	12
+357	Covid-19	12
+580	IgA	12
+115	Antibody response	12
+599	IgM	11
+1047	SARS-CoV-2 antibody	11
+2068	pandemic	11
+1686	epidemiology	10
+1574	covid-19	10
+1618	diagnosis	10
+654	Italy	10
+1166	Spike	9
+1262	Vaccine	9
+1748	health care workers	9
+2150	prevalence	9
+1584	cross-reactivity	8
+1848	infection	8
+1427	asymptomatic	8
+883	Pandemic	8
+130	Antibody-dependent enhancement	8
+347	Coronavirus disease 2019 (COVID-19)	8
+2096	phage display	8
+611	Immunity	8
+1059	SARS-CoV-2 seroprevalence	8
+2270	sensitivity	8
+1815	immunoassay	8
+1023	SARS	8
+1687	epitope	8
+613	Immunoassay	7
+91	Antibodies	7
+2273	seroconversion	7
+2333	specificity	7
+1860	inflammation	7
+1565	coronavirus disease 2019	7
+2215	receptor-binding domain	7
+1627	diagnostics	7
+1036	SARS-CoV	7
+856	PCR	7
+10	2019-nCoV	6
+1145	Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	6
+1357	antibody kinetics	6
+1448	bamlanivimab	6
+1503	children	6
+1344	antibody cocktail	6
+1377	antibody tests	6
+123	Antibody tests	6
+392	Diagnosis	6
+2257	sars-cov-2	6
+222	COVID	6
+331	Convalescent plasma	6
+1080	SARS-CoV2	6
+449	Epidemiology	6
+1888	kinetics	6
+1840	immunotherapy	6
+1082	SARS-Cov-2	6
+2025	neutralization assay	6
+1468	blood donors	6
+231	COVID-19 antibody	5
+2310	severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)	5
+659	Japan	5
+591	IgG antibody	5
+2081	pathogenesis	5
+2228	reinfection	5
+2147	pregnancy	5
+720	MERS-CoV	5
+1264	Vaccines	5
+173	BNT162b2	5
+1196	T cells	5
+147	Asymptomatic	5
+1010	Risk factors	5
+262	COVID19	5
+1133	Serological test	5
+1117	Sensitivity	5
+1825	immunoglobulin	5
+373	Cytokine storm	5
+2434	variant	5
+2287	serological test	5
+263	COVID‐19	5
+1762	herd immunity	5
+2457	virus	5
+1836	immunology	5
+1760	hemodialysis	5
+105	Antibody detection	5
+1400	antigen	5
+2051	nucleoprotein	5
+2048	nucleocapsid	5

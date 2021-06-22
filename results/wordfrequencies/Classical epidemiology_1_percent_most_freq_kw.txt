@@ -1,0 +1,7 @@
+	keywords	counts
+36	COVID-19	155
+369	contact tracing	104
+65	Contact tracing	78
+276	SARS-CoV-2	61
+380	coronavirus	16
+75	Coronavirus	14

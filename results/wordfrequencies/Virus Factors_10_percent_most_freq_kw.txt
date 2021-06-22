@@ -1,0 +1,14 @@
+	keywords	counts
+5	COVID-19	13
+45	SARS-CoV-2	12
+120	viral protein	4
+93	mass spectrometry	3
+108	proteomics	3
+126	virulence factors	3
+57	Viral protein	3
+59	Viral proteins	3
+106	protein-protein interaction	2
+18	Genetic association	2
+60	Virology	2
+99	peptides	2
+121	viral protein detection	2

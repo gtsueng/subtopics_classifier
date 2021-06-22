@@ -1,0 +1,12 @@
+	keywords	counts
+29	COVID-19	47
+115	SARS-CoV-2	40
+199	rapid test	16
+108	Rapid test	10
+110	Rapid testing	8
+202	rapid testing	7
+62	IgG	6
+203	rapid tests	6
+42	Coronavirus	4
+212	serology	4
+209	sensitivity	4

@@ -1,0 +1,3 @@
+	keywords	counts
+70	case study	21
+6	COVID-19	16

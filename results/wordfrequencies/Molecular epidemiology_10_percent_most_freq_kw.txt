@@ -1,0 +1,13 @@
+	keywords	counts
+53	SARS-CoV-2	18
+5	COVID-19	17
+87	molecular epidemiology	13
+32	Molecular epidemiology	7
+33	Mutation rate	4
+89	mutation	3
+47	RNA-dependent RNA polymerase	3
+118	transmission	3
+49	RdRp	3
+58	South Africa	2
+90	mutation rate	2
+99	phylogenetics	2

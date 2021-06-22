@@ -1,0 +1,156 @@
+	keywords	counts
+89	COVID-19	308
+639	SARS-CoV-2	162
+1455	surveillance	145
+735	Surveillance	80
+1282	pandemic	32
+943	coronavirus	29
+1339	public health	28
+174	Coronavirus	26
+1041	epidemiology	22
+539	Pandemic	19
+1343	public health surveillance	17
+588	Public health	15
+182	Covid-19	14
+590	Public health surveillance	14
+1149	influenza	12
+1075	genomic surveillance	11
+935	contact tracing	11
+1143	infectious disease	11
+1234	mortality	11
+1417	severe acute respiratory syndrome coronavirus 2	10
+1157	infoveillance	10
+265	Epidemiology	10
+944	coronavirus disease	10
+826	Wastewater-based epidemiology	10
+1372	respiratory infections	9
+820	Wastewater	9
+1156	infodemiology	9
+1279	outbreak	9
+1414	serology	9
+998	disease surveillance	8
+688	Sewage	8
+604	RT-PCR	8
+1426	social media	7
+257	Environmental surveillance	7
+225	Disease surveillance	7
+984	digital health	7
+1546	zoonoses	7
+1533	viruses	7
+1483	testing	6
+866	app	6
+1185	lockdown	6
+822	Wastewater surveillance	6
+1471	syndromic surveillance	6
+312	Google Trends	6
+99	COVID-19 pandemic	6
+1461	surveillance system	6
+783	Twitter	5
+115	COVID‐19	5
+1325	prevention	5
+1350	quarantine	5
+1424	social distancing	5
+275	Europe	5
+384	Infectious disease	5
+1233	monitoring	5
+301	Genomic surveillance	5
+370	India	5
+545	Pandemics	5
+1406	sentinel surveillance	5
+1286	pandemics	5
+718	Spain	5
+580	Prevention	5
+80	Brazil	4
+264	Epidemiological surveillance	4
+1329	privacy	4
+1155	infodemic	4
+386	Infectious diseases	4
+120	Canada	4
+651	SARS-Cov-2	4
+1536	wastewater surveillance	4
+1398	screening	4
+1034	epidemic	4
+177	Coronavirus disease 2019	4
+794	Vaccines	4
+1416	serosurveillance	4
+1493	transmission	4
+1415	seroprevalence	4
+1516	variants of concern	4
+290	France	4
+361	IgG	4
+624	Risk assessment	4
+1254	non-pharmaceutical interventions	3
+568	Population surveillance	3
+1040	epidemiological surveillance	3
+567	Population health	3
+388	Influenza	3
+404	Italy	3
+954	covid-19	3
+945	coronavirus disease 2019	3
+532	PCR	3
+765	Testing	3
+11	2019-nCoV	3
+10	2019 novel coronavirus disease	3
+334	Health surveillance	3
+754	Syndromic surveillance	3
+1367	reproduction number	3
+613	Real-time RT-PCR	3
+167	Contact tracing	3
+213	Diagnostics	3
+1207	medical informatics	3
+674	Sentinel surveillance	3
+743	Surveillance system	3
+686	Severe acute respiratory syndrome coronavirus 2	3
+224	Disease outbreaks	3
+1067	general practice	3
+137	China	3
+586	Public Health	3
+1261	novel coronavirus	3
+1008	eHealth	3
+260	Epidemics	3
+35	Africa	3
+59	B.1.1.7	3
+1232	molecular surveillance	3
+1456	surveillance and monitoring	3
+1027	emerging infectious disease	3
+1310	population surveillance	3
+1291	participatory surveillance	3
+526	Outbreak	3
+1037	epidemics	3
+1477	telemedicine	3
+879	big data	3
+633	SARS	3
+1035	epidemic surveillance	3
+658	SaTScan	3
+1513	variant	3
+1148	inflammation	3
+1240	mutation	3
+1323	preparedness	3
+1535	wastewater	3
+483	Mortality	3
+506	Nigeria	3
+100	COVID-19 surveillance	3
+1379	review	2
+1360	real-world data	2
+1210	medical record systems, computerized	2
+1245	natural selection	2
+1235	mortality rate	2
+1038	epidemiologic methods	2
+1049	excess deaths	2
+562	Point-of-care	2
+363	IgM	2
+1033	environmental surveillance	2
+703	Social media	2
+636	SARS-COV-2	2
+1363	records as topic	2
+1284	pandemic preparedness	2
+1366	reopening America	2
+701	Social distancing	2
+1280	outbreaks	2
+1004	dynamic panel data	2
+208	Detection	2
+200	Decision-making	2
+1299	phylogenetics	2
+204	Democratic Republic of Congo	2
+1285	pandemic response	2
+685	Severe acute respiratory syndrome	2

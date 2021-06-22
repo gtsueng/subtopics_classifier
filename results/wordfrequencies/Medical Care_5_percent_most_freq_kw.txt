@@ -1,0 +1,11 @@
+	keywords	counts
+8	COVID-19	32
+151	hospital care	17
+181	prehospital care	9
+79	SARS-CoV-2	6
+160	medical care	5
+195	supportive care	4
+42	Hospital care	4
+170	nursing homes	3
+174	pandemic	3
+198	terminal care	3

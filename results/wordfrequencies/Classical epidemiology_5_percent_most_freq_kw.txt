@@ -1,0 +1,33 @@
+	keywords	counts
+36	COVID-19	155
+369	contact tracing	104
+65	Contact tracing	78
+276	SARS-CoV-2	61
+380	coronavirus	16
+75	Coronavirus	14
+564	quarantine	14
+547	privacy	11
+557	public health	11
+381	coronavirus disease	10
+79	Covid-19	9
+583	severe acute respiratory syndrome coronavirus 2	9
+242	Privacy	9
+434	epidemiology	9
+632	viruses	9
+637	zoonoses	9
+525	pandemic	8
+572	respiratory infections	8
+599	surveillance	7
+472	infectious disease	7
+274	SARS	6
+63	Contact Tracing	6
+485	isolation	6
+222	Pandemic	6
+105	Doubling time	6
+615	transmission	6
+90	Digital contact tracing	6
+553	proximity tracing	5
+116	Epidemiology	5
+494	mHealth	5
+492	lockdown	5
+587	social distancing	5

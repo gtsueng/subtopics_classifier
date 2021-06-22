@@ -1,0 +1,46 @@
+	keywords	counts
+381	COVID-19	1132
+1933	SARS-CoV-2	756
+4361	vaccine	429
+2293	Vaccine	285
+2372	Vaccines	256
+4454	vaccines	208
+2821	coronavirus	124
+597	Coronavirus	107
+441	COVID-19 vaccine	86
+4408	vaccine hesitancy	84
+3753	pandemic	61
+632	Covid-19	54
+2332	Vaccine hesitancy	50
+1586	Pandemic	40
+4349	vaccination	37
+4395	vaccine development	37
+3958	public health	36
+2281	Vaccination	36
+1145	Infection	34
+3457	mRNA vaccine	34
+4201	spike protein	30
+2751	clinical trials	28
+447	COVID-19 vaccines	26
+1108	Immunology	24
+1761	Public health	24
+3333	influenza	24
+4364	vaccine acceptance	23
+4277	therapeutics	22
+3458	mRNA vaccines	22
+547	Clinical trials	21
+2848	covid-19	21
+3447	mRNA	21
+3338	influenza vaccine	20
+3252	immunity	20
+3254	immunization	20
+3908	pregnancy	19
+1907	SARS	19
+1956	SARS-CoV-2 vaccine	19
+3241	immune response	19
+4093	safety	19
+812	Epidemiology	18
+2564	antibody	18
+1966	SARS-CoV2	18
+1929	SARS-CoV	18
+1924	SARS-COV-2	18

@@ -1,0 +1,100 @@
+	keywords	counts
+133	COVID-19	404
+867	SARS-CoV-2	149
+799	Radiology	73
+1650	pathology	68
+241	Coronavirus	65
+1750	radiology	55
+706	Pathology	41
+1416	immunopathology	34
+1215	coronavirus	32
+698	Pandemic	21
+1382	histopathology	20
+1110	autopsy	20
+1692	pneumonia	17
+419	Histopathology	17
+1730	psychopathology	16
+1640	pandemic	16
+460	Immunopathology	15
+95	Autopsy	15
+260	Covid-19	14
+1461	interventional radiology	12
+498	Interventional radiology	12
+777	Psychopathology	11
+742	Pneumonia	11
+304	Diffuse alveolar damage	9
+1218	coronavirus disease 2019	9
+1593	neuropathology	8
+1240	cytokine storm	8
+1957	virology	8
+1689	placental pathology	8
+1411	immunohistochemistry	8
+1388	hospital	8
+1103	artificial intelligence	8
+79	Anxiety	7
+1431	infections	7
+1435	infectious diseases	7
+1916	treatment	7
+1438	inflammation	7
+1824	severe acute respiratory syndrome coronavirus 2	7
+926	Stress	7
+1257	diagnostic radiology	7
+1242	cytopathology	7
+470	Infection control	7
+1653	pathology department	7
+1706	pregnancy	7
+307	Digital pathology	7
+293	Diagnosis	7
+1334	forensic pathology	7
+642	Neuropathology	6
+1595	neuroradiology	6
+161	CT	6
+268	Cytokine storm	6
+737	Placental pathology	6
+1779	renal pathology	6
+205	Children	6
+604	Molecular pathology	6
+1265	diffuse alveolar damage	6
+876	SARS-CoV2	6
+1198	computed tomography	6
+855	SARS	6
+1217	coronavirus disease	6
+1292	education	6
+1502	lung pathology	5
+1441	influenza	5
+1872	surgical	5
+1255	diagnosis	5
+357	Epidemiology	5
+1427	infection control	5
+1495	lung	5
+45	Acute respiratory distress syndrome	5
+700	Pandemics	5
+959	Teleradiology	5
+584	Mental health	5
+457	Immunohistochemistry	5
+1525	medical education	5
+1752	radiology (diagnostics)	5
+1934	vaccine	5
+1219	coronavirus disease 2019 (COVID-19)	5
+474	Infectious disease	5
+248	Coronavirus disease 2019	5
+1898	therapy	5
+1231	covid-19	5
+422	Hospital	4
+1968	viruses	4
+442	Imaging	4
+475	Infectious diseases	4
+1647	pathogenesis	4
+458	Immunology	4
+1693	pneumonia (infectious disease)	4
+973	Thrombosis	4
+1662	pathology, molecular	4
+198	Chest X-ray	4
+1100	anxiety	4
+232	Computed tomography	4
+282	Deep learning	4
+162	CT scan	4
+1144	cardiovascular pathology	4
+288	Depression	4
+155	COVID19	4
+14	2019-nCoV	4

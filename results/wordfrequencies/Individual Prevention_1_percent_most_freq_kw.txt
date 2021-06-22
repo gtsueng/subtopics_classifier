@@ -1,0 +1,29 @@
+	keywords	counts
+195	COVID-19	650
+2392	personal protective equipment	306
+1112	Personal protective equipment	168
+1302	SARS-CoV-2	165
+2349	pandemic	61
+318	Coronavirus	58
+1764	coronavirus	57
+1946	face mask	54
+527	Face mask	48
+1954	face masks	45
+1104	Personal Protective Equipment	39
+1038	PPE	37
+533	Face masks	37
+343	Covid-19	36
+1067	Pandemic	33
+1113	Personal protective equipment (PPE)	30
+2393	personal protective equipment (PPE)	26
+672	Healthcare workers	21
+2071	healthcare workers	19
+890	N95	18
+2643	social distancing	17
+1110	Personal protection equipment	17
+2386	personal protection equipment	17
+2583	safety	16
+2123	infection control	15
+1788	covid-19	14
+2492	public health	13
+30	3D printing	13

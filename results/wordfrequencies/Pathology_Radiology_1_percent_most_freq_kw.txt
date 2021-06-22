@@ -1,0 +1,21 @@
+	keywords	counts
+133	COVID-19	404
+867	SARS-CoV-2	149
+799	Radiology	73
+1650	pathology	68
+241	Coronavirus	65
+1750	radiology	55
+706	Pathology	41
+1416	immunopathology	34
+1215	coronavirus	32
+698	Pandemic	21
+1382	histopathology	20
+1110	autopsy	20
+1692	pneumonia	17
+419	Histopathology	17
+1730	psychopathology	16
+1640	pandemic	16
+460	Immunopathology	15
+95	Autopsy	15
+260	Covid-19	14
+1461	interventional radiology	12

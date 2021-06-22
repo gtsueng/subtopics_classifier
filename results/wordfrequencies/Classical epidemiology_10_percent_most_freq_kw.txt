@@ -1,0 +1,65 @@
+	keywords	counts
+36	COVID-19	155
+369	contact tracing	104
+65	Contact tracing	78
+276	SARS-CoV-2	61
+380	coronavirus	16
+75	Coronavirus	14
+564	quarantine	14
+547	privacy	11
+557	public health	11
+381	coronavirus disease	10
+79	Covid-19	9
+583	severe acute respiratory syndrome coronavirus 2	9
+242	Privacy	9
+434	epidemiology	9
+632	viruses	9
+637	zoonoses	9
+525	pandemic	8
+572	respiratory infections	8
+599	surveillance	7
+472	infectious disease	7
+274	SARS	6
+63	Contact Tracing	6
+485	isolation	6
+222	Pandemic	6
+105	Doubling time	6
+615	transmission	6
+90	Digital contact tracing	6
+553	proximity tracing	5
+116	Epidemiology	5
+494	mHealth	5
+492	lockdown	5
+587	social distancing	5
+320	Transmission	5
+67	Contact tracing apps	5
+258	Quarantine	5
+505	mobile apps	5
+249	Public Health	4
+215	Outbreak	4
+376	containment	4
+426	epidemic	4
+404	digital health	4
+299	South Korea	4
+294	Social distancing	4
+342	app	4
+401	digital contact tracing	4
+156	India	4
+584	smartphone	4
+518	non-pharmaceutical interventions	3
+92	Digital ethics	3
+533	personal protective equipment	3
+580	serial interval	3
+181	Lockdown	3
+187	Mathematical model	3
+57	Communicable disease control	3
+0	2019 novel coronavirus disease	3
+22	Australia	3
+392	deep learning	3
+350	big data	3
+54	China	3
+631	virus	3
+283	Security	3
+251	Public health	3
+317	Testing	3
+382	coronavirus disease 2019	3

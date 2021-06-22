@@ -1,0 +1,71 @@
+	keywords	counts
+487	COVID-19	1645
+2053	Lockdown	475
+5399	lockdown	437
+3198	SARS-CoV-2	295
+6200	quarantine	292
+5012	health policy	257
+2977	Quarantine	187
+833	Coronavirus	181
+6148	public health	167
+2567	Pandemic	156
+5790	pandemic	149
+2706	Policy	147
+1633	Health policy	134
+4385	coronavirus	126
+876	Covid-19	115
+5922	policy	88
+5513	mental health	79
+528	COVID-19 pandemic	75
+2923	Public health	66
+518	COVID-19 lockdown	61
+4053	anxiety	60
+4498	depression	57
+2586	Pandemics	50
+1818	India	47
+2212	Mental health	44
+4729	epidemiology	41
+6506	social distancing	41
+6170	public policy	41
+223	Air pollution	38
+5895	physical activity	38
+986	Depression	37
+5329	isolation	36
+226	Air quality	36
+283	Anxiety	36
+5045	health systems	36
+6613	stress	35
+1269	Epidemiology	34
+2942	Public policy	33
+556	COVID‐19	32
+3387	Social distancing	30
+1581	Health Policy	30
+4411	covid-19	27
+1515	Government	27
+3620	Telemedicine	26
+6698	telemedicine	26
+703	Climate change	26
+1842	Infection	25
+675	China	25
+2749	Politics	24
+479	COVID 19	24
+4390	coronavirus disease	21
+6307	respiratory infections	21
+3510	Stress	21
+1859	Infectious diseases	20
+5374	lifestyle	19
+4741	ethics	19
+6937	zoonoses	19
+5805	pandemics	19
+4239	children	19
+780	Confinement	19
+661	Children	18
+1940	Isolation	18
+6875	viruses	18
+6444	severe acute respiratory syndrome coronavirus 2	18
+6692	telehealth	17
+1057	Diseases	17
+5233	infectious disease	17
+6161	public health policy	17
+4990	health disparities	16
+3412	Society	16

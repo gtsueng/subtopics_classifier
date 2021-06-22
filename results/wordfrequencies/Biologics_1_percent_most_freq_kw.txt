@@ -1,0 +1,18 @@
+	keywords	counts
+165	COVID-19	322
+875	SARS-CoV-2	192
+1203	convalescent plasma	139
+286	Convalescent plasma	87
+1217	coronavirus	24
+1538	plasma	19
+1208	convalescent plasma therapy	18
+764	Plasma	17
+1494	neutralizing antibodies	17
+299	Coronavirus	17
+846	Remdesivir	15
+294	Convalescent plasma therapy	15
+324	Covid-19	12
+1616	remdesivir	12
+1467	mortality	10
+495	Hydroxychloroquine	10
+781	Plasmapheresis	10

@@ -1,0 +1,9 @@
+	keywords	counts
+19	COVID-19	25
+92	Viral transmission	15
+67	SARS-CoV-2	13
+153	viral transmission	12
+106	coronavirus	4
+25	Coronavirus	3
+151	surgical smoke	2
+4	ACE2	2

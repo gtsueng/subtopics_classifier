@@ -1,0 +1,60 @@
+	keywords	counts
+546	COVID-19	1064
+2831	SARS-CoV-2	661
+4111	drug repurposing	158
+3897	coronavirus	107
+1083	Drug repurposing	95
+827	Coronavirus	90
+3609	antivirals	71
+3601	antiviral drugs	51
+4061	drug discovery	49
+2016	Molecular docking	48
+357	Antivirals	47
+4829	molecular docking	44
+1043	Drug discovery	43
+864	Covid-19	41
+346	Antiviral drugs	39
+107	ACE2	38
+5415	remdesivir	35
+1142	Drugs	34
+4483	hydroxychloroquine	33
+4177	drugs	33
+1579	Hydroxychloroquine	32
+5847	virtual screening	32
+4836	molecular dynamics	30
+5801	vaccines	29
+3271	Vaccines	28
+5753	treatment	28
+4054	drug design	27
+5096	pandemic	27
+3592	antiviral	26
+5791	vaccine	26
+2823	SARS-CoV	25
+1079	Drug repositioning	25
+2716	Remdesivir	25
+2374	Pandemic	25
+3842	clinical trials	25
+4058	drug development	24
+4051	drug delivery	24
+4032	drug	24
+5526	severe acute respiratory syndrome coronavirus 2	22
+4108	drug repositioning	22
+55	2019-nCoV	20
+4020	docking	20
+741	Clinical trials	19
+712	Chloroquine	19
+1032	Drug delivery	19
+331	Antiviral	19
+3322	Virtual screening	18
+3904	coronavirus disease 2019	17
+4571	infectious disease	16
+3943	cytokine storm	16
+3268	Vaccine	16
+540	COVID 19	15
+1041	Drug development	15
+999	Drug	15
+4741	main protease	15
+2695	RdRp	15
+2820	SARS-COV-2	14
+1879	MERS-CoV	14
+3123	TMPRSS2	14

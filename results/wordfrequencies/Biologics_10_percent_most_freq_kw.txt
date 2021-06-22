@@ -1,0 +1,175 @@
+	keywords	counts
+165	COVID-19	322
+875	SARS-CoV-2	192
+1203	convalescent plasma	139
+286	Convalescent plasma	87
+1217	coronavirus	24
+1538	plasma	19
+1208	convalescent plasma therapy	18
+764	Plasma	17
+1494	neutralizing antibodies	17
+299	Coronavirus	17
+846	Remdesivir	15
+294	Convalescent plasma therapy	15
+324	Covid-19	12
+1616	remdesivir	12
+1467	mortality	10
+495	Hydroxychloroquine	10
+781	Plasmapheresis	10
+1096	antibodies	10
+1221	coronavirus disease 2019	10
+1512	pandemic	10
+660	Mycoplasma pneumoniae	10
+772	Plasma therapy	9
+992	Therapeutic plasma exchange	9
+1374	immunotherapy	9
+767	Plasma exchange	9
+1030	Vaccines	9
+217	COVID‐19	9
+283	Convalescent Plasma	9
+1709	vaccine	9
+649	Mortality	8
+1549	plasma exchange	8
+859	SARS	8
+1686	therapeutic plasma exchange	8
+1490	neutralization	8
+1645	severe acute respiratory syndrome coronavirus 2	8
+929	Severe acute respiratory syndrome coronavirus 2	7
+1562	plasma therapy	7
+1569	plasmablasts	7
+1241	cytokine storm	7
+1348	hydroxychloroquine	7
+1097	antibody	7
+35	ARDS	6
+340	Cytokine storm	6
+867	SARS-COV-2	6
+261	Clinical trials	6
+1171	chloroquine	6
+379	ELISA	6
+254	Chloroquine	6
+840	Randomized controlled trial	6
+1495	neutralizing antibody	6
+14	ACE2	6
+526	IgG	6
+609	MERS-CoV	6
+1626	safety	5
+856	Rituximab	5
+308	Coronavirus disease 2019	5
+1380	inflammation	5
+1136	biomarkers	5
+414	Favipiravir	5
+1304	flow cytometry	5
+607	MERS	5
+752	Passive immunization	5
+46	Acute respiratory distress syndrome	5
+791	Pregnancy	5
+1576	plasmapheresis	5
+1517	passive immunization	5
+1581	pneumonia	5
+1694	tocilizumab	5
+1702	treatment	5
+887	SARS-CoV-2, severe acute respiratory syndrome coronavirus 2	5
+1697	transfusion	5
+1463	monoclonal antibodies	5
+339	Cytokine release syndrome	5
+188	COVID-19 convalescent plasma	5
+802	Protocol	4
+1007	Treatment	4
+97	B cells	4
+748	Pandemic	4
+1377	infectious disease	4
+1662	spike protein	4
+1028	Vaccine	4
+850	Respiratory failure	4
+203	COVID-19 serotherapy	4
+1637	serology	4
+1447	meta-analysis	4
+199	COVID-19 pandemic	4
+122	Blood	4
+811	RBD	4
+1287	efficacy	4
+686	Neutralizing antibodies	4
+309	Coronavirus disease 2019 (COVID-19)	4
+634	Meta-analysis	4
+894	SARS-Cov-2	4
+68	Antibodies	4
+1364	immunodeficiency	4
+1229	covid-19	4
+1688	therapy	4
+785	Pneumonia	4
+998	Thrombotic thrombocytopenic purpura	4
+559	Intensive care unit	4
+160	COVID	3
+1582	polyclonal immunoglobulins	3
+69	Antibody	3
+319	Corticosteroids	3
+372	Drugs	3
+546	Immunotherapy	3
+1352	hyperimmune plasma	3
+1220	coronavirus disease	3
+1628	sars-cov-2	3
+1240	cytokine release syndrome	3
+1224	coronaviruses	3
+358	Diabetes	3
+1464	monoclonal antibody	3
+1228	covid 19	3
+829	RT-PCR	3
+1543	plasma cells	3
+923	Serum	3
+525	IgA	3
+229	CRP, C-reactive protein	3
+250	Children	3
+837	Randomised controlled trial	3
+520	IQR, interquartile range	3
+1004	Transfusion	3
+1382	influenza	3
+211	COVID-19, coronavirus disease 2019	3
+997	Thrombosis	3
+881	SARS-CoV-2 infection	3
+897	SARS‐CoV‐2	3
+1519	pathogen inactivation	3
+1069	acute respiratory distress syndrome	3
+506	ICU, intensive care unit	3
+870	SARS-CoV	3
+1597	proteomics	3
+1002	Tocilizumab	3
+1370	immunology	3
+590	Liver transplant	3
+1422	lopinavir/ritonavir	3
+512	IL-6	3
+245	Case report	2
+1521	pathogenesis	2
+265	Co-infection	2
+558	Intensive care	2
+1260	disease severity	2
+760	Phase II clinical trial	2
+570	LC–MS/MS	2
+1515	passive immune therapy	2
+581	Length of stay	2
+1487	neutralising antibody	2
+1486	neutralising antibodies	2
+1537	plaque reduction neutralization test	2
+296	Convalescent plasma transfusion	2
+562	Intravenous immunoglobulin	2
+553	Influenza	2
+1111	antibody-dependent enhancement	2
+281	Convalescent	2
+260	Clinical trial	2
+1107	antibody titer	2
+753	Passive immunotherapy	2
+1099	antibody cocktail	2
+1518	passive immunotherapy	2
+1268	donors	2
+1507	outcome	2
+284	Convalescent Plasma Therapy	2
+253	Chlamydophila pneumoniae	2
+569	LC-MS/MS	2
+756	Pediatric	2
+1105	antibody response	2
+548	Infectious disease	2
+545	Immunosuppression	2
+551	Inflammation	2
+1524	pediatrics	2
+289	Convalescent plasma (CP) therapy	2
+696	OC43	2
+1119	antiviral	2

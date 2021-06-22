@@ -1,0 +1,19 @@
+	keywords	counts
+220	COVID-19	149
+1173	SARS-CoV-2	90
+1643	polymerase chain reaction	35
+995	Polymerase chain reaction	30
+347	Coronavirus	28
+246	COVID-19, coronavirus disease 2019	21
+1187	SARS-CoV-2, severe acute respiratory syndrome coronavirus 2	19
+909	PCR, polymerase chain reaction	14
+984	Pneumonia	12
+1688	real-time polymerase chain reaction	11
+429	Diagnosis	11
+1090	RT-PCR, reverse transcription polymerase chain reaction	11
+1737	severe acute respiratory syndrome coronavirus 2	11
+282	CT, computed tomography	11
+635	ICU, intensive care unit	10
+266	CRP, C-reactive protein	10
+334	Computed tomography	10
+1122	Real-time polymerase chain reaction	9
